@@ -7,7 +7,7 @@ import {Container, Row, Col} from 'reactstrap';
 function App() {
   return (
     <div className="App">
-        <Header color="dark" dark="true" className="mb-4"/>
+        <Header dark="true" className="mb-4"/>
         <Container>
           <Row>
             <Col>
