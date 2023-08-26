@@ -1,17 +1,14 @@
-import { getDistance } from "./sort.js"; 
+import { getDistance } from "./sort"; 
 
 let countries;
-let search_term = '';
-
-const search_input = document.getElementById('search');
 
 const fetchCountries = async () => {
     countries = await fetch(
-        '/locations.geojson'
+        '/data/locations.geojson'
     ).then(res => res.json());
 };
 
-const showCountries = async () => {
+export const showCountries = async (search_term) => {
     const ul = document.getElementById('resultlist');
     ul.innerHTML = '';
 
@@ -38,13 +35,3 @@ const showCountries = async () => {
     });
 };
 
-// display initial countries
-showCountries();
-
-search_input.addEventListener('input', e => {
-    // saving the input value
-    search_term = e.target.value;
-
-    // re-displaying countries based on the new search_term
-    showCountries();
-});
