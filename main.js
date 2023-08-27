@@ -1,16 +1,18 @@
-import { showCountries } from "./search";
+import { showLocations } from "./list";
 import { setUpMap } from "./map";
 
-let coords = {};
+await setUpMap();
 
-let {map, geoLocation} = await setUpMap();
-geoLocation.on('geolocate', function(e) {
-    console.log(e.coords.latitude, e.coords.longitude);
-})
+let {_, geoLocation} = await setUpMap();
+showLocations("");
 
-
-// List
-showCountries("");
+// Search
 document.getElementById('search').addEventListener('input', e => {
-    showCountries(e.target.value);
+    showLocations(e.target.value);
 });
+
+// Geolocation updates
+geoLocation.on('geolocate', function (e) {
+    console.log(e.coords.latitude, e.coords.longitude);
+    showLocations("", e.coords.latitude, e.coords.longitude)
+})
