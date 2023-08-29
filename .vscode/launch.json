@@ -5,13 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "node",
+            "type": "chrome",
             "request": "launch",
-            "name": "Launch Program",
             "skipFiles": [
-                "<node_internals>/**"
+                "${workspaceFolder}/node_modules/**/*.js"
             ],
-            "program": "${file}"
+            "name": "Chrome debug",
+            "url": "http://localhost:5173",
+            "preLaunchTask": "npm: run dev"
         }
     ]
 }
