@@ -1,11 +1,6 @@
 import { Map, NavigationControl, GeolocateControl } from "maplibre-gl";
 
 export async function setUpMap() {
-    let permissionGiven;
-    await navigator.permissions.query({ name: 'geolocation' }).then((value) =>
-        permissionGiven = value.state
-    );
-
     // Maps
     var map = new Map({
         container: "map", // container id
@@ -44,14 +39,7 @@ export async function setUpMap() {
                 "circle-color": "#5390E9"
             }
         });
-        map.resize()
-
-
-
-        if (permissionGiven == "granted"){
-            geoLocation.trigger();
-        }
-
+        map.resize();
     });
 
     return {map, geoLocation};

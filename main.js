@@ -19,10 +19,12 @@ geoLocation.on('geolocate', function (e) {
 
 // Approximate location based on IP when geolocation is not available
 await navigator.permissions.query({ name: 'geolocation' }).then(async (value) => {
-        if (value.state != "granted") {
-            const geo_ip_bbox = await geoIpLocate();
-            console.log(geo_ip_bbox);
-            map.fitBounds(geo_ip_bbox)
+        if (value.state == "granted") {
+            geoLocation.trigger();
+        } else {
+            map.fitBounds(
+                await geoIpLocate()
+            );
         }
     }
 );
