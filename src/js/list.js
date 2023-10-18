@@ -8,7 +8,7 @@ const fetchLocations = async () => {
     ).then(res => res.json());
 };
 
-export const showLocations = async (search_term, lat = 0.0, lon = 0.0) => {
+export const showLocations = async (search_term="", lat = 0.0, lon = 0.0) => {
     const ul = document.getElementById('resultlist');
     ul.innerHTML = '';
 

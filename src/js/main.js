@@ -4,7 +4,7 @@ import { geoIpLocate } from "./geoIP"
 await setUpMap();
 
 let {map, geoLocation} = await setUpMap();
-showLocations("");
+showLocations();
 
 // Search
 document.getElementById('search').addEventListener('input', e => {
