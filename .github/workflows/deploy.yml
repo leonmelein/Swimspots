@@ -10,7 +10,7 @@ on:
 jobs:
   deploy:
     environment:
-      name: production
+      name: Staging
     runs-on: self-hosted
     steps:
         - name: Checkout
