@@ -17389,7 +17389,7 @@
     {
       "type": "Feature",
       "id": "AT3230004400240040",
-      "geometry": { "type": "Point", "coordinates": [0.0, 0.0] },
+      "geometry": { "type": "Point", "coordinates": [13.39526120, 47.73883692] },
       "properties": {
         "name": "Wolfgangsee, St. Gilgen - Gamsjaga",
         "alternate_name": "Salzburg-Umgebung"
