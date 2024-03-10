@@ -23,3 +23,7 @@ jobs:
           run: npm install
         - name: Build
           run: npm run build
+        - name: Copy site contents
+          run: cp -r /home/github-actions/actions-runner/_work/Swimspots/Swimspots/dist/. /www/swimspots
+        - name: Restart Nginx
+          run: echo "Restart web server"
