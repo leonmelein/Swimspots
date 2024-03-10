@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.4.11"
+    "vite": "^5.0.12"
   },
   "dependencies": {
-    "maplibre-gl": "^3.5.1"
+    "maplibre-gl": "^4.1.0"
   }
 }
