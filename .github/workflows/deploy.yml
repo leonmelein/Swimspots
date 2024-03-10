@@ -26,4 +26,4 @@ jobs:
         - name: Copy site contents
           run: cp -r /home/github-actions/actions-runner/_work/Swimspots/Swimspots/dist/. /www/swimspots
         - name: Reload Nginx
-          run: /usr/sbin/service nginx reload
+          run: sudo /usr/sbin/service nginx reload
