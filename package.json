@@ -12,6 +12,6 @@
     "vite": "^5.0.12"
   },
   "dependencies": {
-    "maplibre-gl": "^4.1.0"
+    "maplibre-gl": "^4.1.1"
   }
 }
