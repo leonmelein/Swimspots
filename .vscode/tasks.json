@@ -4,7 +4,10 @@
         {
             "type": "npm",
             "script": "build",
-            "group": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
             "problemMatcher": [],
             "label": "npm: build",
             "detail": "vite build"
@@ -32,7 +35,7 @@
             },
             "isBackground": true,
             "label": "npm: run dev",
-            "detail": "vite",
+            "detail": "vite"
         }
     ]
 }

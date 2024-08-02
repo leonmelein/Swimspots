@@ -9,9 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@mdi/font": "^7.4.47",
     "vite": "^5.2.8"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.0.20",
     "maplibre-gl": "^4.1.3"
   }
 }

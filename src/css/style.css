@@ -1,22 +1,38 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import '../../node_modules/@mdi/font/css/materialdesignicons.css';
+@import '../../node_modules/@fontsource/inter/400.css';
+
+:root {
+    --brand: #4A90E2;
+    --background: rgb(238,238,238);
+    --button: rgb(218,215,215);
+}
+
+* {
+    font-family: "Inter", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    
+}
+
+head {
+    display: none;
+}
 
 body {
-  margin: 0;
-  padding: 0;
+    all: unset;
 }
 
-.maplibregl-map {
-  height: calc(100% - 1rem);
+.container {
+    max-width: 800px;
+    margin: auto;
 }
 
-#title {
+#header {
+  display: block;
   padding-left: 1em;
   padding-right: 1em;
-  height: 5rem;
-  margin-bottom: 1rem;
-  background-color: #4A90E2;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  background-color: var(--brand);
   color: white;
 
   > h1, p {
@@ -28,119 +44,76 @@ body {
   }
 }
 
-* {
-  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-.page_container {
-  display: grid;
-  grid-template-rows: auto 1fr;
-  gap: 0px 0px;
-  height: calc(100svh - 2rem);
-}
-
-.container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr;
-  gap: 0px 0px;
-  grid-template-areas: "map map list";
-  height: 100%;
-  min-height: 0;
-}
-
-.map {
-  grid-area: map;
-  border-radius: 1rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-}
-
-.maplibregl-popup-content {
-    padding: 25px 20px;
-    min-width: 7rem;
-    border-radius: 1rem;
-}
-.maplibregl-popup-close-button {
-    font-size: 1.5rem;
-    border-radius: 0 1rem 0 0;
-}
-
-.list {
-  grid-area: list;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-  overflow: hidden; 
-  max-height: calc(100vh - 6rem);
-
-  > input {
-    width: 100%;
-    padding: 1rem;
-    border-radius: 0.5rem;
-  }
-
-  > ul {
-    list-style-type: none;
-    padding-left: 0;
-    max-height: 100%;
-    overflow: scroll;
-
-    > li {
-      padding: 1rem;
-      margin-bottom: 1rem;
-      background-color: #eeeeee;
-      border-radius: 0.5rem;
+.title {
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    h1 {
+        all: unset;
+        font-size: 2.2rem;
     }
-  }
 }
 
-.copyright {
-  margin: 3rem;
-  text-align: center;
-
-  > a {
-    text-decoration: none;
-  }
-}
-
-em {
-  font-weight: bold;
-  font-style: normal;
-  color: #4a90e2;
-}
-
-@media screen and (max-width: 768px) {
-  #title {
-    margin-bottom: 0;
-  }
-
-  .page_container {
-    height: 100svh;
-  }
-
-  .list {
-    display: none;
-  }
-
-  .container {
-    height: 100%;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    grid-template-areas: "map";
-  }
-  .map {
-    border-radius: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
+.searchbar {
+    all: unset;
     width: 100%;
-  }
+    max-width: 800px;
+    margin: auto;
+    display: block;    
+    height: 3rem;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: black;
+    background-color: var(--background);
 
-  .maplibregl-map {
-    height: 100%;   
-  }
+    input {
+        all: unset;
+        padding-left: 1rem;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 9;
+    }
+
+    button {
+        all: unset;
+        height: 100%;
+        margin: auto;
+        font-size: 1.5rem;
+        /* text-align: center; */
+        background-color: var(--button);
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 2;
+    }
 }
 
+.results {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.result-card {
+    background-color: var(--background); 
+    padding: 1em;
+    margin-bottom: 1em;
+
+    .result-title {
+        all: unset;
+        display: inline-block;
+        font-size: 1.5rem;
+    }
+
+    .result-description {
+        all: unset;
+        display: block;
+        margin-top: 1em;
+        white-space: nowrap;
+        text-overflow: ellipsis; 
+        overflow: hidden;
+    }
+}

@@ -8,23 +8,46 @@
     <link href="/src/css/style.css" rel="stylesheet"/>
 </head>
 <body>
-    <div class="page_container">
-        <div id='title'>
-            <h1 class="text-3xl font-bold underline">Swimspots.eu</h1>
-            <h1 class="menu">☰</h1>
+    <div id='header'>
+        <div class="title container">
+            <h1>Swimspots</h1>
         </div>
-        <div id="mapcontent">
-            <div class="container">
-                <div class="map" id="map">
+        <div class="searchbar">
+            <input class="text-3xl" type="text" placeholder="Zoek een zwemplek..." class="rounded-lg" />
+            <button>
+                <div style="margin: auto;">
+                    <i class="mdi mdi-magnify"></i>
                 </div>
-                <div class="list" id="list">
-                    <input type="search" placeholder="Zoek zwemplek..." id="search">
-                    <ul id="resultlist">
-                    </ul>
-                </div>
-            </div>
+            </button>
         </div>
     </div>
-    <script type="module" src="./src/js/main.js"></script>
+    <div class="results container">
+        <div class="result-card">
+            <h2 class="result-title">Sloterplas</h2>
+            <p class="result-description">Het Sloterstrand is gelegen in de gemeente Amsterdam, in het stadsdeel Nieuw West. De plas is in zijn huidige vorm in de
+            jaren vijftig door zandwinning ontstaan, beslaat 89 hectare en is maximaal circa 35 meter diep. Aan de west- en
+            oostzijde van de plas liggen stadsparken. De oevers rondom het Sloterstrand zijn verschillend van aard. Aan de zuidzijde
+            (langs de Lelylaan en het Osdorpplein) en aan de noordoostzijde (bij het paviljoen) is een hoge en harde oever waarlangs
+            geen enkele plantengroei aanwezig is. Aan de zuidrand wordt het strand begrensd door een brede boulevard met bankjes.
+            Vooral aan de oostkant van de plas en in mindere mate ook bij het westelijke parkgebied zijn meer natuurlijke oevers met
+            een begroeiing.</p>
+        </div>
+        <div class="result-card">
+            <h2 class="result-title">Sloterplas</h2>
+            <p class="result-description">Het Sloterstrand is gelegen in de gemeente Amsterdam, in het stadsdeel Nieuw West. De
+                plas is in zijn huidige vorm in de
+                jaren vijftig door zandwinning ontstaan, beslaat 89 hectare en is maximaal circa 35 meter diep. Aan de west- en
+                oostzijde van de plas liggen stadsparken. De oevers rondom het Sloterstrand zijn verschillend van aard. Aan de
+                zuidzijde
+                (langs de Lelylaan en het Osdorpplein) en aan de noordoostzijde (bij het paviljoen) is een hoge en harde oever
+                waarlangs
+                geen enkele plantengroei aanwezig is. Aan de zuidrand wordt het strand begrensd door een brede boulevard met
+                bankjes.
+                Vooral aan de oostkant van de plas en in mindere mate ook bij het westelijke parkgebied zijn meer natuurlijke
+                oevers met
+                een begroeiing.</p>
+        </div>
+    </div>
+    <!-- <script type="module" src="./src/js/main.js"></script> -->
 </body>
 </html>
