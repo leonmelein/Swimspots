@@ -103,8 +103,6 @@ body {
 }
 
 .result-card {
-    background-color: var(--background); 
-    padding: 1em;
     margin-bottom: 1em;
 
     .result-title {
@@ -118,6 +116,7 @@ body {
         all: unset;
         display: block;
         margin-top: 1em;
+        height: 2lh;
         white-space: nowrap;
         text-overflow: ellipsis; 
         overflow: hidden;
