@@ -1,5 +1,6 @@
 @import '../../node_modules/@mdi/font/css/materialdesignicons.css';
 @import '../../node_modules/@fontsource/inter/400.css';
+@import '../../node_modules/@fontsource/inter/600.css';
 
 :root {
     --brand: #4A90E2;
@@ -34,6 +35,10 @@ body {
   margin-bottom: 1em;
   background-color: var(--brand);
   color: white;
+
+  h1 {
+    font-weight: 600;
+  }
 
   > h1, p {
     display: inline-block;
