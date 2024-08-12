@@ -1,12 +1,26 @@
 @import '../../node_modules/@mdi/font/css/materialdesignicons.css';
 @import '../../node_modules/@fontsource/inter/400.css';
 @import '../../node_modules/@fontsource/inter/600.css';
+@import "../../node_modules/flag-icons/css/flag-icons.min.css";
 
 :root {
     --brand: #4A90E2;
     --background: rgb(238,238,238);
     --button: rgb(218,215,215);
 }
+
+.quality-good {
+    color: #008551;
+}
+
+.quality-warning {
+    color: #FFBF00;
+}
+
+.quality-donotswim {
+    color: #B81B0E; 
+}
+
 
 * {
     font-family: "Inter", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
@@ -98,9 +112,6 @@ body {
 }
 
 .results {
-  padding-left: 1em;
-  padding-right: 1em;
-
   hr {
     margin-top: 1em;
     margin-bottom: 1em;
@@ -108,20 +119,29 @@ body {
 }
 
 .result-card {
+    padding-left: 1em;
+    padding-right: 1em;
+
     .result-title {
         all: unset;
-        display: inline-block;
+        display: block;
         font-size: 1.5rem;
         font-weight: 600;
+        margin-bottom: 0.5rem;
+    }
+
+    span.icon {
+        width: 1em;
     }
 
     .result-description {
         all: unset;
-        display: block;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+           line-clamp: 2; 
+        -webkit-box-orient: vertical;
         margin-top: 1em;
         margin-bottom: 0;
-        height: 2lh;
-        white-space: nowrap;
         text-overflow: ellipsis; 
         overflow: hidden;
     }
