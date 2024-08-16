@@ -1,30 +1,60 @@
-import { showLocations } from "./list";
-import { setUpMap } from "./map";
 import { geoIpLocate } from "./geoIP"
-await setUpMap();
-
-let {map, geoLocation} = await setUpMap();
-showLocations();
 
 // Search
-document.getElementById('search').addEventListener('input', e => {
-    showLocations(e.target.value);
+// document.getElementById('searchbar').addEventListener('input', e => {
+//     console.log(e.target.value);
+// });
+const searchElement = document.getElementById('searchbar');
+
+
+document.getElementById('location').addEventListener('click', e => {
+    navigator.geolocation.getCurrentPosition((position) => {
+        console.log('Locate!');
+        console.log(position.coords.latitude, position.coords.longitude);
+        searchElement.value = "Huidige locatie"
+    });
 });
 
-// Geolocation updates
-geoLocation.on('geolocate', function (e) {
-    console.log(e.coords.latitude, e.coords.longitude);
-    showLocations("", e.coords.latitude, e.coords.longitude)
-})
+const placeholderElement = document.getElementsByClassName('placeholder')[0]
+const resultsElement = document.getElementsByClassName('results')[0]
+
+const searchData = (event) => {
+    const value = event.target.value;
+    console.log("Searching...", value);
+
+    if (value.length > 0){
+        placeholderElement.classList.add('hidden')
+        resultsElement.classList.remove('hidden')
+        resultsElement.innerHTML = `<h3 class="result-card">${value}</h3>`
+    } else {
+        placeholderElement.classList.remove('hidden')
+        resultsElement.classList.add('hidden')
+    }
+
+    // your API call logic goes here
+}
+
+const debounce = (callback, waitTime) => {
+    let timer;
+    return (...args) => {
+        clearTimeout(timer);
+        timer = setTimeout(() => {
+            callback(...args);
+        }, waitTime);
+    };
+}
+
+const debounceHandler = debounce(searchData, 300);
+searchElement.addEventListener('input', debounceHandler);
+
 
 // Approximate location based on IP when geolocation is not available
 await navigator.permissions.query({ name: 'geolocation' }).then(async (value) => {
         if (value.state == "granted") {
-            geoLocation.trigger();
+            console.log("Geolocation access")
         } else {
-            map.fitBounds(
-                await geoIpLocate()
-            );
+            console.log("Geo IP")
+            await geoIpLocate()
         }
     }
 );

@@ -14,19 +14,15 @@
             <h1>Zwemplek</h1>
         </div>
         <div class="searchbar">
-            <input class="text-3xl" type="text" placeholder="Zoek op naam of plaats..." class="rounded-lg" />
+            <input class="text-3xl" id="searchbar" type="text" placeholder="Zoek op naam of plaats..." class="rounded-lg" autocomplete="off"/>
             <button>
-                <div style="margin: auto;">
+                <div id="location" style="margin: auto;">
                     <i class="mdi mdi-crosshairs-gps"></i>
-                </div>
-            </button>
-            <button>
-                <div style="margin: auto;">
-                    <i class="mdi mdi-magnify"></i>
                 </div>
             </button>
         </div>
     </div>
+    <div class="results container hidden"></div>
     <div class="placeholder container">
         <div class="placeholder-contents">
             <svg viewBox="0 0 195 107" class="illustration">
@@ -48,6 +44,6 @@
             <h3 class="tagline">Zoek een veilige zwemplek in jouw buurt</h3>
         </div>
     </div>
-    <!-- <script type="module" src="./src/js/main.js"></script> -->
+    <script type="module" src="./src/js/main.js"></script>
 </body>
 </html>

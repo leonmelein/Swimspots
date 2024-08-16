@@ -127,6 +127,10 @@ body {
     }
 }
 
+.hidden {
+    display: none !important;
+}
+
 .results {
   hr {
     margin-top: 1em;
