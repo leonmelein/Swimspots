@@ -52,6 +52,12 @@ body {
   background-color: var(--brand);
   color: white;
 
+  .logo {
+    margin-right: 1rem;
+    width: 2.5lh;
+    height: 1.5lh;
+  }
+
   h1 {
     font-weight: 600;
   }
@@ -128,6 +134,29 @@ body {
   }
 }
 
+.placeholder {
+    min-height: 60vh;
+    margin: auto;
+    display: flex;
+
+    .placeholder-contents {
+        margin: auto;
+    }
+
+    .illustration {
+        display: block;
+        width: 12rem;
+        fill: var(--button-hover);
+        margin: auto;
+    }
+
+    .tagline {
+        text-align: center;
+        color: var(--button-hover);
+        font-weight: 400;
+    }
+}
+
 .result-card {
     padding-left: 1em;
     padding-right: 1em;
@@ -156,3 +185,5 @@ body {
         overflow: hidden;
     }
 }
+
+
