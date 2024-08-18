@@ -15,6 +15,7 @@
   "dependencies": {
     "@fontsource/inter": "^5.0.20",
     "flag-icons": "^7.2.3",
+    "lunr": "^2.3.9",
     "maplibre-gl": "^4.1.3"
   }
 }
