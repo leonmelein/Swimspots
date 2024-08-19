@@ -1,14 +1,9 @@
-import lunr from "lunr"
+import * as JsSearch from 'js-search'
 
 export function searchSetup(documents){
-
-    var idx = lunr(function () {
-        this.ref('id')
-        this.field('name')
-
-        documents.forEach(function (doc) {
-            this.add(doc)
-        }, this)
-    })
-    return idx;
+    var search = new JsSearch.Search('name');
+    search.indexStrategy = new JsSearch.AllSubstringsIndexStrategy();
+    search.addIndex('name');
+    search.addDocuments(documents);
+    return search;
 }

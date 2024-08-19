@@ -21,6 +21,24 @@ var documents = [
         "warnings": null
     },
     {
+        "id": 304874,
+        "name": "Stadsstrand Groningen",
+        "alternate_name": "De Grote Speelweide",
+        "current_status": "WAARSCHUWING",
+        "description": "De Grote Speelweide ligt in het Amsterdamse Bos. De waterdiepte van de vijver varieert van 1 tot 1,5 meter.",
+        "photos": "NH-089-001 Amsterdamse Bos.png",
+        "website": null,
+        "lat": 52.3197,
+        "lon": 4.8282,
+        "eu_designation": "2",
+        "e_coli": 77.0,
+        "int_ent": 230.0,
+        "amenities": [
+            5943892, 5943898, 5943927, 5943930, 5943907, 5943893, 5943911, 5943913
+        ],
+        "warnings": null
+    },
+    {
         "id": 1153,
         "name": "Nieuwe Meer, Noordoever",
         "alternate_name": "Noordoever",
@@ -54,8 +72,6 @@ var documents = [
     }
 ]
 
-function filterById(jsonObject, id) { return jsonObject.filter(function (jsonObject) { return (jsonObject['id'] == id); })[0]; }
-
 const searchElement = document.getElementById('searchbar');
 const searchHandler = searchSetup(documents);
 
@@ -80,9 +96,8 @@ const searchData = (event) => {
         resultsElement.classList.remove('hidden')
         var results = searchHandler.search(value);
         results.forEach(element => {
-            var data = filterById(documents, element.ref);
-            console.log(data);
-            resultsElement.innerHTML += `<p class="result-card">${data.name}</p>`;
+            console.log(element.name);
+            resultsElement.innerHTML += `<h3>${element.name}</h3>`;
         });
     } else {
         placeholderElement.classList.remove('hidden')
