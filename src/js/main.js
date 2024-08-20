@@ -1,5 +1,6 @@
 import { geoIpLocate } from "./geoIP"
-import {searchSetup } from "./search"
+import { textSearch, geoSearch } from "./search"
+
 
 var documents = [
     {
@@ -73,18 +74,26 @@ var documents = [
 ]
 
 const searchElement = document.getElementById('searchbar');
-const searchHandler = searchSetup(documents);
+const searchHandler = textSearch(documents);
+
+const resultsElement = document.getElementsByClassName('results')[0]
+const placeholderElement = document.getElementsByClassName('placeholder')[0]
 
 document.getElementById('location').addEventListener('click', e => {
     navigator.geolocation.getCurrentPosition((position) => {
-        console.log('Locate!');
+        resultsElement.innerHTML = ""
         console.log(position.coords.latitude, position.coords.longitude);
         searchElement.value = "Huidige locatie"
+        placeholderElement.classList.add('hidden')
+        resultsElement.classList.remove('hidden')
+
+        var results = geoSearch(position.coords.latitude, position.coords.longitude, documents)
+        results.forEach(element => {
+            console.log(element.name);
+            resultsElement.innerHTML += `<h3 class="result-card">${element.name}</h3>`;
+        });
     });
 });
-
-const placeholderElement = document.getElementsByClassName('placeholder')[0]
-const resultsElement = document.getElementsByClassName('results')[0]
 
 const searchData = (event) => {
     const value = event.target.value;
@@ -97,7 +106,7 @@ const searchData = (event) => {
         var results = searchHandler.search(value);
         results.forEach(element => {
             console.log(element.name);
-            resultsElement.innerHTML += `<h3>${element.name}</h3>`;
+            resultsElement.innerHTML += `<h3 class="result-card">${element.name}</h3>`;
         });
     } else {
         placeholderElement.classList.remove('hidden')

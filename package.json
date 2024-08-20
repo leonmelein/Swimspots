@@ -15,6 +15,7 @@
   "dependencies": {
     "@fontsource/inter": "^5.0.20",
     "flag-icons": "^7.2.3",
+    "geolib": "^3.3.4",
     "js-search": "^2.0.1",
     "maplibre-gl": "^4.1.3"
   }
