@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="615.21338"
+   height="615.08893"
+   id="svg12385"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sunbathing_area.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs12387">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective12393" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="240.19939"
+     inkscape:cy="151.76919"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata12390">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Other map symbols</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Mohamed Ibrahim</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>clker.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>other map symbols</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.393304,-69.04245)">
+    <path
+       d="m 584.04249,684.13137 c 40.57856,0 73.56421,-32.92341 73.56421,-73.56421 l 0,-468.08497 c 0,-40.57857 -32.98565,-73.43974 -73.56421,-73.43974 l -468.14721,0 c -40.578568,0 -73.501976,32.86117 -73.501976,73.43974 l 0,468.08497 c 0,40.6408 32.923408,73.56421 73.501976,73.56421 l 468.14721,0 z"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2834"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 115.89528,81.427626 c -33.732491,0 -61.1168,27.446544 -61.1168,61.054564 l 0,468.08497 c 0,33.67025 27.384309,61.17903 61.1168,61.17903 l 468.14721,0 c 33.67025,0 60.99232,-27.50878 60.99232,-61.17903 l 0,-468.08497 c 0,-33.60802 -27.32207,-61.054564 -60.99232,-61.054564 l -468.14721,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2836"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 86.394909,435.86771 C 121.37214,394.60454 185.22737,365.6643 239.93375,374.75092 246.03298,299.63078 237.5065,229.30289 274.97322,160.09528 158.71438,167.75044 104.75484,345.31278 86.394909,435.86771"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2838"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 498.46652,304.04961 C 522.92569,274.9849 580.61945,260.11024 610.9289,287.37008 531.88782,177.02376 434.17563,106.13574 295.2625,153.31144 403.86618,186.35932 479.98211,287.68126 498.46652,304.04961"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2840"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 476.55907,308.53068 C 438.59446,255.5047 319.16153,170.86229 292.83526,176.15244 c -28.06892,5.60134 -35.78632,164.5548 -33.2346,198.72295 16.67954,-31.24301 42.1345,-54.83085 71.57263,-69.45657 l 121.2378,329.79422 16.49282,-4.16989 -122.23359,-332.28369 c 40.45409,-15.06137 86.88294,-13.69216 129.88875,9.77122"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2842"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

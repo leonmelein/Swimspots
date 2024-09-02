@@ -1,0 +1,45 @@
+.details-container {
+    color: black;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.test-results-header {
+    margin-bottom: 1rem;
+}
+
+.test-result {
+    display: flex;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    svg {
+        flex-basis: 100%;
+        flex: 1
+    }
+
+    p {
+        flex-basis: 100%;
+        flex: 6
+    }
+
+    .measurement {
+        text-align: right;
+    }
+}
+
+h2 {
+    margin-bottom: 0
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+}

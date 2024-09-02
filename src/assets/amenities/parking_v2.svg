@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="123.634"
+   height="123.61"
+   viewBox="-0.258 -0.548 123.634 123.61"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="parking_v2.svg"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs17"><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath954"><path
+       inkscape:connector-curvature="0"
+       d="m 0,0 1785.827,0 0,841.89 L 0,841.89 0,0 z"
+       id="path956" /></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath954-4"><path
+       inkscape:connector-curvature="0"
+       d="m 0,0 1785.827,0 0,841.89 L 0,841.89 0,0 z"
+       id="path956-0" /></clipPath></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1600"
+   inkscape:window-height="837"
+   id="namedview15"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="1.3508058"
+   inkscape:cx="322.90189"
+   inkscape:cy="102.2107"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g3"
+   showguides="true"
+   inkscape:guide-bbox="true" />
+<g
+   id="g3"
+   transform="translate(-1.07,0.0339978)">
+	<path
+   style="fill:#000000"
+   d="M 15.578,123.027 C 7.422,123.027 0.812,116.41 0.812,108.23 V 14.184 c 0,-8.148 6.609,-14.766 14.766,-14.766 h 94.102 c 8.156,0 14.766,6.617 14.766,14.766 v 94.047 c 0,8.18 -6.609,14.797 -14.766,14.797 H 15.578 z"
+   id="path5"
+   inkscape:connector-curvature="0" />
+	<path
+   style="fill:#ffffff"
+   d="M 15.578,1.91 C 8.812,1.91 3.312,7.426 3.312,14.183 l 0,94.047 c 0,6.758 5.5,12.281 12.266,12.281 l 94.102,0 c 6.758,0 12.25,-5.523 12.25,-12.281 l 0,-94.046 c 0,-6.758 -5.492,-12.273 -12.25,-12.273 l -73.795488,0 -20.306512,0 z"
+   id="path7"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="csssssssccc" />
+	
+	
+	
+<path
+   style="fill:#000000;stroke:none"
+   d="m 26.989411,13.443914 0,95.558176 18.412522,0 0,-31.353717 21.254567,0 c 16.082537,0 31.61209,-13.704879 31.61209,-32.045237 0,-16.31549 -13.054631,-32.159222 -30.768592,-32.159222 l -40.510587,0 z m 18.648087,17.713407 20.927818,0 c 6.759398,0 13.587117,6.28297 13.587117,14.673792 0,8.390329 -6.356578,14.217838 -13.815093,14.217838 l -20.699842,0 0,-28.89163 z"
+   id="path4894"
+   inkscape:connector-curvature="0" /></g>
+</svg>

@@ -1,0 +1,96 @@
+.searchbar {
+    all: unset;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    display: block;    
+    height: 4rem;
+    background: white;
+    box-sizing: border-box;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: black;
+    background-color: var(--brand);
+
+    .searchInput {
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        height: 100%;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    input {
+        all: unset;
+        background-color: white;
+        padding-left: 1rem;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 9;
+        padding-inline: 0;
+    }
+
+    #geoLocButton {
+        border-radius: 1em 0 0 1em;
+        flex: 0.75;
+        color: grey;
+        background-color: white;
+    }
+
+    #searchButton {
+        border-radius: 0 1em 1em 0;
+    }
+
+    button {
+        all: unset;
+        height: 100%;
+        margin: auto;
+        font-size: 1.5rem;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 1;
+        background-color: var(--button);      
+
+        div {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+
+        #location {
+            /* background-color: white; */
+        }
+    }
+
+    button:hover {
+        background-color: var(--button-hover);
+    }
+
+    button:active {
+        background-color: var(--button-click);
+    }
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .searchbar {
+    #geoLocButton {
+        flex: 1.5;
+    }
+    #searchButton {
+        flex: 1.5;
+    }
+  }
+}
