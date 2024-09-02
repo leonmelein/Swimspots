@@ -10,7 +10,7 @@ function Home() {
     useEffect(() => {
         const fetchData = async () => {
             const result = await fetch(
-                '/locations.json',
+                '/data/locations.json',
             );
             const jsonData = await result.json();
             // Update state with the fetched data
