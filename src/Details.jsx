@@ -2,6 +2,7 @@ import './App.css'
 import './Details.css'
 import AmenityList from './AmenityList'
 import Header from './Header'
+import Map from './Map'
 
 import Icon from '@mdi/react';
 import { mdiBacteria, mdiPaperRoll } from '@mdi/js';
@@ -33,8 +34,9 @@ function Details(){
                     </div>
                 </div>
                 <div>
-                    <h3>Beschrijving</h3>
+                    <h3>De locatie</h3>
                     <p>{state.description}</p>
+                    <Map lat={state.lat} lng={state.lng}/>
                     <em>Bron: <a href='https://zwemwater.nl'>zwemwater.nl</a></em>
                 </div>
             </div>

@@ -62,7 +62,7 @@ function SearchList({data}){
             <div className='container results'>
                 <Placeholder collapsed={(searchResults.length > 0 | locating == true) ? true : false} loading={locating}/>
                 {searchResults.map(item => {
-                    return <SearchResult key={crypto.randomUUID()} id={item.id} alternate_name={item.alternate_name} name={item.name} current_status={item.current_status} amenities={item.amenities} description={item.description} e_coli={item.e_coli} int_ent={item.int_ent}/>
+                    return <SearchResult key={crypto.randomUUID()} id={item.id} alternate_name={item.alternate_name} name={item.name} current_status={item.current_status} amenities={item.amenities} description={item.description} e_coli={item.e_coli} int_ent={item.int_ent} lat={item.lat} lon={item.lon}/>
                 })}
             </div>
         </>
