@@ -1,7 +1,7 @@
 import { useRef, useEffect } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
-import './map.css';
+import './Map.css';
 import PropTypes from 'prop-types';
 
 export default function Map({lng, lat}) {
