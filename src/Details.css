@@ -2,6 +2,7 @@
     color: black;
     padding-left: 1em;
     padding-right: 1em;
+    min-height: 100vh;
 }
 
 .test-results-header {

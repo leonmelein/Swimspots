@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import SearchResult from "./SearchResult";
 import './SearchBar.css'
+import './SearchList.css'
 import Icon from '@mdi/react';
 import { mdiCrosshairsGps, mdiMagnify } from '@mdi/js';
 import { createRef, useState } from "react";
