@@ -1,8 +1,52 @@
 .details-container {
     color: black;
+    min-height: 100vh;
+}
+
+.backBtn {
+    color: #403f3f;
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.location-headline {
+    background-color: var(--background);
     padding-left: 1em;
     padding-right: 1em;
-    min-height: 100vh;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
+    h2 {
+        margin-block-start: 0em;
+        margin-block-end: 0;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+}
+
+.location-tests {
+    padding-left: 1em;
+    padding-right: 1em;
+
+    h3 {
+        margin-bottom: 0;
+    }
+
+    .lastUpdated {
+        font-size: 0.75rem;
+        font-weight: light;
+    }
+}
+
+.location-details {
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 1em;
+
+    h3 {
+        margin-bottom: 0;
+    }
+
 }
 
 .test-results-header {
@@ -17,6 +61,7 @@
     width: 100%;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-bottom: 0.25rem;
 
     svg {
         flex-basis: 100%;
@@ -25,7 +70,8 @@
 
     p {
         flex-basis: 100%;
-        flex: 6
+        flex: 6;
+        margin: 0
     }
 
     .measurement {
@@ -33,13 +79,6 @@
     }
 }
 
-h2 {
-    margin-bottom: 0
-}
-
-h3 {
-    margin-bottom: 0;
-}
 
 p {
     margin-top: 0;
