@@ -12,5 +12,5 @@ export function textSearch(documents) {
 
 export function geoSearch(lat, lon, documents) {
     var results = orderByDistance({ latitude: lat, longitude: lon }, documents);
-    return results.slice(0, 5);
+    return results.slice(0, 10);
 }

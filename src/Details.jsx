@@ -4,13 +4,14 @@ import AmenityList from './AmenityList'
 import Header from './Header'
 import Map from './Map'
 
-// import Icon from '@mdi/react';
-// import { mdiArrowLeft, mdiArrowRight, mdiBacteria, mdiPaperRoll } from '@mdi/js';
+import PropTypes from 'prop-types';
+import Icon from '@mdi/react';
+import { mdiAlert } from '@mdi/js';
 import { useLocation } from "react-router-dom";
 
 function Details(){
     const { state } = useLocation();
-
+    
     return (
         <>
            <Header />
@@ -29,26 +30,32 @@ function Details(){
                 <div className='location-details container'>
                     <p>{state.description}</p>
                 </div>
+                {/* <div className='location-warning'>
+                    <Icon path={mdiAlert} size='1.2rem' color='black' />
+                    <h3>Negatief zwemadvies</h3>
+                    <p>Zwemmen ontraden vanwege blauwalgen. Grote kans op huidirritatie en maag-/darmklachten.</p>
+                </div> */}
                 <div className='location-tests container'>
                     <h3 className='test-result-header'>Waterkwaliteit</h3>
                     <div className="test-result-container">
                         <div className="test-result">
                             <p>Huidige kwaliteit</p>
-                            <p className='measurement'>Goed</p>
+                            {/* <p className={status(state.current_status)}>{state.current_status}</p> */}
+                            <Status state={state.current_status} />
                         </div>
                         <div className="test-result">
                             <p>Meerjarige kwaliteit</p>
-                            <p className='measurement'>★★★</p>
+                            <p className='measurement star-rating'>★★★</p>
                         </div>
                         <div className="test-result">
                             {/* <Icon path={mdiBacteria} size='1lh' color='#60B332' /> */}
                             <p>E.Coli</p>
-                            <p className="measurement">{state.e_coli}</p>
+                            <EColi amount={state.e_coli} />
                         </div>
                         <div className="test-result">
                             {/* <Icon path={mdiPaperRoll} size='1lh' color='grey' /> */}
                             <p>Enterococcen (IE)</p>
-                            <p className="measurement">{state.int_ent}</p>
+                            <IntEnt amount={state.int_ent} />
                         </div>
                         <span className='lastUpdated'>Laatste meting: 7 september 2024</span>
 
@@ -62,6 +69,68 @@ function Details(){
         </>
         
     )
+}
+
+function Status({ state }) {
+    if (state.trim().length === 0) {
+        return (<p className='measurement'>
+            Onbekend
+        </p>)
+    }
+    
+    if (state.includes("goed")) {
+        return (
+            <p className="measurement quality-good">Goed</p>
+        )
+    } else if (state == "NADER_ONDERZOEK") {
+        return (
+            <p className="measurement quality-warning">Nader onderzoek</p>
+        )
+    } else if (state == "WAARSCHUWING") {
+        return (
+            <p className="measurement quality-warning">Waarschuwing</p>
+        )
+    } else {
+        return (
+            <p className="measurement quality-bad">Zwemverbod</p>
+        )
+    }
+}
+
+function IntEnt({ amount }) {
+    if (amount < 200) {
+        return (<p className="measurement quality-good">{amount}</p>)
+    }
+
+    if (amount > 330) {
+        return (<p className="measurement quality-warning">{amount}</p>)
+    }
+
+    return (<p className="measurement">{amount}</p>)
+}
+
+function EColi({amount}){
+    if (amount < 200){
+        return (<p className="measurement quality-good">{amount}</p>)
+    }
+
+    if (amount > 900){
+        return (<p className="measurement quality-warning">{amount}</p>)
+    }
+
+    return (<p className="measurement">{amount}</p>)
+}
+
+IntEnt.propTypes = {
+    amount: PropTypes.number
+}
+
+EColi.propTypes = {
+    amount: PropTypes.number
+}
+
+Status.propTypes = {
+    state: PropTypes.string
 }
 
 

@@ -13,3 +13,8 @@
 .description {
     color: var(--button-click);
 }
+
+a {
+    text-decoration: none;
+    color: var(--brand);
+}

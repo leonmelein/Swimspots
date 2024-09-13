@@ -24,6 +24,23 @@
     }
 }
 
+.location-warning {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 1rem;
+    background-color: var(--quality-warning);
+    border-radius: 1rem;
+
+    h3, p {
+        margin: 0
+    }
+
+    h3 {
+        display: inline-block;
+        margin-left: 0.5rem;
+    }
+}
+
 .location-tests {
     padding-left: 1em;
     padding-right: 1em;
@@ -76,6 +93,24 @@
 
     .measurement {
         text-align: right;
+    }
+
+    .star-rating {
+        color: #123676;
+    }
+    
+    .quality-good {
+        color: var(--quality-good);
+    }
+
+    .quality-warning {
+        color: var(--quality-warning);
+        font-weight: 500;
+    }
+
+    .quality-bad {
+        color: var(--quality-bad);
+        font-weight: 500;
     }
 }
 

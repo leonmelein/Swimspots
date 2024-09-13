@@ -17,8 +17,9 @@ export default function Map({lng, lat}) {
             container: mapContainer.current,
             style: `https://api.maptiler.com/maps/streets-v2/style.json?key=${API_KEY}`,
             center: [lng, lat],
-            zoom: zoom
-        });
+            zoom: zoom,
+            interactive: false
+        })
 
         new maplibregl.Marker()
             .setLngLat([lng, lat])
