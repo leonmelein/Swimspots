@@ -64,6 +64,35 @@
         margin-bottom: 0;
     }
 
+    button.share {
+        all: unset;
+        width: 100%;
+        border-radius: 1rem;
+        border-width: 1rem;
+        border-color: red;    
+        background-color: var(--button);
+    }
+
+    div.share {
+        display: flex;
+        align-items: center;
+        border-radius: 1rem;
+        border-width: 1rem;
+        border-color: var(--button);
+        width: 100%;
+        margin: 0.5em;
+        margin-left: 1rem;
+
+        svg {
+            margin-right: 1rem;
+        }
+
+        p {
+            display: inline-block;
+            margin: 0;
+        }
+    }
+
 }
 
 .test-results-header {
