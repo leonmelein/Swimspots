@@ -11,19 +11,16 @@ import { useLocation } from "react-router-dom";
 
 function Details(){
     const { state } = useLocation();
-    
+    console.log(state.address);
+
     return (
         <>
            <Header />
             <div className="details-container">
                 <div className='location-headline'>
                     <div className='container'>
-                            <nav>
-                                {/* <p className='backBtn'>
-                                    ← Terug
-                                </p> */}
-                            </nav>
                             <h2 className='location-name'>{state.name}</h2>
+                            <p>{state.placename}</p>
                             <AmenityList amenities={state.amenities} />
                     </div>
                 </div>
@@ -62,7 +59,8 @@ function Details(){
                     </div>
                 </div>
                 <div className='location-details container'>
-                    <h3>Kaart</h3>
+                    <h3>Locatie</h3>
+                    <p>{state.address}</p>
                     <Map lat={state.lat} lng={state.lng}/>
                 </div>
             </div>

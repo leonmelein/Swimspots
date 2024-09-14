@@ -9,11 +9,13 @@ import AmenityList from './AmenityList'
 
 
 
-function SearchResult({id, alternate_name, name, current_status, e_coli, int_ent, description, amenities, lat, lon}) {
+function SearchResult({id, alternate_name, name, address, placename, current_status, e_coli, int_ent, description, amenities, lat, lon}) {
     const stateObj = {
         'id': id,
         'alternate_name': alternate_name,
         'name': name,
+        'address': address,
+        'placename': placename,
         'current_status': current_status,
         'e_coli': e_coli,
         'int_ent': int_ent,
@@ -32,7 +34,7 @@ function SearchResult({id, alternate_name, name, current_status, e_coli, int_ent
                         <span className='status-icon'>{status(current_status)}</span>
                     </div>
                 </Link>
-                <p className="result-description">Plaatsnaam</p>
+                <p className="result-description">{placename}</p>
                 <AmenityList amenities={amenities} />
             </div>
             <hr />
@@ -44,6 +46,8 @@ SearchResult.propTypes = {
     id: PropTypes.any,
     alternate_name: PropTypes.string,
     name: PropTypes.string.isRequired,
+    address: PropTypes.string.isRequired,
+    placename: PropTypes.string.isRequired,
     description: PropTypes.string,
     current_status: PropTypes.string,
     e_coli: PropTypes.number,
