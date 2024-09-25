@@ -21,11 +21,12 @@ function Details(){
         await navigator.share(shareData);
     }
 
+
     return (
         <>
            <Header />
             <div className="details-container">
-                <div className='location-headline'>
+                <div className="location-headline">
                     <div className='container'>
                             <h2 className='location-name'>{state.name}</h2>
                             <p>{state.placename}</p>
@@ -34,12 +35,6 @@ function Details(){
                 </div>
                 <div className='location-details container'>
                     <p>{state.description}</p>
-                    <button className='share'>
-                        <div className="share" onClick={share}>
-                            <Icon path={mdiShare} size='2rem' />
-                            <p>Deel deze locatie</p>
-                        </div>
-                    </button>
                 </div>
                 {/* <div className='location-warning'>
                     <Icon path={mdiAlert} size='1.2rem' color='black' />
@@ -75,8 +70,14 @@ function Details(){
                 
                 <div className='location-details container'>
                     <h3>Locatie</h3>
+                    {/* <Map lat={state.lat} lng={state.lng}/> */}
                     <p>{state.address}</p>
-                    <Map lat={state.lat} lng={state.lng}/>
+                    <button className='share'>
+                        <div className="share" onClick={share}>
+                            <Icon path={mdiShare} size='2rem' />
+                            <p>Deel deze locatie</p>
+                        </div>
+                    </button>
                 </div>
             </div>
         </>
