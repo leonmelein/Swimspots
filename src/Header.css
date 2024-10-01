@@ -1,0 +1,41 @@
+#header {
+  display: block;
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: var(--brand);
+  color: white;
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .logo {
+    margin-right: 1rem;
+    width: 2.5lh;
+    height: 1.75rem;
+  }
+
+  .title {
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    h1 {
+        all: unset;
+        font-weight: 600;
+        font-size: 2.2rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  #header {
+    .title {
+        h1 {
+            font-size: 1.75rem;
+        }
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+  }
+}
