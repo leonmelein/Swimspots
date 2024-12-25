@@ -11,19 +11,24 @@ jobs:
   deploy:
     environment:
       name: Staging
-    runs-on: Staging
+    runs-on: ubuntu-latest
     steps:
+        - name: Install Ansible
+          shell: bash
+          run: |
+            sudo apt update
+            sudo apt install -y ansible
+
         - name: Checkout
           uses: actions/checkout@v4
+
         - name: Set up Node
           uses: actions/setup-node@v4
           with:
             node-version: 20
+
         - name: Install dependencies
           run: npm install
-        - name: Build
+          
+        - name: Build app
           run: npm run build
-        - name: Copy site contents
-          run: cp -r /home/github-actions/actions-runner/_work/Swimspots/Swimspots/dist/. /www/swimspots
-        - name: Reload Nginx
-          run: sudo /usr/sbin/service nginx reload
