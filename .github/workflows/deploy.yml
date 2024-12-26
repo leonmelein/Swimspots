@@ -8,11 +8,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
-    environment:
-      name: Staging
-    runs-on: ubuntu-latest
-    steps:
+    build:
+        name: Build
+        runs-on: ubuntu-latest
+        
+        steps:
         - name: Install Ansible
           shell: bash
           run: |
@@ -29,14 +29,22 @@ jobs:
 
         - name: Install dependencies
           run: npm install
-          
+        
         - name: Build app
           run: npm run build
-        
+
+    deploy:
+        name: Deployment
+        environment:
+            name: Staging
+        runs-on: ubuntu-latest
+        needs: build
+
+        steps:
         - name: Load deploy key
           uses: webfactory/ssh-agent@v0.9.0
           with:
             ssh-private-key: ${{ secrets.SSH_KEY }}
 
         - name: Run playbook
-          run: ansible-playbook -i beta, .playbook/playbook.yml -u github-actions --inventory inventory --extra-vars repositoryPath=$GITHUB_WORKSPACE
+          run: ansible-playbook -i beta, .playbook/playbook.yml -u github-actions --inventory .playbook/inventory --extra-vars repositoryPath=$GITHUB_WORKSPACE
