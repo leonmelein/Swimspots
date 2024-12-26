@@ -1,6 +1,6 @@
 ---
 - name: Copy file to target servers
-  hosts: beta
+  hosts: all
   tasks:
     # Ensure website folder exists
     - name: Ensure subfolder exists
@@ -18,7 +18,7 @@
         mode: '0644'
 
 - name: Restart nginx
-  hosts: beta
+  hosts: all
   become: true
   tasks:
     - name: Restart nginx service
