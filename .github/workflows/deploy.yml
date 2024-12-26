@@ -47,7 +47,7 @@ jobs:
         #     echo $SERVER_KEYS >> ~/.ssh/known_hosts
         - name: Set server key
           env:
-            SERVER_KEYS: ${{env.SERVER_PUBLIC_KEYS}}
+            SERVER_KEYS: ${{ vars.SERVER_PUBLIC_KEYS }}
           run: |
             echo $SERVER_KEYS
             
