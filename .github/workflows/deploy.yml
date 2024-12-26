@@ -39,19 +39,16 @@ jobs:
           with:
             ssh-private-key: ${{ secrets.SSH_KEY }}
 
-        # - name: Set server key
-        #   env:
-        #     SERVER_KEYS: ${{env.SERVER_PUBLIC_KEYS}}
-        #   run: |
-        #     mkdir -p ~/.ssh/ && touch ~/.ssh/known_hosts
-        #     echo $SERVER_KEYS >> ~/.ssh/known_hosts
         - name: Set server key
           env:
             SERVER_KEYS: ${{ vars.SERVER_PUBLIC_KEYS }}
           run: |
-            echo $SERVER_KEYS
-            
+            mkdir -p ~/.ssh/ && touch ~/.ssh/known_hosts
+            echo $SERVER_KEYS >> ~/.ssh/known_hosts
+
         - name: Run playbook
+          env:
+            HOST: 'beta.thesociallions.nl'
           run: |
             cd $GITHUB_WORKSPACE
-            ansible-playbook -i 'beta.thesociallions.nl', .playbook/playbook.yml -u github-actions --extra-vars "repositoryPath=dist/"
+            ansible-playbook -i $HOST, .playbook/playbook.yml -u github-actions --extra-vars "repositoryPath=dist/"
