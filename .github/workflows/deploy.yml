@@ -39,6 +39,11 @@ jobs:
           with:
             ssh-private-key: ${{ secrets.SSH_KEY }}
 
+        - name: Set server key
+          run: |
+            mkdir -p ~/.ssh/ && touch ~/.ssh/known_hosts
+            echo ${{env.SERVER_PUBLIC_KEYS}} >> ~/.ssh/known_hosts
+            
         - name: Run playbook
           run: |
             cd $GITHUB_WORKSPACE
