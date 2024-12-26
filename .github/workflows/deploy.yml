@@ -32,3 +32,13 @@ jobs:
           
         - name: Build app
           run: npm run build
+
+        - name: Run playbook
+          uses: dawidd6/action-ansible-playbook@v2
+          with:
+            playbook: playbook.yml
+            directory: .playbook/
+            key: ${{secrets.SSH_KEY}}
+            options: |
+                --inventory inventory
+                --extra-vars repositoryPath=$GITHUB_WORKSPACE

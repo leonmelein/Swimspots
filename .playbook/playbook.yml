@@ -1,0 +1,25 @@
+---
+- name: Copy file to target servers
+  hosts: beta
+  tasks:
+    # Ensure website folder exists
+    - name: Ensure subfolder exists
+      ansible.builtin.file:
+        path: /www/swim
+        owner: github-actions
+        group: www-data
+        state: directory
+        mode: '0775'
+
+    - name: Copy files
+      ansible.builtin.copy:
+        src: "{{ repositoryPath }}/"
+        dest: /www/swim
+        mode: '0644'
+
+    - name: Restart nginx
+      ansible.builtin.service:
+        name: nginx
+        state: restarted
+
+    # Handle certificates
