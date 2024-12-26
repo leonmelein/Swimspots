@@ -32,13 +32,11 @@ jobs:
           
         - name: Build app
           run: npm run build
+        
+        - name: Load deploy key
+          uses: webfactory/ssh-agent@v0.9.0
+          with:
+            ssh-private-key: ${{ secrets.SSH_KEY }}
 
         - name: Run playbook
-          uses: dawidd6/action-ansible-playbook@v2
-          with:
-            playbook: playbook.yml
-            directory: .playbook/
-            key: ${{secrets.SSH_KEY}}
-            options: |
-                --inventory inventory
-                --extra-vars repositoryPath=$GITHUB_WORKSPACE
+          run: ansible-playbook -i beta, .playbook/playbook.yml -u github-actions --inventory inventory --extra-vars repositoryPath=$GITHUB_WORKSPACE
