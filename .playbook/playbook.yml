@@ -17,7 +17,11 @@
         dest: /www/swim
         mode: '0644'
 
-    - name: Restart nginx
+- name: Restart nginx
+  hosts: beta
+  become: true
+  tasks:
+    - name: Restart nginx service
       ansible.builtin.service:
         name: nginx
         state: restarted

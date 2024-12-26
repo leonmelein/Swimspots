@@ -40,4 +40,4 @@ jobs:
             ssh-private-key: ${{ secrets.SSH_KEY }}
 
         - name: Run playbook
-          run: ansible-playbook -i staging, .playbook/playbook.yml -u github-actions --inventory .playbook/inventory --extra-vars repositoryPath=$GITHUB_WORKSPACE
+          run: ansible-playbook -i staging, .playbook/playbook.yml -u github-actions --inventory .playbook/inventory --extra-vars "repositoryPath=$GITHUB_WORKSPACE/dist"
