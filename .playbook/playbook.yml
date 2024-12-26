@@ -13,7 +13,7 @@
 
     - name: Copy files
       ansible.builtin.copy:
-        src: "{{ repositoryPath }}/"
+        src: "../{{ repositoryPath }}/"
         dest: /www/swim
         mode: '0644'
 
