@@ -48,9 +48,7 @@ jobs:
         
         - name: Test
           run: |
-            pwd
             echo $GITHUB_WORKSPACE
-            ls
 
         # - name: Run playbook
         #   run: ansible-playbook -i beta, .playbook/playbook.yml -u github-actions --inventory .playbook/inventory --extra-vars repositoryPath=$GITHUB_WORKSPACE
