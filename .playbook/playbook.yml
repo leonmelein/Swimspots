@@ -1,6 +1,7 @@
 ---
 - name: Copy file to target servers
   hosts: all
+  become: true
   tasks:
     # Ensure website folder exists
     - name: Ensure subfolder exists
