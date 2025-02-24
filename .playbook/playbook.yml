@@ -15,7 +15,7 @@
     - name: Copy files
       ansible.posix.synchronize:
         src: "../{{ repositoryPath }}/"
-        dest: /www/leonmelein
+        dest: /www/swim
         rsync_opts:
         - "--chmod=F644"
 
