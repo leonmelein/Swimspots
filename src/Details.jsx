@@ -14,7 +14,7 @@ function Details(){
     const shareData = {
         title: state.name,
         text: state.description,
-        url: "https://swim.leonmelein.nl/location/"+state.id,
+        url: "https://swimspots.eu/location/"+state.id,
     };
 
     async function share(){

@@ -9,8 +9,8 @@ function Header() {
             <div id="header">
                 <div className="title container">
                     <Link to={"/"} >
-                        <img className="logo" src={logo} title='Zwemplek.nl'/>
-                        <h1>Zwemplek</h1>
+                        <img className="logo" src={logo} title='Swimspots'/>
+                        <h1>Swimspots</h1>
                     </Link>
                 </div>
             </div>
