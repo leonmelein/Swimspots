@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Brielse Meer Zoom West",
   "name": "Brielse Meer Zoom West",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 51.9069,
   "lon": 4.1968,
   "eu_designation": "1",
-  "e_coli": 110.0,
-  "int_ent": 46.0,
+  "e_coli": 270.0,
+  "int_ent": 210.0,
   "amenities": [
     5943907,
     5943915,
@@ -21,10 +21,5 @@
     5943929,
     5943898
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": null
-    }
-  ]
+  "warnings": []
 }

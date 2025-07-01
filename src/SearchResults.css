@@ -1,0 +1,9 @@
+em {
+    font-size: 1.5rem;
+    color: var(--button-click);
+}
+
+div.placeholder {
+    margin: auto;
+    text-align: center;
+}

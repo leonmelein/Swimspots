@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Summercamp",
   "name": "Summercamp Heino",
-  "current_status": "goed",
+  "current_status": "WAARSCHUWING",
   "lat": 52.4212,
   "lon": 6.2325,
   "eu_designation": "1",
-  "e_coli": 61.0,
-  "int_ent": 30.0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
   "amenities": [],
   "warnings": []
 }

@@ -7,11 +7,11 @@
   "website": null,
   "alternate_name": "Mirnser Klif",
   "name": "Mirnser Klif",
-  "current_status": "goed",
+  "current_status": "NADER_ONDERZOEK",
   "lat": 52.8504,
   "lon": 5.4809,
   "eu_designation": "2",
-  "e_coli": 140.0,
+  "e_coli": 200.0,
   "int_ent": 15.0,
   "amenities": [
     5943905,

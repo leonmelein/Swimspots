@@ -7,7 +7,7 @@
   "website": "http://www.detweebruggen.nl",
   "alternate_name": "Slingeplas",
   "name": "Slingeplas",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 51.9462,
   "lon": 6.6281,
   "eu_designation": "2",
@@ -27,10 +27,5 @@
     5943898,
     5943902
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
-    }
-  ]
+  "warnings": []
 }

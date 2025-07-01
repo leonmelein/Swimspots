@@ -7,11 +7,11 @@
   "website": "https://www.zaltbommel.nl",
   "alternate_name": "Tijningenplas Jeugdstrand",
   "name": "Tijningenplas Jeugdstrand",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 51.8,
   "lon": 5.2412,
   "eu_designation": "1",
-  "e_coli": 15.0,
+  "e_coli": 46.0,
   "int_ent": 15.0,
   "amenities": [
     5943907,
@@ -24,14 +24,5 @@
     5943929,
     5943898
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
-    },
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
-    }
-  ]
+  "warnings": []
 }

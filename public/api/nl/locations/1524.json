@@ -7,7 +7,7 @@
   "website": "http://www.eldoradoparken.nl/maasterp/index.htm",
   "alternate_name": "Dilkensplas",
   "name": "Dilkensplas",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 51.111,
   "lon": 5.8175,
   "eu_designation": "1",
@@ -32,10 +32,5 @@
     5943932,
     5943902
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
-    }
-  ]
+  "warnings": []
 }

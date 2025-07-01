@@ -1,0 +1,65 @@
+div.item {
+    /* background-color: var(--brand); */
+    /*
+    * Created with https://www.css-gradient.com
+    * Gradient link: https://www.css-gradient.com/?c1=bcd6f4&c2=7092d3&gt=l&gd=dcr
+    */
+    background: #BCD6F4;
+    background: linear-gradient(270deg, #BCD6F4, #7092D3);
+    border-radius: 1em;
+    padding: 1em 1em;
+    margin: 0.5em 0 0.5em 0;
+
+    .topRow {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        margin-bottom: 1em;
+
+        .name {
+            width: 100%;
+
+            h2.name {
+                font-size: 1.4rem;
+                margin: 0;
+            }
+
+            a {
+                text-decoration: none;
+                color: var(--text);
+            }
+
+            p {
+                margin: 0.25rem 0 0 0;
+            }
+        }
+
+        .status {
+            width: 100%;
+            text-align: right;
+            font-weight: 300;
+            text-transform: capitalize;
+            font-size: 1.5rem;
+        }
+    }
+
+    .tools {
+        text-align: right;
+
+        button.delete {
+            border: var(--button);
+            background-color: rgba(0, 0, 0, 0);
+            font-weight: bold;
+            color: var(--text);
+            border-radius: 0.5em;
+            padding: 0.5em;
+        }
+    
+        button.delete:hover {
+            background-color: var(--brand-dark);
+        }
+    }
+
+    
+}

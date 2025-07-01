@@ -11,8 +11,8 @@
   "lat": 51.4872,
   "lon": 4.2758,
   "eu_designation": "4",
-  "e_coli": 15.0,
-  "int_ent": 30.0,
+  "e_coli": 790.0,
+  "int_ent": 160.0,
   "amenities": [
     5943907,
     5943919,
@@ -28,10 +28,6 @@
     {
       "warning_type": "ONTRADEN_KWALITEIT",
       "warning_description": "Negatief zwemadvies gehele seizoen 2025 i.v.m. onvoldoende waterkwaliteit"
-    },
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": "Waarschuwing i.v.m. blauwalgen"
     }
   ]
 }

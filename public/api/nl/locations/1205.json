@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Plas Wilhelminapark",
   "name": "Plas Wilhelminapark",
-  "current_status": "goed",
+  "current_status": "WAARSCHUWING",
   "lat": 52.0248,
   "lon": 4.3288,
   "eu_designation": "2",
-  "e_coli": 94.0,
-  "int_ent": 30.0,
+  "e_coli": 230.0,
+  "int_ent": 46.0,
   "amenities": [
     5943929,
     5943892

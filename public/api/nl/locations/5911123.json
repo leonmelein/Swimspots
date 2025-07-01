@@ -12,7 +12,7 @@
   "lon": 4.6143,
   "eu_designation": "1",
   "e_coli": 15.0,
-  "int_ent": 15.0,
+  "int_ent": 30.0,
   "amenities": [],
   "warnings": []
 }

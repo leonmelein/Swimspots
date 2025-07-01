@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Plas Prinsenbos",
   "name": "Plas Prinsenbos",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 52.0075,
   "lon": 4.1982,
   "eu_designation": "2",
-  "e_coli": 130.0,
-  "int_ent": 77.0,
+  "e_coli": 110.0,
+  "int_ent": 140.0,
   "amenities": [
     5943907,
     5943897,
@@ -23,10 +23,5 @@
     5943930,
     5943902
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": null
-    }
-  ]
+  "warnings": []
 }

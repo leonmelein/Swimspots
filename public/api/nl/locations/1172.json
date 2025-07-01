@@ -11,8 +11,8 @@
   "lat": 52.3005,
   "lon": 4.6495,
   "eu_designation": "4",
-  "e_coli": 77.0,
-  "int_ent": 77.0,
+  "e_coli": 1200.0,
+  "int_ent": 330.0,
   "amenities": [
     5943906,
     5943907,
@@ -29,12 +29,12 @@
   ],
   "warnings": [
     {
-      "warning_type": "ONTRADEN_KWALITEIT",
-      "warning_description": "Negatief zwemadvies vanwege verminderde waterkwaliteit door intestinale enterococcen"
-    },
-    {
       "warning_type": "WAARSCHUWING_KWALITEIT",
       "warning_description": "Waarschuwing voor een verminderde waterkwaliteit. Kans op maag- en darmklachten."
+    },
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Negatief zwemadvies vanwege verminderde waterkwaliteit door intestinale enterococcen"
     }
   ]
 }

@@ -11,8 +11,8 @@
   "lat": 53.1564,
   "lon": 6.0802,
   "eu_designation": "3",
-  "e_coli": 270.0,
-  "int_ent": 20.0,
+  "e_coli": 480.0,
+  "int_ent": 80.0,
   "amenities": [
     5943906,
     5943907,

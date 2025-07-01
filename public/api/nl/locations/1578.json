@@ -2,7 +2,7 @@
   "id": 1578,
   "address": "Vooroever, Medemblik",
   "placename": "Medemblik",
-  "description": "LET OP! ZWEMPLEK VOOROEVER, REGATTASTRAND IS TIJDELIJK AFGELSOTEN VANWEGE EEN EVENEMENT VAN VRIJDAG 13 TOT EN MET VRIJDAG 20 JUNI 2025.\r\n\r\n\u2019Vlietsingel aan het IJsselmeer maakt deel uit van recreatiegebied De Vooroever. Er zijn drie zandstranden. Regattastrand (in de volksmond het Grote strand) ligt ten zuiden van een jachthaven. De andere twee liggen in Vlietsingel Poel (ook wel de Zwemkom genoemd), afgescheiden van het IJsselmeer door een basaltdam.",
+  "description": "Vlietsingel aan het IJsselmeer maakt deel uit van recreatiegebied De Vooroever. Er zijn drie zandstranden. Regattastrand (in de volksmond het Grote strand) ligt ten zuiden van een jachthaven. De andere twee liggen in Vlietsingel Poel (ook wel de Zwemkom genoemd), afgescheiden van het IJsselmeer door een basaltdam.",
   "photos": "Vlietsingel poel.PNG",
   "website": null,
   "alternate_name": "Vooroever; Vlietsingel Poel",
@@ -11,7 +11,7 @@
   "lat": 52.7653,
   "lon": 5.1188,
   "eu_designation": "1",
-  "e_coli": 15.0,
+  "e_coli": 140.0,
   "int_ent": 15.0,
   "amenities": [
     5943906,

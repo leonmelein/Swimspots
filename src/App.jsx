@@ -1,23 +1,23 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import Home from './Home.jsx'
-import Details from './Details.jsx'
+import './App.css'
+import { Details } from './Details';
+import { Favorites } from './Favorites';
+import { Header } from './Header';
+import { Search } from './Search'
+import {
+    Routes,
+    Route
+} from "react-router-dom";
+  
 
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
-
-const router = createBrowserRouter([
-    {
-        path: "/",
-        element: <Home />,
-    },
-    {
-        path: "/location/:locationID",
-        element: <Details />
-    }
-]);
-
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <RouterProvider router={router} />
-  </StrictMode>,
-)
+export default function App() {
+    return (
+        <>
+            <Header />
+            <Routes>
+                <Route path="/" element={<Favorites />} />
+                <Route path="add" element={<Search />} />
+                <Route path="location/:id" element={<Details />} />
+            </Routes>
+        </>
+    );
+}

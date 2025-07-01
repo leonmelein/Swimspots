@@ -26,10 +26,5 @@
     5943932,
     5943902
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": null
-    }
-  ]
+  "warnings": []
 }

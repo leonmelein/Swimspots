@@ -2,7 +2,7 @@
   "id": 985,
   "address": "Openderweg, Grootegast",
   "placename": "Grootegast",
-  "description": "Zwemwaterlocatie Watermolen Opende is een afgesloten waterplas. Het ligt aan de\r\nzuidzijde van Opende in de Gemeente Grootegast. Het gaat eigenlijk om 2 plassen water,\r\nde grote plas is een pingo die ontstaan is in de laatste IJstijd, de kleine plas is destijds\r\nontstaan als zandwinput. De kleine plas (die in de winter in verbinding staat met de grote\r\nplas, maar afsluitbaar is) is de zwemwaterplas.\r\nDe grote plas is aangewezen als natuurplas.\r\nHet zwemwater maakt deel uit van een recreatief terrein. Rondom de grote plas is er een\r\ncamping met allerlei voorzieningen. Achter de camping liggen weilanden",
+  "description": "Zwemwaterlocatie Watermolen Opende is een afgesloten waterplas. Het ligt aan de\r\nzuidzijde van Opende in de Gemeente Westerkwartier. Het gaat eigenlijk om 2 plassen water,\r\nde grote plas is een pingo die ontstaan is in de laatste IJstijd, de kleine plas is destijds\r\nontstaan als zandwinput. De kleine plas (die in de winter in verbinding staat met de grote\r\nplas, maar afsluitbaar is) is de zwemwaterplas.\r\nDe grote plas is aangewezen als natuurplas.\r\nHet zwemwater maakt deel uit van een recreatief terrein. Rondom de grote plas is er een\r\ncamping met allerlei voorzieningen. Achter de camping liggen weilanden",
   "photos": "GR-035-001 Recreatiezone Watermolen.jpg",
   "website": null,
   "alternate_name": "Watermolen",
@@ -12,7 +12,7 @@
   "lon": 6.2215,
   "eu_designation": "1",
   "e_coli": 30.0,
-  "int_ent": 20.0,
+  "int_ent": 15.0,
   "amenities": [
     5943905,
     5943906,
