@@ -1,0 +1,29 @@
+{
+  "id": 6170190,
+  "address": "Hooge Oude Veer, Anna Paulowna",
+  "placename": "Anna Paulowna",
+  "description": "De zwemwaterlocatie Hooge Oude Veer bij Anna Paulowna in de gemeente Hollands Kroon, is gelegen aan het Hooge Oude Veer. Dit is een primaire watergang van het Hoogheemraadschap Hollands Noorderkwartier. De locatie ligt langs de Lagedijk in Anna Paulowna. Er is een ligweide met een paar picknick tafels. De zwemzone is maximaal 1.50 m diep en is afgebakend met een drijflijn om de zwemmers te scheiden van het waterrecreatieverkeer (kano\u2019s, roeiboten, kleine recreatievaart). \r\nParkeerruimte voor auto\u2019s is beperkt. \r\nEr is geen toezicht op de zwemplek.",
+  "photos": "Hooge Oude Veer.PNG",
+  "website": null,
+  "alternate_name": null,
+  "name": "Hooge Oude Veer",
+  "current_status": "goed",
+  "lat": 52.8519,
+  "lon": 4.8125,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

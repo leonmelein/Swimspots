@@ -1,0 +1,24 @@
+{
+  "id": 1298,
+  "address": "Zwembadweg, Sint-Oedenrode",
+  "placename": "Sint-Oedenrode",
+  "description": "Zwemplas de Kienehoef is gelegen op camping de Kienhoef in het noordwesten van de gemeente Sint-Oedenrode.  De plas is 4 hectare groot, heeft een diepte van ongeveer 8 \u00e09 meter en heeft een zandige bodem.",
+  "photos": "NB-056-001 De Kienhoef.jpg",
+  "website": "http://www.kienehoef.nl/",
+  "alternate_name": "De Kienehoef",
+  "name": "De Kienehoef",
+  "current_status": "goed",
+  "lat": 51.5789,
+  "lon": 5.442,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943891,
+    5943892,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

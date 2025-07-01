@@ -1,0 +1,20 @@
+{
+  "id": 1327,
+  "address": "Kwabbestraat, Uden",
+  "placename": "Uden",
+  "description": "De zwemplas Hemelrijk ligt op het terrein van BillyBird Park Hemelrijk, ten zuidoosten van Volkel. Het pretpark ligt ten oosten van de N605 (Zeelandsedijk). De zwemplas is te bereiken via de hoofdingang van het pretpark, welke gelegen is aan de Zeelandsedijk 34a te Volkel.",
+  "photos": null,
+  "website": "https://www.billybird.nl",
+  "alternate_name": "Hemelrijk Zwemzone 2",
+  "name": "Hemelrijk Zwemzone 2",
+  "current_status": "goed",
+  "lat": 51.632,
+  "lon": 5.6831,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943891
+  ],
+  "warnings": []
+}

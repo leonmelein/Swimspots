@@ -1,0 +1,28 @@
+{
+  "id": 1268,
+  "address": "Enodedreef, Nuenen",
+  "placename": "Nuenen",
+  "description": "Dagstrand Enode ligt tussen Nuenen en Eeneind in de gemeente Nuenen, Gerwen en Nederwetten. De zwemlocatie ligt aan de zuidkant van de A270, de snelweg Eindhoven \u2013 Helmond. De plas is gelegen in de bosachtige omgeving van het natuurgebied Refelingsche Heide.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Enode",
+  "name": "Dagstrand Enode",
+  "current_status": "goed",
+  "lat": 51.4558,
+  "lon": 5.5472,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943892,
+    5943898,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

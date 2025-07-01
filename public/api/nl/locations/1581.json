@@ -1,0 +1,32 @@
+{
+  "id": 1581,
+  "address": "IJmeerdijk, Almere",
+  "placename": "Almere",
+  "description": "Het Almeerderstrand is een groot strand met aan de zuidkant het evenementenstrand en het deel Hondenstrand. Dit deel van het Almeerderstrand ligt langs de A6 en de spoorlijn. Het overige deel van Almeerderstrand is vrij toegankelijk. Het Almeerderstrand is gelegen aan het IJmeer bij Almere,ten noorden van de Hollandse brug; Aan de noordzijde ligt de jachthaven Marina Muiderzand.",
+  "photos": "Almeerderstrand[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Almeerderstrand",
+  "name": "Almeerderstrand",
+  "current_status": "goed",
+  "lat": 52.3346,
+  "lon": 5.14,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943917,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

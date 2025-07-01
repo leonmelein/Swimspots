@@ -1,0 +1,31 @@
+{
+  "id": 6834321,
+  "address": "Azieweg, Zoetermeer",
+  "placename": "Zoetermeer",
+  "description": "Naaktrecreatie aan Zoetermeerse Plas",
+  "photos": "23a Noord Aa naaktstrand_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Noord Aa Naaktstrand",
+  "name": "Noord Aa Naaktstrand",
+  "current_status": "goed",
+  "lat": 52.0847,
+  "lon": 4.5134,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943912,
+    5943929,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943897,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

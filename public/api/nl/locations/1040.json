@@ -1,0 +1,27 @@
+{
+  "id": 1040,
+  "address": "Wittendijk, Laren",
+  "placename": "Laren",
+  "description": "Zwemwater De Vrolijk ligt ten noorden van Laren, in een rustige bosrijke omgeving. Het zwemwater hoort bij een particuliere camping.",
+  "photos": "GLD-021-001 DE VROLIJK 2019.jpg",
+  "website": "http://www.campingdevrolijk.nl/",
+  "alternate_name": "De Vrolijk",
+  "name": "De Vrolijk",
+  "current_status": "goed",
+  "lat": 52.2183,
+  "lon": 6.3455,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943927,
+    5943897,
+    5943932
+  ],
+  "warnings": []
+}

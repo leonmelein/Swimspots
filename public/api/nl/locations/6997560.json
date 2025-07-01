@@ -1,0 +1,31 @@
+{
+  "id": 6997560,
+  "address": "Ossenbaardpad, Nijmegen",
+  "placename": "Nijmegen",
+  "description": "Nevengeul van de Waal gelegen tegenover het centrum van Nijmegen in Lent.",
+  "photos": "GLD-073-002 SPIEGELWAAL BORD 2019.jpg",
+  "website": null,
+  "alternate_name": "Spiegelwaal",
+  "name": "Spiegelwaal",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.8551,
+  "lon": 5.8602,
+  "eu_designation": "1",
+  "e_coli": 460.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_BIJZONDERE_OMSTANDIGHEID",
+      "warning_description": "Zwemmen wordt ontraden omdat de kwaliteit van het water hoge concentraties bacteriologische verontreinigingen kunnen bevatten."
+    }
+  ]
+}

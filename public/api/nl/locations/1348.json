@@ -1,0 +1,33 @@
+{
+  "id": 1348,
+  "address": "De Pol, Grolloo",
+  "placename": "Grolloo",
+  "description": "De zwemlocatie \u201cDe Berenkuil\u201d is gelegen te Grolloo. De zwemlocatie is gelegen op camping \u201cLandgoed De Berenkuil\u201d.  De totale oppervlakte van de plas is ca. 9500m2 met een maximale diepte van ca. 0,9m.",
+  "photos": "Recreatiezone_De_Berenkuil.jpg",
+  "website": null,
+  "alternate_name": "De Berenkuil",
+  "name": "De Berenkuil, Grolloo",
+  "current_status": "goed",
+  "lat": 52.9419,
+  "lon": 6.659,
+  "eu_designation": "1",
+  "e_coli": 143.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943915,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943901
+  ],
+  "warnings": []
+}

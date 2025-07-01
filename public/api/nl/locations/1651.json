@@ -1,0 +1,27 @@
+{
+  "id": 1651,
+  "address": "Zeehavenweg, IJmuiden aan zee",
+  "placename": "IJmuiden aan zee",
+  "description": "Recreatiegebied \u2018Het Kleine Strand\u2019 ligt in de gemeente \r\nVelsen aan de Noordzee. Om het strand te bereiken moet men door IJmuiden en het industriegebied \r\nIJmuiden-West heen.",
+  "photos": "ijmuidenkleinstrand2.png",
+  "website": null,
+  "alternate_name": "Klein Strand",
+  "name": "Ijmuiden Klein Strand",
+  "current_status": "goed",
+  "lat": 52.4603,
+  "lon": 4.563,
+  "eu_designation": "2",
+  "e_coli": 161.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943929,
+    5943931,
+    5943903
+  ],
+  "warnings": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1252,
+  "address": "Rietdijk, Breda",
+  "placename": "Breda",
+  "description": "De Asterdplas bevat een zandstrand met daarachter een grote lig- en speelweide. De Asterdplas heeft een lokale recreatiefunctie.",
+  "photos": "NB-011-001 De Asterdplas.jpg",
+  "website": "http://www.vvvbreda.nl/nl/ontdek-breda/natuur-water/zwemmen-surfen-in-breda/asterdplas/452",
+  "alternate_name": "Asterdplas",
+  "name": "Asterdplas",
+  "current_status": "goed",
+  "lat": 51.6273,
+  "lon": 4.7515,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

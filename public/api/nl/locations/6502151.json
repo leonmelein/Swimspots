@@ -1,0 +1,24 @@
+{
+  "id": 6502151,
+  "address": "Marwei, Jistrum",
+  "placename": "Jistrum",
+  "description": "Swimplak Blauwhoek ligt aan de noordoostzijde van het Burgumer Mar, ten zuidwesten van het dorp Jistrum in de gemeente Tytsjerksteradiel en is \u00e9\u00e9n van de kleinste zwemwaterlocaties in de provincie Frysl\u00e2n. Bij de zwemlocatie zijn een klein strand en ligweide aanwezig.",
+  "photos": "DSCN2621.JPG",
+  "website": null,
+  "alternate_name": "Swimplak Blauwhoek",
+  "name": "Swimplak Blauwhoek",
+  "current_status": "goed",
+  "lat": 53.2031,
+  "lon": 6.0487,
+  "eu_designation": "2",
+  "e_coli": 90.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943911,
+    5943892,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

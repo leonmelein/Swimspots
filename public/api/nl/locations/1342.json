@@ -1,0 +1,32 @@
+{
+  "id": 1342,
+  "address": "Rolderveld, Nooitgedacht",
+  "placename": "Nooitgedacht",
+  "description": "De zwemlocatie Hof van Saksen is gelegen in Nooitgedacht. De zwemlocatie Hof van Saksen is een ge\u00efsoleerde plas. Het strand is gelegen in de noordwesthoek. De lengte van het strand is ca.290m lang en ca. 20m breed. De maximale diepte is ca. 2,5 m",
+  "photos": "Recreatiezone_Hof_van_Saksen.jpg",
+  "website": null,
+  "alternate_name": "Hof Van Saksen",
+  "name": "Hof Van Saksen",
+  "current_status": "goed",
+  "lat": 52.9652,
+  "lon": 6.6735,
+  "eu_designation": "1",
+  "e_coli": 144.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

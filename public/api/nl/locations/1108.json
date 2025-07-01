@@ -1,0 +1,26 @@
+{
+  "id": 1108,
+  "address": "Dammerweg, Nederhorst Den Berg",
+  "placename": "Nederhorst Den Berg",
+  "description": "Het zwemstrand van De Bergse Akker in Nederhorst Den Berg ligt aan de westkant van de Spiegelplas. Er is een zandstrand met diverse speeltoestellen en een met drijflijnen afgebakend zwemgedeelte.",
+  "photos": "NH-060-001 Bergse Akker@72x.png",
+  "website": null,
+  "alternate_name": "De Bergse Akker",
+  "name": "De Bergse Akker",
+  "current_status": "goed",
+  "lat": 52.2665,
+  "lon": 5.048,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943929,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

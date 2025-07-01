@@ -1,0 +1,35 @@
+{
+  "id": 5934671,
+  "address": "Klaregroetweg, Langedijk",
+  "placename": "Langedijk",
+  "description": "De Plas Geestmerambacht (ook wel Zomerdel genoemd) vormt het hart van het recreatiegebied Geestmerambacht. Dit recreatiegebied ligt tussen Langedijk, Heerhugowaard, Alkmaar en Bergen.",
+  "photos": "Geestmerambacht Zwembaai 4.PNG",
+  "website": null,
+  "alternate_name": "Zwembaai 4",
+  "name": "Geestmerambacht, Zwembaai 4",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.6855,
+  "lon": 4.7716,
+  "eu_designation": "1",
+  "e_coli": 213.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943912,
+    5943913,
+    5943916,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

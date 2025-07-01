@@ -1,0 +1,33 @@
+{
+  "id": 1009,
+  "address": "Boomsweg, Wierden",
+  "placename": "Wierden",
+  "description": "Recreatieplas\u00a0het\u00a0Lageveld\u00a0is\u00a0in\u00a0twee\u00a0fasen\u00a0aangelegd:\u00a0de\u00a0surfvijver\u00a0is\u00a0ontstaan\u00a0door\u00a0de\u00a0zandzuiger\u00a0die\u00a0gebruikt\u00a0werd\u00a0bij\u00a0\r\nzandwinning.\u00a0De\u00a0rest\u00a0van\u00a0de\u00a0plas,\u00a0de\u00a0zwemvijver\u00a0en\u00a0kleutervijver,\u00a0is\u00a0uitgegraven.\u00a0\u00a0Het\u00a0zwemgedeelte\u00a0is\u00a0maximaal\u00a01,80\u00a0meter\u00a0diep\u00a0en\u00a0in\u00a0het\u00a0speciaal\u00a0voor\u00a0kinderen\u00a0\r\ningerichte\u00a0deel\u00a0is\u00a0de\u00a0waterdiepte\u00a0maximaal\u00a00,8\u00a0meter.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Het Lageveld; Zwemvijver",
+  "name": "Het Lageveld; Zwemvijver",
+  "current_status": "goed",
+  "lat": 52.3815,
+  "lon": 6.5906,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

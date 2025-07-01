@@ -1,0 +1,22 @@
+{
+  "id": 1282,
+  "address": "Boulevard, Vught",
+  "placename": "Vught",
+  "description": "Natuurbad de IJzeren Man ligt tussen het stad Vught en het dorp Cromvoirt in de gemeente Vught. De plas ligt in een bosachtig gebied, middenin in natuurgebied Vughtse Heide en Lunetten.",
+  "photos": "NB-062-101 De IJzeren Man Boulevard.jpg",
+  "website": "https://www.vught.nl",
+  "alternate_name": "Ijzeren Man, Boulevard",
+  "name": "Ijzeren Man, Boulevard",
+  "current_status": "goed",
+  "lat": 51.6506,
+  "lon": 5.2598,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943930,
+    5943907,
+    5943892
+  ],
+  "warnings": []
+}

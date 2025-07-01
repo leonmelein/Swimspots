@@ -1,0 +1,18 @@
+{
+  "id": 1000,
+  "address": "Sanatoriumlaan, Hellendoorn",
+  "placename": "Hellendoorn",
+  "description": "Besloten gesitueerde zwemplas voor de gasten van het Vakantiepark Hellendoorn",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Vp Hellendoorn Zuid",
+  "name": "Vakantiepark Hellendoorn Plas Zuid",
+  "current_status": "goed",
+  "lat": 52.4068,
+  "lon": 6.436,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [],
+  "warnings": []
+}

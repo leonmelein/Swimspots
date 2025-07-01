@@ -1,0 +1,30 @@
+{
+  "id": 8452780,
+  "address": "Bergen (NH)",
+  "placename": "Bergen (NH)",
+  "description": "De Lagune Camperduin is een waterlichaam dat geen natuurlijke oorsprong kent\r\nmaar uitgegraven is. De lagune ligt aan de Noordzeekust en is omringd door duinen.\r\nEen enkele duinenrij met twee duinkerven (een uitgegraven sleuf in de duinenrij).",
+  "photos": "NH-004-004.PNG",
+  "website": null,
+  "alternate_name": "Lagune Camperduin",
+  "name": "Lagune Camperduin",
+  "current_status": "goed",
+  "lat": 52.7236,
+  "lon": 4.639,
+  "eu_designation": 0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

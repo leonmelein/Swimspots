@@ -1,0 +1,25 @@
+{
+  "id": 1230,
+  "address": "Noldijk, Ridderkerk",
+  "placename": "Ridderkerk",
+  "description": "De zwemwaterlocatie Wevershoek is gelegen aan de noordzijde van de Waal (gelegen \r\ntussen  Heerjansdam  en  Hendrik-Ido-Ambacht).  De  zwemlocatie  is  genoemd  naar  het \r\nnabij gelegen wijk Wevershoek.",
+  "photos": "53_Plas_Wevershoek.jpg",
+  "website": null,
+  "alternate_name": "Plas Wevershoek",
+  "name": "Plas Wevershoek",
+  "current_status": "goed",
+  "lat": 51.8529,
+  "lon": 4.5678,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

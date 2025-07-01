@@ -1,0 +1,30 @@
+{
+  "id": 975,
+  "address": "Lange Hoek, Elahuizen",
+  "placename": "Elahuizen",
+  "description": "Het zwemwater ligt aan de zuidzijde van de Fluezen, dat onderdeel uitmaakt van de Friese boezem. Het zwemwater ligt in de gemeente De Fryske Marren.",
+  "photos": "De lange hoek.jpg",
+  "website": null,
+  "alternate_name": "Elahuizen",
+  "name": "Elahuizen De Lange Hoek",
+  "current_status": "goed",
+  "lat": 52.9391,
+  "lon": 5.562,
+  "eu_designation": "1",
+  "e_coli": 250.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943891,
+    5943892,
+    5943898,
+    5943895,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

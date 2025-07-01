@@ -1,0 +1,28 @@
+{
+  "id": 1137,
+  "address": "Gemaalweg, Hensbroek",
+  "placename": "Hensbroek",
+  "description": "De Leijen ligt ten zuidwesten van de gemeente Hensbroek, naast camping Holiday. De plas wordt omgeven door land- en tuinbouwgronden, ernaast staan kassen. De Leijen is ontstaan door zandafgraving in jaren zestig. Tussen 21.00 uur en 07.00 uur gesloten voor publiek.",
+  "photos": "NH-041-001 De Leijen.png",
+  "website": null,
+  "alternate_name": "De Leijen",
+  "name": "De Leijen",
+  "current_status": "goed",
+  "lat": 52.6551,
+  "lon": 4.874,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

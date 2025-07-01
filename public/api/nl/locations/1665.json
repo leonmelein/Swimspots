@@ -1,0 +1,27 @@
+{
+  "id": 1665,
+  "address": "Tweede Slag, Rockanje",
+  "placename": "Rockanje",
+  "description": "De zwemwaterlocatie Rockanje is het zuidelijkste gelegen strand van gebied Maasvlakte en Voorne dat nog aan de Noordzee ligt. Het ligt in de bocht (Rak van Scheelhoek) naar de Haringvlietsluizen. De plaats Rockanje ligt in het achterland van dit strand. De beschermde duinen van Voornes Duin liggen direct tegen het strand. Ook de zee en het strand zijn beschermd als N2000-gebied Voordelta.",
+  "photos": "Rockanje onderbord.jpg",
+  "website": null,
+  "alternate_name": "Rockanje Badstrand",
+  "name": "Rockanje Badstrand",
+  "current_status": "goed",
+  "lat": 51.8699,
+  "lon": 4.0461,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

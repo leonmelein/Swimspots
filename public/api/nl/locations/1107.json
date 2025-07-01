@@ -1,0 +1,26 @@
+{
+  "id": 1107,
+  "address": "Rietkraag, Wijdemeren",
+  "placename": "Wijdemeren",
+  "description": "De Spiegelplas is onderdeel van de Noordelijke Vechtplassen. De zwemlocatie ligt aan de zuidoever van de Spiegelplas. De waterdiepte wordt geschat op ongeveer 1,2 meter.",
+  "photos": "Googpad Grootstrand (Spiegelplas).PNG",
+  "website": null,
+  "alternate_name": "Googpad Grootstrand",
+  "name": "Googpad Grootstrand (Spiegelplas)",
+  "current_status": "goed",
+  "lat": 52.2614,
+  "lon": 5.0675,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943929,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

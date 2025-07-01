@@ -1,0 +1,29 @@
+{
+  "id": 1598,
+  "address": "Uitdam",
+  "placename": "Uitdam",
+  "description": "Het strand hoort bij Camping Uitdam. De zwemplek is te bereiken via de ingang van de camping. Strand Uitdam is in de eerste plaats bestemd voor campinggasten, maar daggasten zijn er ook welkom. Ze hoeven niet te betalen (alleen voor het parkeren), ze moeten zich wel melden bij de receptie.",
+  "photos": "strand uitdam.png",
+  "website": null,
+  "alternate_name": "Uitdam Noord",
+  "name": "Uitdam Noord",
+  "current_status": "goed",
+  "lat": 52.4282,
+  "lon": 5.0765,
+  "eu_designation": "1",
+  "e_coli": 180.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943892,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

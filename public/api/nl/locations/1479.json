@@ -1,0 +1,22 @@
+{
+  "id": 1479,
+  "address": "Grevelingenweg, Dirksland",
+  "placename": "Dirksland",
+  "description": "Zwemlocatie Herkingen Badstrand ligt op het eiland Goeree-Overflakkee, nabij kern Herkingen in de gemeente Dirksland. Het zwemstrand is 250 lang en 25 meter breed en staat niet onder invloed van getij.",
+  "photos": "04d_Herkingen_Badstrand.jpg",
+  "website": null,
+  "alternate_name": "Herkingen Badstrand",
+  "name": "Herkingen Badstrand",
+  "current_status": "goed",
+  "lat": 51.708,
+  "lon": 4.0798,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943929,
+    5943923,
+    5943892
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1154,
+  "address": "Sportlaan, Alphen aan den Rijn",
+  "placename": "Alphen aan den Rijn",
+  "description": "De Zegerplas ligt aan de oostkant van Alphen aan den Rijn. De plas is onderdeel van een recreatiegebied dat aan de westkant wordt begrensd door het stedelijk gebied van Alphen aan den Rijn.",
+  "photos": "19_Zeegerplas_Speelvijver_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Zegerplas Speel",
+  "name": "Zegerplas Speelvijver",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.1358,
+  "lon": 4.678,
+  "eu_designation": "4",
+  "e_coli": 220.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943897,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Dit zwemseizoen (1 mei \u2013 1 oktober) geldt voor deze locatie een negatief zwemadvies.  Dit komt doordat de waterkwaliteit in de afgelopen vier jaar gemiddeld \u2018slecht\u2019 was. Bij \u2018slecht\u2019 is er een grote kans op huid-, maag- of darmklachten. De waterkwaliteit kan veranderen en varieert van \u2018uitstekend\u2019 tot \u2018slecht\u2019. De meest recente meting geeft de huidige waterkwaliteit aan."
+    }
+  ]
+}

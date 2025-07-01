@@ -1,0 +1,25 @@
+{
+  "id": 1290,
+  "address": "Ekkersweijer, Best",
+  "placename": "Best",
+  "description": " Aquabest is een recreatieterrein van circa 32 hectare groot. De zwemplas is daar een onderdeel van en beslaat circa 25 hectare. ",
+  "photos": "NB-007-001 Aquabest.jpg",
+  "website": "http://www.aquabest.nl/",
+  "alternate_name": "Aquabest",
+  "name": "Aquabest",
+  "current_status": "goed",
+  "lat": 51.4967,
+  "lon": 5.4336,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943911,
+    5943892,
+    5943927,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

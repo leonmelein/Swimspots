@@ -1,0 +1,29 @@
+{
+  "id": 1586,
+  "address": "Randmeerweg, Nunspeet",
+  "placename": "Nunspeet",
+  "description": "Ter hoogte van Nunspeet ligt direct aan het Veluwemeer camping De Oude Pol. De camping heeft\r\neen klein zandstrandje, dat de offici\u00eble zwemlocatie is. Een drijflijn markeert de zwemzone; toezicht is\r\nniet aanwezig. Het strand is gratis toegankelijk voor de mensen op de camping; buitenstaanders\r\nhebben geen toegang tot het strand. Camping De Oude Pol, en dus ook het strand, is jaarlijks\r\ngeopend van 1 april tot 1 november. In die periode is het strand dag en nacht toegankelijk.",
+  "photos": "GLD-044-001 DE OUDE POL 2024.jpg",
+  "website": "http://www.deoudepol.nl/",
+  "alternate_name": "De Oude Pol",
+  "name": "De Oude Pol",
+  "current_status": "goed",
+  "lat": 52.3925,
+  "lon": 5.7259,
+  "eu_designation": "7",
+  "e_coli": 61.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943919,
+    5943929,
+    5943892,
+    5943924,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

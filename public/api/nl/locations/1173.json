@@ -1,0 +1,36 @@
+{
+  "id": 1173,
+  "address": "IJweg 1215, Hoofddorp",
+  "placename": "Hoofddorp",
+  "description": "Het Grote Strand is een van de twee offic\u00eble zwemplekken van Recreatieplas Toolenburg, een recreatiegebied in de gemeente Haarlemmermeer. Aan de noordoostkant grenst het gebied aan een park waar gewandeld en gespeeld kan worden. Ten zuidoosten van de plas mag de natuur zijn gang gaan. De westzijde, waar ook het Grote Strand te vinden is, is bedoeld voor oever- en waterrecreatie. In dit gebied kunt u zonnen, zwemmen en surfen.",
+  "photos": "Recreatieplas Toolenburg Grote strand.PNG",
+  "website": null,
+  "alternate_name": "Recreatieplas Toolenburg, Grote Strand",
+  "name": "Recreatieplas Toolenburg, Grote Strand",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.2971,
+  "lon": 4.6456,
+  "eu_designation": "2",
+  "e_coli": 370.0,
+  "int_ent": 250.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_ZWEMMERSJEUK",
+      "warning_description": null
+    }
+  ]
+}

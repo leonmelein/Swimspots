@@ -1,0 +1,27 @@
+{
+  "id": 1119,
+  "address": "Menisweg, Schagen",
+  "placename": "Schagen",
+  "description": "De  Wiel  ligt  naast het overdekte zwembad met dezelfde naam, op de grens van de bebouwing en het landbouwgebied rond Schagen.",
+  "photos": "Strand de Wiel.PNG",
+  "website": null,
+  "alternate_name": "Strand De Wiel, Schagen",
+  "name": "Strand De Wiel, Schagen",
+  "current_status": "goed",
+  "lat": 52.7823,
+  "lon": 4.7785,
+  "eu_designation": "2",
+  "e_coli": 77.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1095,
+  "address": "., .",
+  "placename": ".",
+  "description": "De recreatie-eilanden Markus Pos en De Meent liggen in de Loosdrechtse Plassen. Het strand op Eiland Markus Pos bevindt zich aan de zuidzijde van het eiland.\r\n\r\nTijdelijk ontbreekt op dit eiland het informatiebord van de provincie Noord-Holland.",
+  "photos": "Strand Markus Pos (Loosdrechtse plassen).PNG",
+  "website": null,
+  "alternate_name": "Strand Markus Pos",
+  "name": "Strand Markus Pos, Loosdrechtse Plassen",
+  "current_status": "goed",
+  "lat": 52.1923,
+  "lon": 5.0769,
+  "eu_designation": "2",
+  "e_coli": 77.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943929,
+    5943898,
+    5943891,
+    5943927
+  ],
+  "warnings": []
+}

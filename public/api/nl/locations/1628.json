@@ -1,0 +1,25 @@
+{
+  "id": 1628,
+  "address": "onbekend, Oostflakkee",
+  "placename": "Oostflakkee",
+  "description": "Het strand ter plaatse van de zwemwaterlocatie Hellegatsplein in de gemeente Oostflakkee, is \r\ngelegen aan het Hollandsch Diep op het recreatieterrein \u201cHellegatsplein Oost\u201d. Ten westen van het \r\nrecreatieterrein ligt autosnelweg A29 (knooppunt Hellegatsplein).",
+  "photos": "03b_Recreatieterrein_Hellegatsplein_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Recreatieterrein Hellegatsplein",
+  "name": "Recreatieterrein Hellegatsplein",
+  "current_status": "goed",
+  "lat": 51.7063,
+  "lon": 4.3984,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1442,
+  "address": "Velkenskamp 1, Panheel",
+  "placename": "Panheel",
+  "description": "In de loop der jaren is het terrein rondom de zwemplas ingericht als evenementen  terrein.  Zo  is  bij  de  plas  een  opblaasbare  glijbaan  en  een  touwbaan boven  het  water  aanwezig. De plas is ongeveer 3 ha groot. De diepte van de plas is niet bekend. Het betreft een Blauwe Vlag locatie.",
+  "photos": "Dagstrand Fun Beach.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Fun Beach",
+  "name": "Dagstrand Fun Beach",
+  "current_status": "goed",
+  "lat": 51.1769,
+  "lon": 5.8632,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

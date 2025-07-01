@@ -1,0 +1,28 @@
+{
+  "id": 8428190,
+  "address": "Zuiderdijk, Wijdenes",
+  "placename": "Wijdenes",
+  "description": "Zwemlocatie Wijdenes ligt aan de Zuiderdijk naast het Reddingsstation Wijdenes. Er is ook een boothelling aanwezig, waar boten te water kunnen worden gelaten.\r\nBij het zwemstrand ligt een grote ligweide, waar een speeltoestel staat in de vorm van een boot. Verder staan er vuilnisbakken en zijn er toiletten aanwezig.\r\nDe locatie is goed bereikbaar met de auto. Er is een parkeerplaats voor auto\u2019s en fietsen.",
+  "photos": "NH-018-003.PNG",
+  "website": null,
+  "alternate_name": "Wijdenes",
+  "name": "Wijdenes",
+  "current_status": "goed",
+  "lat": 52.631,
+  "lon": 5.1717,
+  "eu_designation": 0,
+  "e_coli": 77.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

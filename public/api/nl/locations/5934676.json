@@ -1,0 +1,27 @@
+{
+  "id": 5934676,
+  "address": "Jan Beijerpad, Amsterdam",
+  "placename": "Amsterdam",
+  "description": "Het Diemerpark is een stadspark in het oosten van Amsterdam. Het ligt tussen het Amsterdam-\r\nRijnkanaal en IJburg (Haveneiland) in. Het Diemerpark is een stadspark\r\nwaar natuur uitgebreid de ruimte krijgt. Er zijn veel plant- en diersoorten aanwezig. Het strand ligt aan de noordoostkant van het park, aan het water dat Haveneiland scheidt van het Diemerpark.",
+  "photos": "Diemerpark.PNG",
+  "website": null,
+  "alternate_name": "Strand Diemerpark",
+  "name": "Strand Diemerpark",
+  "current_status": "goed",
+  "lat": 52.3545,
+  "lon": 4.987,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943898,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

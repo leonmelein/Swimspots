@@ -1,0 +1,31 @@
+{
+  "id": 1174,
+  "address": "IJweg 961, Hoofddorp",
+  "placename": "Hoofddorp",
+  "description": "Het Haarlemmermeerse Bos is een ongeveer 115 ha groot, parkachtig gebied ten noordwesten van Hoofddorp. Het Zuidstrand is een van de twee offici\u00eble zwemlocaties in dit gebied.",
+  "photos": "Haarlemmermeerse Bos Zuidstrand (zandwinplas).PNG",
+  "website": null,
+  "alternate_name": "Haarlemmermeerse Bos Zuidstrand",
+  "name": "Haarlemmermeerse Bos Zuidstrand",
+  "current_status": "goed",
+  "lat": 52.3251,
+  "lon": 4.6709,
+  "eu_designation": "2",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943932
+  ],
+  "warnings": []
+}

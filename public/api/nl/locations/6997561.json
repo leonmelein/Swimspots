@@ -1,0 +1,32 @@
+{
+  "id": 6997561,
+  "address": "Willem van Arenbergstraat, Lent",
+  "placename": "Lent",
+  "description": "Zwemplas nabij woonwijk",
+  "photos": "GLD-072-001 LENTSE PLAS 2019.jpg",
+  "website": null,
+  "alternate_name": "Lentseplas",
+  "name": "De Lentse Plas",
+  "current_status": "goed",
+  "lat": 51.8786,
+  "lon": 5.8643,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

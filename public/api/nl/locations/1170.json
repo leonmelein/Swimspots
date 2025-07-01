@@ -1,0 +1,25 @@
+{
+  "id": 1170,
+  "address": "Haarlemmertrekvaart, Oegstgeest",
+  "placename": "Oegstgeest",
+  "description": "De Klinkenbergerplas bestaat uit twee plassen die door een \"puindam\" van elkaar gescheiden zijn. De Kleine Klinkenbergerplas is de noordelijke plas en is nog in ontwikkeling. De zuidelijke Grote Klinkenbergerplas is opengesteld voor recreatie. Aan de noordzijde van de plas ligt de zwemlocatie Noordhoek.",
+  "photos": "07a Klinkenbergerplas NW-oever_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Klinkenberg Nwo",
+  "name": "Klinkenbergerplas Noordwestoever",
+  "current_status": "goed",
+  "lat": 52.1992,
+  "lon": 4.4859,
+  "eu_designation": "1",
+  "e_coli": 94.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

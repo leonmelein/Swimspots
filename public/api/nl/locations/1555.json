@@ -1,0 +1,27 @@
+{
+  "id": 1555,
+  "address": "Zeevangszeedijk, Edam-Volendam",
+  "placename": "Edam-Volendam",
+  "description": "Strandbad Edam is een camping met zwemgelegenheid aan het Markermeer, dichtbij de haven van Edam.",
+  "photos": "Strand Edam.PNG",
+  "website": null,
+  "alternate_name": "Strandbad Edam",
+  "name": "Strandbad Edam",
+  "current_status": "goed",
+  "lat": 52.5197,
+  "lon": 5.072,
+  "eu_designation": "3",
+  "e_coli": 110.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943891,
+    5943927,
+    5943897,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1291,
+  "address": "Witvenseweg, Veldhoven",
+  "placename": "Veldhoven",
+  "description": "De zwemlocatie ligt ten zuiden van de gemeente Veldhoven en is alleen voor de camping. De plas is 3,3 hectare groot, heeft een maximale diepte van zeven \u00e0 acht meter en heeft een lemige zandbodem.",
+  "photos": "NB-059-001 't Witven.jpg",
+  "website": "http://www.witven.nl",
+  "alternate_name": "Witven",
+  "name": "'t Witven",
+  "current_status": "goed",
+  "lat": 51.3979,
+  "lon": 5.4108,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943917,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

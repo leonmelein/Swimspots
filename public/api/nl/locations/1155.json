@@ -1,0 +1,34 @@
+{
+  "id": 1155,
+  "address": "Kudelstaartseweg, Aalsmeer",
+  "placename": "Aalsmeer",
+  "description": "De Westeinderplassen bestaan uit een grote plas en verschillende kleinere plassen. Ze zijn met elkaar verbonden door een netwerk van kleine slootjes. Vrouwentroost is een van de offici\u00eble zwemlocaties. Er is een recreatiestrand.",
+  "photos": "Westeinderplassen Vrouwentroost.PNG",
+  "website": null,
+  "alternate_name": "Westeinderplassen, Vrouwentroost",
+  "name": "Westeinderplassen, Vrouwentroost",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.2529,
+  "lon": 4.757,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943929,
+    5943891,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943900
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

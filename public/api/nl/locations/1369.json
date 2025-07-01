@@ -1,0 +1,26 @@
+{
+  "id": 1369,
+  "address": "Dallingeweersterweg, Termunten",
+  "placename": "Termunten",
+  "description": "De zwemlocatie \u201cDe Eems\u201d is gelegen te Termunten. Termunten is een dorp in de gemeente \r\nDelfzijl in de provincie Groningen. De zwemlocatie is onderdeel van een groter ge\u00efsoleerd watersysteem en is verbonden via een \r\nsmalle doorgang met het omliggende water.",
+  "photos": "GR-006-001 Recreatiezone Eems.jpg",
+  "website": null,
+  "alternate_name": "De Eems",
+  "name": "De Eems, Termunten",
+  "current_status": "goed",
+  "lat": 53.3009,
+  "lon": 7.0401,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929
+  ],
+  "warnings": []
+}

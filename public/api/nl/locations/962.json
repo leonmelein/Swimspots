@@ -1,0 +1,33 @@
+{
+  "id": 962,
+  "address": "Solcamastraat 30, Sumar",
+  "placename": "Sumar",
+  "description": "Het zwemwater ligt aan de westzijde van het Burgumer Mar, net ten zuiden van de uitmonding van het Prinses Margriet kanaal, in de gemeente Tytsjerksteradiel. Het is onderdeel van Vakantiepark Bergumermeer. Het zwemwater is ontstaan in de jaren \u201960 van de vorige eeuw als onderdeel van het omliggende recreatieterrein. Het terrein was tot dan de opslagplaats van baggergrond,afkomstig uit het PM- kanaal. Door de opslag ontstond een heuvelachtig terrein, waarop zich later een begroeiing ontwikkelde waardoor het terrein daarom \u201cKlein Zwitserland\u201d werd genoemd.",
+  "photos": "FR-024-001 Klein Zwitserland Sumar.jpg",
+  "website": null,
+  "alternate_name": "Klein Zwitserland",
+  "name": "Dagrecreatieterrein Klein Zwitserland",
+  "current_status": "goed",
+  "lat": 53.1931,
+  "lon": 6.0316,
+  "eu_designation": "3",
+  "e_coli": 270.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943915,
+    5943929,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

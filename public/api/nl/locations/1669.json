@@ -1,0 +1,26 @@
+{
+  "id": 1669,
+  "address": "Strandweg, ter Heijde",
+  "placename": "ter Heijde",
+  "description": "Het badstrand van Ter Heijde ligt aan de Noordzee bij Monster / \u2019s Gravenzande tussen Hoek van Holland en Den Haag. De plaatsen Ter Heijde en Monster liggen achter/tegen dit strand aan. Het strand (Monster) is bereikbaar via Den Haag A12-A4-N464 en Rotterdam A20-N220 en via trein en bus. Het strand valt onder de gemeente Westland. Deze zwemlocatie beperkt zich tot de drie strandopgangen rondom Ter Heijde.",
+  "photos": "01i_4+5_Ter_Heijde_Slag_Strandweg_en_Karel_Doormanweg v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Monster Ter Heijde",
+  "name": "Monster Ter Heijde",
+  "current_status": "goed",
+  "lat": 52.0331,
+  "lon": 4.1672,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

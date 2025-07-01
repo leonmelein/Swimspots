@@ -1,0 +1,27 @@
+{
+  "id": 304872,
+  "address": "De Duizendmeterweg, Amstelveen",
+  "placename": "Amstelveen",
+  "description": "De Grote Speelweide ligt in het Amsterdamse Bos. De waterdiepte van de vijver varieert van 1 tot 1,5 meter.",
+  "photos": "NH-089-001 Amsterdamse Bos.png",
+  "website": null,
+  "alternate_name": "De Grote Speelweide",
+  "name": "De Grote Speelweide, Amsterdamse Bos",
+  "current_status": "goed",
+  "lat": 52.3197,
+  "lon": 4.8282,
+  "eu_designation": "2",
+  "e_coli": 250.0,
+  "int_ent": 160.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943930
+  ],
+  "warnings": []
+}

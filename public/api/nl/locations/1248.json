@@ -1,0 +1,31 @@
+{
+  "id": 1248,
+  "address": "Braakmanweg, Terneuzen",
+  "placename": "Terneuzen",
+  "description": "Zwemlocatie in de Braakmankreek, alleen bereikbaar via de camping",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Braakmankreek (Zwembad Camping)",
+  "name": "Braakmankreek (Zwembad Camping)",
+  "current_status": "goed",
+  "lat": 51.3173,
+  "lon": 3.7224,
+  "eu_designation": "1",
+  "e_coli": 38.0,
+  "int_ent": 18.0,
+  "amenities": [
+    5943906,
+    5943910,
+    5943897,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943901,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1658,
+  "address": "Krimweg, Texel",
+  "placename": "Texel",
+  "description": "Het strand \r\nDe Krim ligt aan de Noordzeekust bij paal 28 en grenst over de volle lengte aan het nationaal park \r\nDuinen van Texel.",
+  "photos": "NH-001-001.PNG",
+  "website": null,
+  "alternate_name": "De Cocksdorp",
+  "name": "De Cocksdorp",
+  "current_status": "goed",
+  "lat": 53.1632,
+  "lon": 4.8193,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943914,
+    5943918,
+    5943921,
+    5943890,
+    5943926,
+    5943927,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

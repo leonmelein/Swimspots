@@ -1,0 +1,25 @@
+{
+  "id": 1158,
+  "address": "Anton Schieperspad, Amsterdam",
+  "placename": "Amsterdam",
+  "description": "De Nieuwe Meer ligt ten zuidwesten van Amsterdam. Oeverlanden is een van de twee offici\u00eble zwemlocaties. Er zijn drie zwemstrandjes.",
+  "photos": "Nieuwe Meer Westzijde Oeverlanden.PNG",
+  "website": null,
+  "alternate_name": "Nieuwe Meer Westzijde, Oeverlanden",
+  "name": "Nieuwe Meer Westzijde, Oeverlanden",
+  "current_status": "goed",
+  "lat": 52.3336,
+  "lon": 4.8128,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943891,
+    5943893,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

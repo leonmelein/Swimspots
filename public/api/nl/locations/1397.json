@@ -1,0 +1,31 @@
+{
+  "id": 1397,
+  "address": "Schurerlaan, Wateren",
+  "placename": "Wateren",
+  "description": "De zwemlocatie \u201ede waterse koele\u201f maakt deel uit van de camping d'olde landschap. De zwemlocatie bestaat uit 1 zwemplas. De maximale diepte van het water is 2.50 meter. Bij de entree van de plas is een informatiebord aanwezig met informatie betreffend de locatie.",
+  "photos": "Recreatiezone_De_Waterse_Koele.jpg",
+  "website": null,
+  "alternate_name": "De Waterse Koele",
+  "name": "De Waterse Koele",
+  "current_status": "goed",
+  "lat": 52.923,
+  "lon": 6.2667,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

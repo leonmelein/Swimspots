@@ -1,0 +1,32 @@
+{
+  "id": 1012,
+  "address": "Oude Almeloseweg 11, Oldenzaal",
+  "placename": "Oldenzaal",
+  "description": "In de jaren zeventig is van het landgoed \u201cHet Hulsbeek\u201d in Oldenzaal een recreatiepark \r\ngemaakt. Doordat veel van het oude landgoed in stand is gebleven, is het nu een \r\nafwisselend gebied van 230 ha met bossen, waterpartijen met stranden en ligweiden, \r\nheidevelden, vennetjes, weilanden en recreatieve voorzieningen.",
+  "photos": null,
+  "website": "http://www.hethulsbeek.nl/",
+  "alternate_name": "Hulsbeek; Strand 1",
+  "name": "Hulsbeek; Strand 1",
+  "current_status": "goed",
+  "lat": 52.3059,
+  "lon": 6.892,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1351,
+  "address": "Woortmanslaan, Veendam",
+  "placename": "Veendam",
+  "description": "De zwemlocatie Langebosch is gelegen te Veendam. Het strand gelegen op het noordoosten heeft een lengte van lengte van ca. 120m en een gemiddelde breedte van ca. 10m.",
+  "photos": "GR-014-001 Recreatiezone Langebosch.jpg",
+  "website": null,
+  "alternate_name": "Langebosch,  Veendam",
+  "name": "Langebosch, Borgerswold Veendam",
+  "current_status": "WAARSCHUWING",
+  "lat": 53.0898,
+  "lon": 6.8442,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

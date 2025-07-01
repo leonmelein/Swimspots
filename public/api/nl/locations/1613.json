@@ -1,0 +1,32 @@
+{
+  "id": 1613,
+  "address": "Rijnstraat, Buren",
+  "placename": "Buren",
+  "description": "Zwemplas \u2018Eiland van Maurik\u2019 ligt aan de zuidkant van de rivier Neder-Rijn ten noorden van het dorp\r\nMaurik in de gemeente Buren. Benedenstrooms, aan de westzijde, is er een open verbinding met de\r\nrivier.",
+  "photos": "GLD-047-001 STRAND EILAND VAN MAURIK 2023.jpg",
+  "website": "http://www.uiterwaarde.nl/",
+  "alternate_name": "Eiland Van Maurik",
+  "name": "Strand Eiland Van Maurik",
+  "current_status": "goed",
+  "lat": 51.9745,
+  "lon": 5.423,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

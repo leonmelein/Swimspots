@@ -1,0 +1,24 @@
+{
+  "id": 1049,
+  "address": "Bloklandsekade, Ottoland",
+  "placename": "Ottoland",
+  "description": "De voormalige zandwinput Put van Ottoland is een zwemwater van ongeveer 1,8 ha groot en ligt in Ottoland in de gemeente Molenlanden.",
+  "photos": "47_Put_van_Ottoland.jpg",
+  "website": null,
+  "alternate_name": "Put Van Ottoland",
+  "name": "Put Van Ottoland",
+  "current_status": "goed",
+  "lat": 51.8714,
+  "lon": 4.8592,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943907,
+    5943929,
+    5943892,
+    5943927,
+    5943897
+  ],
+  "warnings": []
+}

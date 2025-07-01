@@ -1,0 +1,34 @@
+{
+  "id": 1163,
+  "address": "Reeuwijkse Hout, Reeuwijk",
+  "placename": "Reeuwijk",
+  "description": "Even ten noorden van de zandwinplas Broekvelden en Vettenbroek ligt zwemlocatie Reeuwijkse Hout. Een recreatieplas met speel- en ligweide. Toiletten, douches en EHBO zijn aanwezig op het strand. In dit gebied bevinden zich onder andere 'Restaurant Paviljoen Reeuwijkse Hout' en 'Vakantiepark Landal De Reeuwijkse Plassen'.",
+  "photos": "24 Reeuwijkse Hout_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Reeuwijkse Hout",
+  "name": "Reeuwijkse Hout",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.0583,
+  "lon": 4.7422,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing blauwalgen"
+    }
+  ]
+}

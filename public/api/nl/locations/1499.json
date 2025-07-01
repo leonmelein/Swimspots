@@ -1,0 +1,33 @@
+{
+  "id": 1499,
+  "address": "Weg van de Buitenlandse Pers, Ouwerkerk",
+  "placename": "Ouwerkerk",
+  "description": "De zwemlocatie ligt in de provincie Zeeland, gemeente Schouwen-Duiveland. De dichtstbijzijnde \r\nplaats is Ouwerkerk.",
+  "photos": "Ouwerkerk, hoek van Ouwerkerk badstrand (2).jpg",
+  "website": null,
+  "alternate_name": "Strand Ouwerkerk",
+  "name": "Ouwerkerk Hoek Van Ouwerkerk Badstrand",
+  "current_status": "goed",
+  "lat": 51.6163,
+  "lon": 3.9619,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943921,
+    5943890,
+    5943923,
+    5943891,
+    5943925,
+    5943927,
+    5943929,
+    5943931,
+    5943900,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

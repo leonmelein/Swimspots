@@ -1,0 +1,27 @@
+{
+  "id": 1544,
+  "address": "Nieuwe Schans, Lith",
+  "placename": "Lith",
+  "description": "De Greffeling Noordzijde (ook wel Camping \u2019t Zonnestrand genoemd) ligt bij Nieuwe Schans aan de\r\n\u2018plas\u2019 De Greffeling, welke in verbinding staat met de Maas.",
+  "photos": "GLD-060-001_2017P2_CAMPING_DE_SCHANS_BORD.jpg",
+  "website": null,
+  "alternate_name": "Camping   De Schans",
+  "name": "Camping   De Schans",
+  "current_status": "goed",
+  "lat": 51.8357,
+  "lon": 5.4958,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943929,
+    5943892,
+    5943924,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

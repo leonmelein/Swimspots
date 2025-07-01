@@ -1,0 +1,31 @@
+{
+  "id": 969,
+  "address": "Bast-Bakkerpaad, Langweer",
+  "placename": "Langweer",
+  "description": "Het zwemwater ligt aan de Langwarder Wielen, in het plaatsje Langweer in de gemeente De Fryske Marren. Het zwemwater is gelijk met de passantenhaven aangelegd. Het zwemwater maakt deel uit van recreatiepark Leyenspolder.",
+  "photos": "FR-034-001 Langwarder Wielen.jpg",
+  "website": null,
+  "alternate_name": "Langwarder Wielen",
+  "name": "Langwarder Wielen",
+  "current_status": "goed",
+  "lat": 52.9627,
+  "lon": 5.7216,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943913,
+    5943915,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

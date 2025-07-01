@@ -1,0 +1,26 @@
+{
+  "id": 1388,
+  "address": "Baaisterhoofdweg, Delfzijl",
+  "placename": "Delfzijl",
+  "description": "Het Badstrand Delfzijl bij Delfzijl ligt aan een uitloper van de Waddenzee (de zee gaat over in de \r\nEems-Dollard). Het water van de Eems-Dollard is een uitloper van de Waddenzee en staat in open verbinding met de \r\nzee hierdoor is het water op de zwemlocatie zout. Het badstrand Delfzijl bevindt zich buitendijks aan de rand van Delfzijl en nabij industrie en havens. \r\nHet aan de zwemlocatie grenzende land is vooral in gebruik als recreatiegebied. Het strand is via een \r\ndijktrap te bereiken maar ook door over de dijk te lopen.",
+  "photos": "GR-038-001 Recreatiezone Zeestrand Eemshotel.jpg",
+  "website": null,
+  "alternate_name": "Zeestrand Eemshotel",
+  "name": "Zeestrand Eemshotel, Delfzijl",
+  "current_status": "goed",
+  "lat": 53.3348,
+  "lon": 6.9313,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943898,
+    5943903
+  ],
+  "warnings": []
+}

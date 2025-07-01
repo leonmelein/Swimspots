@@ -1,0 +1,33 @@
+{
+  "id": 1120,
+  "address": "Westerweg, Heerhugowaard",
+  "placename": "Heerhugowaard",
+  "description": "Rondom de nieuwe woonwijk Stad van de Zon, aan de zuidkant van de gemeente Heerhugowaard, ligt het recreatiegebied Park van Luna. Het  Hoogheemraadschap Hollands  Noorderkwartier gebruikt de  plas  ook  voor  waterberging.  Ten  zuiden  van  de  plas  ligt  een  uitgekiend \r\nlabyrint met natuurvriendelijke oevers, dat zorgt voor een natuurlijke zuivering van het water.",
+  "photos": "Strand van Luna.PNG",
+  "website": null,
+  "alternate_name": "Strand Van Luna",
+  "name": "Strand Van Luna, Heerhugowaard",
+  "current_status": "goed",
+  "lat": 52.6484,
+  "lon": 4.798,
+  "eu_designation": "3",
+  "e_coli": 371.0,
+  "int_ent": 127.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943919,
+    5943892,
+    5943893,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

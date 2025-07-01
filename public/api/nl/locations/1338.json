@@ -1,0 +1,32 @@
+{
+  "id": 1338,
+  "address": "Wedderbergenweg, Wedde",
+  "placename": "Wedde",
+  "description": "Dit zwemseizoen (1 mei \u2013 1 oktober) geldt voor deze locatie een negatief zwemadvies. Dit komt doordat de waterkwaliteit in de afgelopen vier jaar gemiddeld \u2018slecht\u2019 was. Bij de 4-jaars waterkwaliteitsklasse 'slecht' is de kans op maag- of darmklachten groter dan bij 'uitstekend. Dit gaat NIET over de actuele kwaliteit van het water. De actuele waterkwaliteit kan veranderen en varieert. De meest recente meting geeft de HUIDIGE waterkwaliteit aan. Klik op het tabblad 'meetgegevens' voor de actuele waterkwaliteit.\r\n\r\nDe recreatieplas Wedderbergen is gelegen te Wedderveer. Wedderveer is een buurtschap in de \r\ngemeente Bellingwedde in de provincie Groningen. Het ligt tussen Wedde en Blijham aan de \r\noostzijde van de Westerwoldse Aa. De zwemlocatie Wedderbergen is een ge\u00efsoleerde plas en is onderdeel van camping \r\nWedderbergen.",
+  "photos": "GR-036-001 Recreatiezone Wedderbergen.jpg",
+  "website": null,
+  "alternate_name": "Camping Wedderbergen",
+  "name": "Camping Wedderbergen, Wedde",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 53.082,
+  "lon": 7.0828,
+  "eu_designation": "4",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Dit zwemseizoen (1 mei \u2013 1 oktober) geldt voor deze locatie een negatief zwemadvies. Dit komt doordat de waterkwaliteit in de afgelopen vier jaar gemiddeld \u2018slecht\u2019 was. Bij de 4-jaars waterkwaliteitsklasse 'slecht' is de kans op maag- of darmklachten groter dan bij 'uitstekend. Dit gaat NIET over de actuele kwaliteit van het water. De actuele waterkwaliteit kan veranderen en varieert. De meest recente meting geeft de HUIDIGE waterkwaliteit aan. Klik op het tabblad 'meetgegevens' voor de actuele waterkwaliteit."
+    }
+  ]
+}

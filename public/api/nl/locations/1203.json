@@ -1,0 +1,25 @@
+{
+  "id": 1203,
+  "address": "Rotterdamseweg 213  215, Delft",
+  "placename": "Delft",
+  "description": "De  zwemlocatie  van  de  camping  van  Naturistenvereniging  Abtwoudse  Hoeve  te  Delft bevindt  zich  aan  een verbreding  van  een  polderwatergang. Aan de campingzijde is een klein zandstrand van circa 20 meter lang aanwezig.",
+  "photos": "33_Naturistencamping_Delft.jpg",
+  "website": null,
+  "alternate_name": "Naturisten Delft",
+  "name": "Naturistencamping Delft",
+  "current_status": "goed",
+  "lat": 51.9773,
+  "lon": 4.3891,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943912,
+    5943892,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

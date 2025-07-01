@@ -1,0 +1,24 @@
+{
+  "id": 1274,
+  "address": "Postelseweg, Eersel",
+  "placename": "Eersel",
+  "description": "De  zwemplas  Ter  Spegelt  maakt  deel  uit  van  het  recreatiecentrum  Ter  Spegelt  te  Eersel.  Op  het \r\nrecreatiecentrum bevinden zich drie buitenplassen: de zwemplas, de buffer- of duikplas en de grote plas. \r\nDaarnaast bevindt zich op het recreatiecentrum een overdekt zwembad dat bestaat uit een chloorbad en \r\neen overdekte zwemplas. ",
+  "photos": "NB-021-001 Ter Spegelt.jpg",
+  "website": "http://www.terspegelt.nl/",
+  "alternate_name": "Ter Spegelt Onoverdekte Plas",
+  "name": "Ter Spegelt Onoverdekte Plas",
+  "current_status": "goed",
+  "lat": 51.3355,
+  "lon": 5.3008,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

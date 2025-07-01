@@ -1,0 +1,20 @@
+{
+  "id": 1206,
+  "address": "Tubasingel, Rijswijk",
+  "placename": "Rijswijk",
+  "description": "De zwemwaterlocatie Avonturen Speelplaats Tubasingel in de gemeente Rijswijk. Het terrein langs de speelplas bestaat  deels uit gras en deels uit zand.",
+  "photos": "27_Waterspeelplaats_Tubasingel.jpg",
+  "website": null,
+  "alternate_name": "Tubasingel",
+  "name": "Waterspeelplaats Tubasingel",
+  "current_status": "goed",
+  "lat": 52.0294,
+  "lon": 4.3235,
+  "eu_designation": "3",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943892
+  ],
+  "warnings": []
+}

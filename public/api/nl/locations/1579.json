@@ -1,0 +1,30 @@
+{
+  "id": 1579,
+  "address": "S\u00e9dyk, Molkwerum",
+  "placename": "Molkwerum",
+  "description": "De zwemlocatie is gelegen aan het IJsselmeer ten noorden van het plaatsje Molkwerum. Het water van de zwemlocatie maakt deel uit van het Vogelrichtlijngebied IJsselmeer. Het strandje is gelegen aan de voet van de IJsselmeerdijk tegen een krib. Aan de binnenzijde van de dijk ligt de Noarderdyksfaart en Camping \u2019t Seleantsje.",
+  "photos": "FR-014-001 Molkwerum Seleantsje.jpg",
+  "website": null,
+  "alternate_name": "Molkwerum",
+  "name": "Molkwerum",
+  "current_status": "goed",
+  "lat": 52.9062,
+  "lon": 5.3974,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

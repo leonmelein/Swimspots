@@ -1,0 +1,33 @@
+{
+  "id": 978,
+  "address": "Stasjonsleane, Oudega",
+  "placename": "Oudega",
+  "description": "Het zwemwater ligt vlak bij het dorpje Oudega aan de oostkant van het meer de Aldegeaster Brekken.",
+  "photos": "bord Aldegeaster Brekken.png",
+  "website": null,
+  "alternate_name": "Aldegeaster Brekken",
+  "name": "Aldegeaster Brekken",
+  "current_status": "goed",
+  "lat": 52.9969,
+  "lon": 5.5443,
+  "eu_designation": "2",
+  "e_coli": 420.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

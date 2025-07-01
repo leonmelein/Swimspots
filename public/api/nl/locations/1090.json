@@ -1,0 +1,33 @@
+{
+  "id": 1090,
+  "address": "Molenkade, Vinkeveen",
+  "placename": "Vinkeveen",
+  "description": "De Vinkeveense Plassen zijn gelegen ten zuiden van Amsterdam, tussen de snelweg A2 en de plaats Vinkeveen in recreatiegebied Winkelpolder. Het totale oppervlak van het open water is ongeveer 960 ha.  De Vinkeveense Plassen bestaan uit de Zuidplas, de Kleine plas en de Noordplas. De zwemstranden liggen alle in de Noordplas. De recreatie-eilanden zijn kunstmatig. Eiland 1 is bereikbaar vanaf de vaste wal. Het eiland is ingericht voor openluchtrecreatie, er is een speelveld met een volleybalveld en twee klimtorens. Tevens is op dit eiland een horecapaviljoen en er zijn aanlegplaatsen voor boten. Eiland 1 is gedurende de zomermaanden middels een brug verbonden met Eiland 2.",
+  "photos": "PU-001-001 Vinkeveense Plassen.Eiland1.jpg",
+  "website": "http://www.recreatieschapstichtsegroenlanden.nl",
+  "alternate_name": "Vinkeveenseplassen 1",
+  "name": "Vinkeveense Plassen (Eiland 1)",
+  "current_status": "goed",
+  "lat": 52.2495,
+  "lon": 4.9608,
+  "eu_designation": "2",
+  "e_coli": 77.0,
+  "int_ent": 94.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

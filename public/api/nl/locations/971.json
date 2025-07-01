@@ -1,0 +1,40 @@
+{
+  "id": 971,
+  "address": "Badweg 32, Oudehaske",
+  "placename": "Oudehaske",
+  "description": "Het zwemwater ligt nabij het dorp Oudehaske in de gemeente De Fryske Marren, ten zuiden van de snelweg A7 tussen Joure en Heerenveen. Het maakt deel uit van de camping \u201cRecreatiecentrum Nannewiid\u201d.",
+  "photos": "FR-036-001 Nannewiid.jpg",
+  "website": null,
+  "alternate_name": "Nannewiid",
+  "name": "Nannewiid",
+  "current_status": "ZWEMVERBOD",
+  "lat": 52.9509,
+  "lon": 5.8716,
+  "eu_designation": "4",
+  "e_coli": 400.0,
+  "int_ent": 290.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943913,
+    5943915,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": null
+    },
+    {
+      "warning_type": "VERBOD_ONVEILIGE_SITUATIE",
+      "warning_description": "Zwemlocatie gesloten i.v.m. bouwwerkzaamheden"
+    }
+  ]
+}

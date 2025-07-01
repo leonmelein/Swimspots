@@ -1,0 +1,28 @@
+{
+  "id": 1249,
+  "address": "Fransebaan, 't Zand",
+  "placename": "'t Zand",
+  "description": "nog in te vullen",
+  "photos": "NB-002-001 't Zand.jpg",
+  "website": null,
+  "alternate_name": "'t Zand",
+  "name": "'t Zand Middenstrand",
+  "current_status": "goed",
+  "lat": 51.4997,
+  "lon": 4.9532,
+  "eu_designation": "1",
+  "e_coli": 220.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943919,
+    5943891,
+    5943892,
+    5943927,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

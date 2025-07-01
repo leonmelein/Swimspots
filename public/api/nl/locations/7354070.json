@@ -1,0 +1,30 @@
+{
+  "id": 7354070,
+  "address": "",
+  "placename": "",
+  "description": "Marker Wadden is een eilandgebied in het Markermeer, op ongeveer vier kilometer van de Houtribdijk (minder gebruikelijk ook: Markerwaarddijk), die Enkhuizen en Lelystad verbindt. Er wordt gestreefd naar een natuur- en recreatiegebied met een oppervlakte van uiteindelijk 10.000 hectare. Zwemmen mag alleen bij het havenstrand achter de havenkom. Een deel van de paden is geschikt voor rolstoelgebruikers. Gedurende de zomerperiode vaart er regelmatig een veerboot naar de Markerwadden. De haven is ook bereikbaar met eigen boot en er zijn charterschepen die dagtochten naar de Markerwadden aanbieden. De Vereniging Natuurmonumenten is beheerder van het gebied.",
+  "photos": "info bord Markerwadden 2.png",
+  "website": "https://www.natuurmonumenten.nl/projecten/marker-wadden/welkom-op-marker-wadden",
+  "alternate_name": "Havenstrand",
+  "name": "Havenstrand Markerwadden",
+  "current_status": "goed",
+  "lat": 52.5829,
+  "lon": 5.3638,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943927,
+    5943929,
+    5943890,
+    5943891,
+    5943895,
+    5943897,
+    5943930,
+    5943900
+  ],
+  "warnings": []
+}

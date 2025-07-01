@@ -1,0 +1,18 @@
+{
+  "id": 1153,
+  "address": "Anton Schieperspad, Amsterdam",
+  "placename": "Amsterdam",
+  "description": "De Nieuwe Meer ligt ten zuidwesten van Amsterdam. De maximum diepte is ongeveer 30 meter.\r\nLet op! Deze locatie wordt momenteel niet bemonsterd en is gekoppeld aan Nieuwe Meer Westzijde Oeverlanden. De waterkwaliteitsgegevens zijn daarom hetzelfde als bij de Westzijde Oeverlanden.",
+  "photos": "Nieuwe Meer Noordoever.PNG",
+  "website": null,
+  "alternate_name": "Noordoever",
+  "name": "Nieuwe Meer, Noordoever",
+  "current_status": "goed",
+  "lat": 52.335,
+  "lon": 4.8157,
+  "eu_designation": 0,
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [],
+  "warnings": []
+}

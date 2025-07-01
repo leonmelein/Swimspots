@@ -1,0 +1,18 @@
+{
+  "id": 7723200,
+  "address": "Den Haag",
+  "placename": "Den Haag",
+  "description": "Zwemwaterlocatie de Zandmotor ligt aan de Noordzee in de gemeente Westland en Den Haag. Het betreft een zoutwaterlocatie, die onder invloed staat van de getijden. Op de zwemwaterlocatie zijn drie strandopgangen, van noord naar zuid zijn dit: Slag 1 te Den Haag en slagen Watertoren en Schelpenpad te Monster.",
+  "photos": null,
+  "website": "https://dezandmotor.nl/",
+  "alternate_name": "Zandmotor",
+  "name": "Zandmotor",
+  "current_status": "goed",
+  "lat": 52.0561,
+  "lon": 4.1921,
+  "eu_designation": "3",
+  "e_coli": 110.0,
+  "int_ent": 15.0,
+  "amenities": [],
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1141,
+  "address": "Duinschooten, Noordwijkerhout",
+  "placename": "Noordwijkerhout",
+  "description": "Het Oosterduinse meer ligt in de binnenduinrand en wordt voor het grootste gedeelte omringd door bollenteelt. Aan de westzijde van het meer ligt een recreatiepark en een camping.\r\nDit is een circa 300 meter lang zandstrand aan de westzijde van het Oosterduinsemeer. Er is een met drijflijnen afgebakend zwemgedeelte. Het noordelijke deel van het strand wordt veel door surfers gebruikt.",
+  "photos": "06a Oosterduinse meer NW-oever v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Oosterduinse Meer Nw",
+  "name": "Oosterduinse Meer Noordwestoever",
+  "current_status": "goed",
+  "lat": 52.2824,
+  "lon": 4.5052,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943898,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

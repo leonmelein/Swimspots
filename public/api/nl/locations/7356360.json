@@ -1,0 +1,28 @@
+{
+  "id": 7356360,
+  "address": "Bruine Hoopsweg 6, Hoge Hexel",
+  "placename": "Hoge Hexel",
+  "description": "Besloten gesitueerde zwemplas voor gasten van Bungalowpark Hoge Hexel",
+  "photos": "HH pib.png",
+  "website": "https://www.bungalowparkhogehexel.nl",
+  "alternate_name": "Hexelse Plas Zuid",
+  "name": "Hexelse Plas Zuid Bungalowpark Hoge Hexel",
+  "current_status": "goed",
+  "lat": 52.3847,
+  "lon": 6.5557,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943900
+  ],
+  "warnings": []
+}

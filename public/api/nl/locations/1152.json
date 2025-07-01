@@ -1,0 +1,22 @@
+{
+  "id": 1152,
+  "address": "Leidse Slootweg, Woubrugge",
+  "placename": "Woubrugge",
+  "description": "De Wijde Aa is verbonden met het Braassemermeer en maakt samen met de Kagerplassen en de Westeinderplassen deel uit van de Hollandse Plassen. De zwemlocatie Wijde Aa Zuidzijde ligt aan de zuidoever van de Wijde Aa. ",
+  "photos": "11b_Wijde_Aa_Z-zijde.jpg",
+  "website": null,
+  "alternate_name": "Wijde Aa Zuidzijde",
+  "name": "Wijde Aa Zuidzijde",
+  "current_status": "goed",
+  "lat": 52.1741,
+  "lon": 4.6172,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943930,
+    5943923,
+    5943907
+  ],
+  "warnings": []
+}

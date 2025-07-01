@@ -1,0 +1,23 @@
+{
+  "id": 1631,
+  "address": "Nieuwe Zeedijk, Hellevoetsluis",
+  "placename": "Hellevoetsluis",
+  "description": "Het Vuurtoren Badstrand Hellevoetsluis is gelegen aan het Haringvliet bij Hellevoetsluis. Door de \r\naanleg van de Haringvlietdam is het Haringvliet afgesloten van de Noordzee.",
+  "photos": "02c_Vuurtoren_badstrand_Hellevoetsluis V2.jpg",
+  "website": null,
+  "alternate_name": "Vuurtoren Badstrand",
+  "name": "Vuurtoren Badstrand Hellevoetsluis",
+  "current_status": "goed",
+  "lat": 51.8208,
+  "lon": 4.125,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943929,
+    5943907,
+    5943923,
+    5943892
+  ],
+  "warnings": []
+}

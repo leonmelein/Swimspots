@@ -1,0 +1,23 @@
+{
+  "id": 1098,
+  "address": "Nieuweweg, Breukelen",
+  "placename": "Breukelen",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend\r\n\r\nDe Loosdrechtse Plassen zijn ontstaan door veenafgraving. De zwemlocatie heeft zowel een ligweide als een zandstrand (ongeveer 125 meter).",
+  "photos": "Strand De Strook, peuterbad (Loosdrechtse plassen).PNG",
+  "website": null,
+  "alternate_name": "Strand De Strook Peuterbad",
+  "name": "Strand De Strook, Peuterbad, Loosdrechtse Plassen",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.1684,
+  "lon": 5.0556,
+  "eu_designation": "4",
+  "e_coli": 1550.0,
+  "int_ent": 350.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend"
+    }
+  ]
+}

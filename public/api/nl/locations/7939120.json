@@ -1,0 +1,25 @@
+{
+  "id": 7939120,
+  "address": "Randwijkse Rijndijk, Heteren",
+  "placename": "Heteren",
+  "description": "Voormalige zandwinput in open verbinding met de Nederrijn nabij het dorp Heteren, gemeente Overbetuwe",
+  "photos": "GLD-076-001 HETERSCHE WAARDEN 2024.jpg",
+  "website": "https://www.dorpsraadheteren.nl/contact",
+  "alternate_name": "Hetersche Waarden",
+  "name": "Hetersche Waarden",
+  "current_status": "goed",
+  "lat": 51.9632,
+  "lon": 5.7485,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943916,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

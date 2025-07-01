@@ -1,0 +1,30 @@
+{
+  "id": 6670570,
+  "address": "Eiland van Maurik 7, Maurik",
+  "placename": "Maurik",
+  "description": "Zwemplas op camping, ook toegankelijk voor dagrecreatie.",
+  "photos": "GLD-047-003 VAKANTIEPARK EILAND VAN MAURIK 2024.jpg",
+  "website": null,
+  "alternate_name": "Camp Eil Van Maurik",
+  "name": "Vakantiepark Eiland Van Maurik",
+  "current_status": "goed",
+  "lat": 51.9746,
+  "lon": 5.4285,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943917,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943932
+  ],
+  "warnings": []
+}

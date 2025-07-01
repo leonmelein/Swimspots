@@ -1,0 +1,24 @@
+{
+  "id": 1256,
+  "address": "Rijsbergsebaan, Breda",
+  "placename": "Breda",
+  "description": "Het strand aan de surfplas aan de zuidwestoever (Surfstrand). Dit strand heeft de D status. Op dit strand wordt geen toezicht gehouden door de reddingsbrigade.",
+  "photos": "NB-026-004 Galderse Meren.jpg",
+  "website": "http://www.vvvbreda.nl/nl/ontdek-breda/natuur-water/zwemmen-surfen-in-breda/galderse-meren/449",
+  "alternate_name": "Galderse Meren, Surfplas",
+  "name": "Galderse Meren Surfplas In Z.W. Hoek",
+  "current_status": "goed",
+  "lat": 51.5205,
+  "lon": 4.7516,
+  "eu_designation": "1",
+  "e_coli": 180.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943919,
+    5943892,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

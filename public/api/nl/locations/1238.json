@@ -1,0 +1,26 @@
+{
+  "id": 1238,
+  "address": "Strandweg, Zevenhuizen",
+  "placename": "Zevenhuizen",
+  "description": "De Zevenhuizerplas is een voormalige zandwinput met een oppervlakte van 178 ha. De huidige plas, waarvoor dit zwemwaterprofiel wordt opgesteld, heeft drie zwemlocaties Strand noordwestzijde en Zwemstrand Nesselande.",
+  "photos": "41a_Zevenhuizerplas_Strand_NW-zijde_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Zevenhuizerplas Strand Noordwestzijde",
+  "name": "Zevenhuizerplas Strand Noordwestzijde",
+  "current_status": "goed",
+  "lat": 51.9818,
+  "lon": 4.557,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

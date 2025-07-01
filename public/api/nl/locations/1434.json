@@ -1,0 +1,28 @@
+{
+  "id": 1434,
+  "address": "Stiemensweg 185  187, Gennep",
+  "placename": "Gennep",
+  "description": "Camping  de  Bloksberg  is  gelegen  in  de  gemeente  Gennep. In het noordwesten wordt \r\nzwemmen toegestaan in de zwemzone. Er is ook een duikvlot aangebracht. De plas is enkel \r\nbedoeld  voor  de  eigen  gasten,  dagjesmensen  worden  niet  toegelaten.",
+  "photos": "De Bloksberg.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Camping De Bloksberg",
+  "name": "Recreatiestrand Camping De Bloksberg",
+  "current_status": "goed",
+  "lat": 51.6846,
+  "lon": 5.9959,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943915,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

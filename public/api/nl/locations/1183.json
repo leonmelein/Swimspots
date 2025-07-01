@@ -1,0 +1,33 @@
+{
+  "id": 1183,
+  "address": "Ruigenhoeksedijk, Utrecht",
+  "placename": "Utrecht",
+  "description": "Kleine zwemplas aan het Fort Ruigenhoek. Dit fort dat sinds 1870 bestaat ligt in het waterwingebied van Maartensdijk en wordt door veel groen omzoomd. Deze rustige omgeving is een gastvrij thuis voor o.a. futen, meerkoeten, kwikstaartjes en vele andere soorten vogels. Hiervan kunt u tijdens het trekken van uw baantje ook genieten. \r\nEr zijn 2 grote steigers, een lage en een hoge duikplank en een afgezet badje voor de allerkleinsten. Verder zijn er ruime kleedcabines en twee gazons waarop u zich heerlijk in de zon kunt koesteren.",
+  "photos": "PU-016-001 De Kikker.jpg",
+  "website": "https://www.zwembaddekikker.nl",
+  "alternate_name": "De Kikker",
+  "name": "De Kikker",
+  "current_status": "goed",
+  "lat": 52.1301,
+  "lon": 5.1306,
+  "eu_designation": "2",
+  "e_coli": 92.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943895,
+    5943915,
+    5943916,
+    5943921,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

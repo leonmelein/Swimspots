@@ -1,0 +1,20 @@
+{
+  "id": 1258,
+  "address": "Grensstraat, Nispen",
+  "placename": "Nispen",
+  "description": "Het zwemven is gelegen in Nispen en is in particulier bezit. \r\nDit zwemven bevindt zich op het landgoed van natuurkampeerterrein Ottermeerhoeve en is uitsluitend voor kampeergasten.",
+  "photos": "NB-067-001 Ottermeerhoeve.jpg",
+  "website": null,
+  "alternate_name": "Ottermeerhoeve",
+  "name": "Ottermeerhoeve, Strand",
+  "current_status": "goed",
+  "lat": 51.4687,
+  "lon": 4.4384,
+  "eu_designation": "1",
+  "e_coli": 180.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943907
+  ],
+  "warnings": []
+}

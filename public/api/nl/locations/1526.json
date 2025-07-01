@@ -1,0 +1,26 @@
+{
+  "id": 1526,
+  "address": "Waterstraat, Thorn",
+  "placename": "Thorn",
+  "description": "Zwemwaterlocatie Dagstrand Grote Hegge ligt ten zuiden van de plaats Thorn en is te bereiken via de \r\nGrootheggerlaan. De Grote Hegge is ontstaan als gevolg van een grootschalige grindafgraving en heeft een oppervlakte \r\nvan 83 ha met als hoofdfunctie ecologie. De nevenfuncties die aan dit water zijn toegekend zijn \r\nviswater voor karperachtigen, zwemwater en recreatiewater. Dagstrand Grote Hegge is een \r\nzandstrand en direct aan het zandstrand is een groot bos- en natuurgebied gelegen",
+  "photos": "De Grote Hegge.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand De Grote Hegge",
+  "name": "Dagstrand De Grote Hegge",
+  "current_status": "goed",
+  "lat": 51.1532,
+  "lon": 5.841,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

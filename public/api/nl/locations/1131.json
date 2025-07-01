@@ -1,0 +1,31 @@
+{
+  "id": 1131,
+  "address": "De Zuiderlaaik, Zaanstad",
+  "placename": "Zaanstad",
+  "description": "Het recreatiegebied het Twiske ligt ten noorden van Amsterdam tussen Den Ilp, Landsmeer en Oostzaan. Het bestaat uit diverse plassen, sloten, weilanden en bosjes en is omgeven door een dijk met fiets- en wandelpad. Het Vennegatstrand aan de Stootersplas is een van de zeven offici\u00eble zwemlocaties in het gebied.",
+  "photos": "Het Twiske Vennegatstrand.PNG",
+  "website": null,
+  "alternate_name": "Het Twiske; Vennegatstrand",
+  "name": "Het Twiske; Vennegatstrand",
+  "current_status": "goed",
+  "lat": 52.4413,
+  "lon": 4.8939,
+  "eu_designation": "3",
+  "e_coli": 143.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

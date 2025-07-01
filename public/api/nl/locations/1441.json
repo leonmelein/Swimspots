@@ -1,0 +1,29 @@
+{
+  "id": 1441,
+  "address": "Klein Vink 4, Arcen",
+  "placename": "Arcen",
+  "description": "De zwemlocatie heeft een zandstrand. Naast zwemmen is er ook verhuur van waterfietsen.",
+  "photos": "Klein Vink.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Vakantiepark Klein Vink",
+  "name": "Recreatiestrand Vakantiepark Klein Vink",
+  "current_status": "goed",
+  "lat": 51.497,
+  "lon": 6.1864,
+  "eu_designation": "1",
+  "e_coli": 93.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

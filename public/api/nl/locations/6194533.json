@@ -1,0 +1,31 @@
+{
+  "id": 6194533,
+  "address": "Tielsestraat 129 129, Valburg",
+  "placename": "Valburg",
+  "description": "Gedeelte van Slijk Ewijk",
+  "photos": "GLD-029-002 WATERGOED 2020.jpg",
+  "website": "http://www.watergoed.nl",
+  "alternate_name": "Watergoed",
+  "name": "Watergoed",
+  "current_status": "goed",
+  "lat": 51.8977,
+  "lon": 5.7741,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943910,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943892,
+    5943893,
+    5943927,
+    5943897
+  ],
+  "warnings": []
+}

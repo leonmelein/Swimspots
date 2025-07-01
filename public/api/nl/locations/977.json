@@ -1,0 +1,33 @@
+{
+  "id": 977,
+  "address": "Pharshoeke, Heeg",
+  "placename": "Heeg",
+  "description": "Het zwemwater ligt in de noord-oost hoek van de Hegemer Mar in de gemeente\r\nS\u00fadwest-Frysl\u00e2n. Het zwemwater wordt begrensd door twee strekdammen.",
+  "photos": "Heeg.png",
+  "website": null,
+  "alternate_name": "Heeg",
+  "name": "Heeg.",
+  "current_status": "goed",
+  "lat": 52.9645,
+  "lon": 5.6053,
+  "eu_designation": "2",
+  "e_coli": 480.0,
+  "int_ent": 50.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943897,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

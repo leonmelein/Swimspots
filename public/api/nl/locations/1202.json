@@ -1,0 +1,26 @@
+{
+  "id": 1202,
+  "address": "Oudeweg 75, Nootdorp",
+  "placename": "Nootdorp",
+  "description": "De Dobbeplas is een recreatiegebied van 64 ha. Dit gebied ligt in Nootdorp. De zwemzone van de Dobbeplas, afgezet met een drijflijn, bevindt zich in de noordhoek van de plas.",
+  "photos": "30.1_Dobbeplas.jpg",
+  "website": null,
+  "alternate_name": "Dobbeplas",
+  "name": "Dobbeplas",
+  "current_status": "goed",
+  "lat": 52.0352,
+  "lon": 4.4032,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

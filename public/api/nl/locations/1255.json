@@ -1,0 +1,28 @@
+{
+  "id": 1255,
+  "address": "Rijsbergsebaan, Breda",
+  "placename": "Breda",
+  "description": "Het westelijke strand, gelegen in een ondiepe baai, heeft van de provincie de C status gekregen. Deze status duidt op een bepaald voorzieningenniveau en dat er toezicht op veiligheid wordt gehouden",
+  "photos": "NB-026-002 Galderse Meren.jpg",
+  "website": "http://www.vvvbreda.nl/nl/ontdek-breda/natuur-water/zwemmen-surfen-in-breda/galderse-meren/449",
+  "alternate_name": "Galderse Meren, West",
+  "name": "Galderse Meren, Zwemplas",
+  "current_status": "goed",
+  "lat": 51.5231,
+  "lon": 4.7526,
+  "eu_designation": "3",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

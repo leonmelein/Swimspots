@@ -1,0 +1,28 @@
+{
+  "id": 8184900,
+  "address": "Kneuterstraat, Wilp",
+  "placename": "Wilp",
+  "description": "De recreatieplas Bussloo ligt temidden van de stedendriehoek Deventer, Apeldoorn en Zutphen.",
+  "photos": "GLD-004-001 BUSSLOO DE FLIERTKAMP 2020.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "De Fliertkamp",
+  "name": "Bussloo De Fliertkamp",
+  "current_status": "goed",
+  "lat": 52.2032,
+  "lon": 6.1215,
+  "eu_designation": 0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1019,
+  "address": "Bikkersmaatweg, Enschede",
+  "placename": "Enschede",
+  "description": "Het gebied is ontstaan door middel van een zandafgraving, een afwisselend recreatiepark van 120 ha met bossen, waterpartijen met stranden, ligweiden, weilanden en recreatieve voorzieningen. Verspreid langs de noordwestelijke\r\noevers van Het Rutbeek zijn vijf verschillende stranden aangelegd, waarvan er \u00e9\u00e9n een\r\nnaturistenstrand is.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Het Rutbeek; Info Strand Blauw",
+  "name": "Het Rutbeek; Info Strand Blauw",
+  "current_status": "goed",
+  "lat": 52.1793,
+  "lon": 6.8364,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

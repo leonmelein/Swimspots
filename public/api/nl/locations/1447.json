@@ -1,0 +1,27 @@
+{
+  "id": 1447,
+  "address": "Dorperheideweg 12, Arcen",
+  "placename": "Arcen",
+  "description": "De zwemplas heeft een oppervlakte van ongeveer 2000 m2  en staat niet in verbinding met ander oppervlaktewater.",
+  "photos": "Resort Arcen.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Resort Arcen",
+  "name": "Recreatiestrand Resort Arcen",
+  "current_status": "goed",
+  "lat": 51.4824,
+  "lon": 6.2127,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943915,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

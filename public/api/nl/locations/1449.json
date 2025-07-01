@@ -1,0 +1,32 @@
+{
+  "id": 1449,
+  "address": "Sparrendreef 12, Oostrum",
+  "placename": "Oostrum",
+  "description": "Parc De Witte Vennen is gelegen in de gemeente Venray. Vanaf de oever wordt het geleidelijk dieper tot \r\nmaximaal 2,5 m. Aan de strandzijde zijn een tweetal drijflijnen aangebracht.",
+  "photos": "De Witte Vennen.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Parc De Witte Vennen",
+  "name": "Recreatiestrand Parc De Witte Vennen",
+  "current_status": "goed",
+  "lat": 51.5232,
+  "lon": 6.0365,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943921,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

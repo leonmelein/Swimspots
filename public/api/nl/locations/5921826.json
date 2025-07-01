@@ -1,0 +1,27 @@
+{
+  "id": 5921826,
+  "address": "Lutenkampstraat 2, Appeltern",
+  "placename": "Appeltern",
+  "description": "Camping gelegen aan De Gouden Ham",
+  "photos": "GLD-058-001 CAMPINGPARK HET GROENE EILAND 2020.jpg",
+  "website": "http://www.hetgroeneeiland.nl",
+  "alternate_name": "De Gouden Ham Camping Het Groene Eiland",
+  "name": "De Gouden Ham Camping Het Groene Eiland",
+  "current_status": "goed",
+  "lat": 51.834,
+  "lon": 5.5484,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943915,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

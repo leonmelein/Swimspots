@@ -1,0 +1,32 @@
+{
+  "id": 6501551,
+  "address": "Boulevard, Harderwijk",
+  "placename": "Harderwijk",
+  "description": "Openbaar strand met betaald parkeren.",
+  "photos": "GLD-069-001 STRANDEILAND HARDERWIJK 2022.jpg",
+  "website": null,
+  "alternate_name": "Strandeiland",
+  "name": "Strandeiland Harderwijk",
+  "current_status": "goed",
+  "lat": 52.351,
+  "lon": 5.6124,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943915,
+    5943917,
+    5943921,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

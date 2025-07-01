@@ -1,0 +1,29 @@
+{
+  "id": 1157,
+  "address": "Ommedijkseweg, Leiden",
+  "placename": "Leiden",
+  "description": "Het Valkenburgse Meer ligt ten westen van Leiden. Het meer ligt ingeklemd tussen Wassenaar, het militaire vliegveld Valkenburg, Valkenburg en de A44. Het Valkenburgse Meer is ontstaan door zandwinning en vandaag de dag vindt er nog steeds actieve zandwinning plaats in het westelijk deel van het meer.\r\nHet zwemstrand ligt aan de zuidoostkant van het Valkenburgse Meer, aan de J. Pellenbargweg.\r\n\r\nLET OP: Door het onlangs deels wegzakken van de kade, geldt een noodverordening in het gebied rondom het Valkenburgse meer. Het is nog niet bekend wanneer en of het gebied, inclusief de offici\u00eble zwemlocatie, opengesteld wordt. Zolang het gebied niet betreden mag worden, wordt het zwemwater ook niet bemonsterd. Er zijn dus geen recente meetgegevens bekend.\r\n\r\n\r\nOvertreding van een noodverordening is op grond van artikel 443 Wetboek van Strafrecht een strafbaar feit, waarop een gevangenisstraf is gesteld van ten hoogste drie maanden of een geldboete van de tweede categorie (\u20ac 4.350,-).\r\n\r\nMeer informatie over de ontwikkelingen rondom het Valkenburge Meer: https://www.zuid-holland.nl/actueel/nieuws/april-2025/ontwikkelingen-rondom-valkenburgse/",
+  "photos": "14 Valkenburgse Meer v1_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Valkenburgse Meer",
+  "name": "Valkenburgse Meer",
+  "current_status": "ZWEMVERBOD",
+  "lat": 52.1586,
+  "lon": 4.4422,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "VERBOD_ONVEILIGE_SITUATIE",
+      "warning_description": "LET OP: Door het onlangs deels wegzakken van de kade, geldt een noodverordening in het gebied rondom het Valkenburgse meer. Het is nog niet bekend wanneer en of het gebied, inclusief de offici\u00eble zwemlocatie, opengesteld wordt. Zolang het gebied niet betreden mag worden, wordt het zwemwater ook niet bemonsterd. Er zijn dus geen recente meetgegevens bekend.   Overtreding van een noodverordening is op grond van artikel 443 Wetboek van Strafrecht een strafbaar feit, waarop een gevangenisstraf is gesteld van ten hoogste drie maanden of een geldboete van de tweede categorie (\u20ac 4.350,-).  Meer informatie over de ontwikkelingen rondom het Valkenburge Meer: https://www.zuid-holland.nl/actueel/nieuws/april-2025/ontwikkelingen-rondom-valkenburgse/"
+    }
+  ]
+}

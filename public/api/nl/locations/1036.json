@@ -1,0 +1,30 @@
+{
+  "id": 1036,
+  "address": "Oude IJsselweg 24, Etten",
+  "placename": "Etten",
+  "description": "Het zwemwater Scholtenhof ligt op de camping Scholtenhof, aan de rand van Ulft in de gemeente Oude IJsselstreek. Aan de zuidzijde ligt het zwemwater direct aan Camping Slootermeer.",
+  "photos": "GLD-013-001_2017_SCHOLTENHOF_BORD.jpg",
+  "website": "http://www.scholtenhof.com/recreatiecentrum/home/",
+  "alternate_name": "Scholtenhof",
+  "name": "Scholtenhof",
+  "current_status": "goed",
+  "lat": 51.9009,
+  "lon": 6.3497,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

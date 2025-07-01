@@ -1,0 +1,26 @@
+{
+  "id": 1643,
+  "address": "Dammenweg, Kabbelaarsbank",
+  "placename": "Kabbelaarsbank",
+  "description": "Zwemwaterlocatie Brouwersdam ligt aan de Noordzeezijde van de gelijknamige dam. De Brouwersdam verbindt de eilanden Goeree-Overflakkee en Schouwen-Duiveland.\r\nNa de aanleg van de Brouwersdam is op natuurlijke wijze zand afgezet, wat geresulteerd heeft in het huidige strand.",
+  "photos": "01p_Brouwersdam_15-16 v2 3.jpg",
+  "website": null,
+  "alternate_name": "Brouwersdam Kabbelaarsbank",
+  "name": "Brouwersdam Kabbelaarsbank",
+  "current_status": "goed",
+  "lat": 51.7631,
+  "lon": 3.8474,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

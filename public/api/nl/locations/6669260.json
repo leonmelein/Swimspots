@@ -1,0 +1,33 @@
+{
+  "id": 6669260,
+  "address": "Aaltenseweg 4, Zelhem",
+  "placename": "Zelhem",
+  "description": "Zwemplas op camping in de achterhoek.",
+  "photos": "GLD-070-001 VAKANTIEPARK DE BETTELD 2023.jpg",
+  "website": "http://www.betteld.nl/",
+  "alternate_name": "De Betteld",
+  "name": "Vakantiepark De Betteld",
+  "current_status": "ZWEMVERBOD",
+  "lat": 52.0092,
+  "lon": 6.3832,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943916,
+    5943897,
+    5943892,
+    5943927,
+    5943929,
+    5943900
+  ],
+  "warnings": [
+    {
+      "warning_type": "VERBOD_KWALITEIT",
+      "warning_description": "Verboden te zwemmen in verband met een slechte waterkwaliteit. In verband met extreem hoge waardes aan PFAS is de zwemlocatie tot nader order gesloten. Er wordt gewerkt aan een oplossing."
+    }
+  ]
+}

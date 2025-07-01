@@ -1,0 +1,32 @@
+{
+  "id": 1047,
+  "address": "Kneuterstraat 13, Wilp",
+  "placename": "Wilp",
+  "description": "De recreatieplas Bussloo ligt temidden van de stedendriehoek Deventer, Apeldoorn en Zutphen.",
+  "photos": "GLD-004-002_2015_BUSSLOO_DE_SNENGE_BORD.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "De Snenge",
+  "name": "Bussloo De Snenge",
+  "current_status": "goed",
+  "lat": 52.2038,
+  "lon": 6.1158,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1112,
+  "address": "Parallelweg, Uitgeest",
+  "placename": "Uitgeest",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend\r\n\r\nEven ten zuiden van Alkmaar ligt het Alkmaardermeer, het noordelijke deel van een plas, waarvan het Uitgeestermeer het zuidelijke deel vormt. Rondom het meer liggen verschillende recreatieterreinen. Dorregeest is daar een van.",
+  "photos": "NH-043-101.PNG",
+  "website": null,
+  "alternate_name": "Dorregeest",
+  "name": "Dorregeest",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.5322,
+  "lon": 4.7233,
+  "eu_designation": "4",
+  "e_coli": 93.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1376,
+  "address": "Sk\u00e2nserwei, Oostmahorn/Anjum",
+  "placename": "Oostmahorn/Anjum",
+  "description": "Recreatiegebied aan de westzijde van het Lauwersmeer nabij Landal Esonstad",
+  "photos": "FR-019-001 Oostmahorn.jpg",
+  "website": null,
+  "alternate_name": "Lauwersmeer Oostmahorn",
+  "name": "Lauwersmeer Oostmahorn",
+  "current_status": "goed",
+  "lat": 53.375,
+  "lon": 6.1644,
+  "eu_designation": "2",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943919,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943932
+  ],
+  "warnings": []
+}

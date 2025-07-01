@@ -1,0 +1,29 @@
+{
+  "id": 1354,
+  "address": "Heeresmeer, Nieuwe Pekela",
+  "placename": "Nieuwe Pekela",
+  "description": "De zwemlocatie Heeresmeer is gelegen in Nieuwe Pekela.  Het strand heeft een lengte van ca. 200m en is heeft een breedte vari\u00ebrend van ca. 5 tot 30m.",
+  "photos": "GR-009-001 Recreatiezone Heeresveld.jpg",
+  "website": null,
+  "alternate_name": "Heeresveld, Nieuwe Pekela",
+  "name": "Heeresveld, Nieuwe Pekela",
+  "current_status": "goed",
+  "lat": 53.0822,
+  "lon": 6.9569,
+  "eu_designation": "1",
+  "e_coli": 232.0,
+  "int_ent": 234.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1594,
+  "address": "Suders\u00e9leane, Workum",
+  "placename": "Workum",
+  "description": "Zwemlocatie It Soal ligt aan het IJsselmeer ten westen van het Friese stadje Workum. De locatie ligt in de gemeente S\u00fadwest Frysl\u00e2n.",
+  "photos": "FR-012-001 It Soal.jpg",
+  "website": null,
+  "alternate_name": "It Soal",
+  "name": "It Soal",
+  "current_status": "goed",
+  "lat": 52.9661,
+  "lon": 5.4114,
+  "eu_designation": "2",
+  "e_coli": 110.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943909,
+    5943895,
+    5943911,
+    5943913,
+    5943919,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1267,
+  "address": "Patrijslaan  4, Mierlo",
+  "placename": "Mierlo",
+  "description": " Zwemvijver het Wolfsven is een ven gelegen op een camping bij de Luchensche heide en de Molenheide in de gemeente Mierlo. De camping maakt deel uit van Bospark het Wolfsven. Het Bospark heeft 3 vennen: een visvijver, een roei- en surfvijver en een zwemplas. De roei- en surfvijver en de visvijver staan met elkaar in verbinding. Bij een te hoog peil in de zwemvijver kan er water vanuit de zwemvijver richting de roei- en visvijver stromen, maar niet andersom. De zwemvijver staat verder niet in verbinding met ander oppervlaktewater.",
+  "photos": "NB-044-001 't Wolfsven.jpg",
+  "website": "http://www.roompotparken.nl/vakantieparken/552331/bospark-t-wolfsven",
+  "alternate_name": "Het Wolfsven",
+  "name": "Het Wolfsven",
+  "current_status": "goed",
+  "lat": 51.4379,
+  "lon": 5.5835,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943923,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

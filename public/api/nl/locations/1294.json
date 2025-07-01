@@ -1,0 +1,32 @@
+{
+  "id": 1294,
+  "address": "Heezerenbosch 6, Heeze",
+  "placename": "Heeze",
+  "description": "Zwemgelegenheid Heezerenbosch is gelegen op de camping Heezerenbosch te Heeze in de gemeente Heeze-Leende.  De zwemplas is ongeveer 0,4 hectare groot is maximaal 2 meter diep en heeft een leembodem.",
+  "photos": "NB-029-001 Heezerenbosch.jpg",
+  "website": "http://www.heezerenbosch.nl",
+  "alternate_name": "Heezerenbosch",
+  "name": "Heezerenbosch, Heeze",
+  "current_status": "goed",
+  "lat": 51.3776,
+  "lon": 5.55,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

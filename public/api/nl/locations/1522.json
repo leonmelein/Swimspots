@@ -1,0 +1,32 @@
+{
+  "id": 1522,
+  "address": "Eiland, Stevensweert",
+  "placename": "Stevensweert",
+  "description": "De zwemwaterlocatie Kis Zuid, Plas Eiland, ligt in het oostelijke winterbed van de Maas in de plaats \r\nStevensweert. De zwemlocatie is onderverdeeld in 2 zwemplekken, namelijk de Kis Zuid en Porta Isola. De dagstranden liggen ten noordoosten van de kern Stevensweert en ten westen van Maasbracht.",
+  "photos": "Kis Zuid.JPG",
+  "website": "http://www.holland-marina.nl/",
+  "alternate_name": "De Kis Zuid",
+  "name": "Dagstrand De Kis Zuid.",
+  "current_status": "goed",
+  "lat": 51.1368,
+  "lon": 5.8577,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

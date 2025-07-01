@@ -1,0 +1,30 @@
+{
+  "id": 1381,
+  "address": "Roordaweg, Niebert",
+  "placename": "Niebert",
+  "description": "Zwemlocatie Recreatiepark Westerkwartier maakt deel uit van de gelijknamige camping en is gelegen in \r\nagrarisch gebied even ten noorden van Niebert in de gemeente Leek.",
+  "photos": "GR-002-001 Recreatiezone Akkerhoeve.jpg",
+  "website": null,
+  "alternate_name": "Rp Westerkwartier",
+  "name": "Recreatiepark Westerkwartier",
+  "current_status": "goed",
+  "lat": 53.1729,
+  "lon": 6.3201,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

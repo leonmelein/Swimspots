@@ -1,0 +1,26 @@
+{
+  "id": 1542,
+  "address": "Bovendijk, Lith",
+  "placename": "Lith",
+  "description": "De Gouden Ham is een ruim opgezet recreatiegebied (totale oppervlakte ongeveer 400 ha) en is\r\ngelegen in het land van Maas en Waal.",
+  "photos": "GLD-058-006_DE_GOUDEN_HAM_HANZELAND_BORD.jpg",
+  "website": "http://www.uiterwaarde.nl/",
+  "alternate_name": "De Gouden Ham Hanzeland",
+  "name": "De Gouden Ham Hanzeland",
+  "current_status": "goed",
+  "lat": 51.8264,
+  "lon": 5.5465,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

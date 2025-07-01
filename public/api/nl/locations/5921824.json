@@ -1,0 +1,33 @@
+{
+  "id": 5921824,
+  "address": "Rivierweg, Giesbeek",
+  "placename": "Giesbeek",
+  "description": "Zwemstrand behorende bij Rhederlaag",
+  "photos": "GLD-051-007 RHEDERLAAG BAHRSCHE STRAND 2024.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "Bahrsestrand",
+  "name": "Rhederlaag Bahrsche Strand",
+  "current_status": "goed",
+  "lat": 51.9874,
+  "lon": 6.041,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943912,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

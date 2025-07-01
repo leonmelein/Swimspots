@@ -1,0 +1,29 @@
+{
+  "id": 1444,
+  "address": "Maalbekerweg 25, Belfeld",
+  "placename": "Belfeld",
+  "description": "De zwemplas is onderdeel van een camping. De plas is gelegen in een bosrijke omgeving en voorzien van een kort zandstrand met drijflijn en een grasstrook rondom de  kan  dienen  als  ligweide.  De plas heeft een oppervlakte van 1 ha met een gemiddelde diepte van 1,5 meter. De maximale diepte is 3 meter.",
+  "photos": "Droompark Maasduinen.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Droompark Maasduinen",
+  "name": "Dagstrand Droompark Maasduinen",
+  "current_status": "goed",
+  "lat": 51.3081,
+  "lon": 6.1471,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

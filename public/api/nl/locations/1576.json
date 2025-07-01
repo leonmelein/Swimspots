@@ -1,0 +1,31 @@
+{
+  "id": 1576,
+  "address": "Wielseweg 9, Zeewolde",
+  "placename": "Zeewolde",
+  "description": "De toegang tot het Laakse Strand is door middel van fiets-en wandelpaden in het Hulkesteijnse bos. Het strand is goed bereikbaar voor wandelaars en fietsers, waardoor de locatie erg geschikt is voor liefhebbers van rust en natuur. Het Laakse Strand zelf is nu ongeveer 300 m lang en gericht op het zuiden. Het strandje bij landgoed Energy up is met name gericht op de bezoekers van het Landgoed. Beide stranden zijn gelegen aan het Nijkerkernauw, dat is ontstaan bij de inpoldering van Zuidelijk Flevoland in 1967.",
+  "photos": "DOCUVITP-#1332247-v1-12_074_Laaksestrand_Wielewaal_1_pdf.jpg",
+  "website": "https://landgoed-energy-up.nl/",
+  "alternate_name": "Laakse Strand Energy Up",
+  "name": "Laakse Strand Energy Up",
+  "current_status": "goed",
+  "lat": 52.2575,
+  "lon": 5.4396,
+  "eu_designation": "3",
+  "e_coli": 76.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943912,
+    5943921,
+    5943891,
+    5943892,
+    5943926,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

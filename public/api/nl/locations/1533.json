@@ -1,0 +1,31 @@
+{
+  "id": 1533,
+  "address": "De Kamp 5, Well",
+  "placename": "Well",
+  "description": "Op 1 km ten oosten van de Maas bij km-punt 135, ter hoogte van Maashees in de gemeente Bergen \r\nligt het Leukermeer. Het Leukermeer staat in open verbinding met de Maas. Ten noordoosten van het \r\nLeukermeer ligt het Reindersmeer. Deze vroegere zandwinplas is medio 2000 afgesloten van het \r\nLeukermeer door de sluis tussen beide meren vast te zetten. \r\nRond het Leukermeer ligt de Boswachterij gemeente Bergen en weilanden. Aan het Leukermeer \r\nbevindt zich Recreatiepark 'Leukermeer'. De beide strandjes en ligweide, met een grootte van 1000 \r\nm2, zijn in eigendom van het recreatiepark en daarom niet gratis toegankelijk.",
+  "photos": "Leukermeer.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Vakantiepark Leukermeer",
+  "name": "Recreatiestrand Vakantiepark Leukermeer",
+  "current_status": "goed",
+  "lat": 51.5685,
+  "lon": 6.062,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943897,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

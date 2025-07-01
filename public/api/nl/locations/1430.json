@@ -1,0 +1,27 @@
+{
+  "id": 1430,
+  "address": "Hengelostraat, Almere",
+  "placename": "Almere",
+  "description": "Het Weerwater ligt in Almere Stad. Het is ontstaan door zandafgravingen voor woningbouw en nu is het een zwem- en recreatieplas. Het Stedewijkstrand is \u00e9\u00e9n van de drie stranden en ligt aan de noodwestzijde. Het strand heeft last van zwanen en daarom wordt er weinig gezwommen. De gemeente heeft hiervoor een bord geplaatst met niet voeren en geeft de zwanen op een andere plek de ruimte. Het is een mooie recreatieplek voor de Stedewijk in Almere en ligt langs het fietspad \"rondje 't Weerwater\".",
+  "photos": "Stedenwijkstrand[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Stedenwijkstrand",
+  "name": "Stedenwijkstrand, Weerwater",
+  "current_status": "goed",
+  "lat": 52.3657,
+  "lon": 5.2142,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943898,
+    5943895,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

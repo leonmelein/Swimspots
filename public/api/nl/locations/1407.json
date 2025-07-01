@@ -1,0 +1,32 @@
+{
+  "id": 1407,
+  "address": "Middelweg, Noord Sleen",
+  "placename": "Noord Sleen",
+  "description": "De zwemplas de Kibbelkoele is een zwemplas in het dorpje Noord Sleen. De plas ligt in een bosrijke omgeving. Om de hele plas ligt een zandstrand. De plas is ongeveer 4 hectare groot en is ondiep. De maximale diepte is ca. 2 meter.\r\nToiletten: van juli tot eind september staat er een toiletunit; deze is alleen op warme en zonnige dagen (24+ graden) geopend van 10-17u.",
+  "photos": "Recreatiezone_de_Kibbelkoele_1.jpg",
+  "website": "https://www.staatsbosbeheer.nl/uit-in-de-natuur/recreatieterrein-kibbelkoele",
+  "alternate_name": "De Kibbelkoele",
+  "name": "De Kibbelkoele",
+  "current_status": "goed",
+  "lat": 52.8086,
+  "lon": 6.7924,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943927,
+    5943913,
+    5943921,
+    5943891,
+    5943924,
+    5943892,
+    5943926,
+    5943895,
+    5943896,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

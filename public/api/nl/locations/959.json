@@ -1,0 +1,33 @@
+{
+  "id": 959,
+  "address": "Kleasterkampen, Smalle Ee",
+  "placename": "Smalle Ee",
+  "description": "Het zwemwater ligt aan de zuidzijde van het gelijknamige meer, dat onderdeel vormt van de Friese boezem. Het zwemwater ligt in de gemeente Smallingerland.\r\nHet gebied rondom het zwemstrand is vooral in gebuik voor de landbouw. Verder ligt er een fietspad, een wandelpad en wordt er gevist.",
+  "photos": "FR-028-001 Smeliester Sa\u00cc\u201an.jpg",
+  "website": null,
+  "alternate_name": "Smeliester S\u00e2n",
+  "name": "Smeliester S\u00e2n",
+  "current_status": "goed",
+  "lat": 53.1071,
+  "lon": 6.0216,
+  "eu_designation": "2",
+  "e_coli": 20.0,
+  "int_ent": 20.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943927,
+    5943913,
+    5943915,
+    5943916,
+    5943892,
+    5943898,
+    5943895,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1030,
+  "address": "Paepestraat, WESTERVOORT",
+  "placename": "WESTERVOORT",
+  "description": "Aan de rand van Westervoort ligt zwemwater De Waaij, in de volksmond ook wel De Kolk genoemd. Total oppervlakte is ca. 1.2 ha.",
+  "photos": "GLD-015-001 DE WAAIJ 2024.jpg",
+  "website": null,
+  "alternate_name": "De Waaij",
+  "name": "De Waaij",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.9587,
+  "lon": 5.9621,
+  "eu_designation": "4",
+  "e_coli": 61.0,
+  "int_ent": 161.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943910,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943897
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een permanent negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven,"
+    }
+  ]
+}

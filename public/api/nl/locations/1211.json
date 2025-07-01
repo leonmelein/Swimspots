@@ -1,0 +1,29 @@
+{
+  "id": 1211,
+  "address": "Noordoever Oostvoornse Meer, Oostvoorne",
+  "placename": "Oostvoorne",
+  "description": "Oostvoornse Meer Noordzijde is een recreatiegebied met vele doelgroepen.",
+  "photos": "58a Oostvoornsemeer Noordzijde_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Oostvoornse Meer Nz",
+  "name": "Oostvoornse Meer Noordzijde",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.9323,
+  "lon": 4.0801,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

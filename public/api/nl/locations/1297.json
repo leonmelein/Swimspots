@@ -1,0 +1,25 @@
+{
+  "id": 1297,
+  "address": "Kapelstraat, Strijp",
+  "placename": "Strijp",
+  "description": "Zwemplas Camping Klein Frankrijk is een besloten zwemplas voor de gasten van Camping Klein Frankrijk en is circa 4 hectare groot, heeft een maximale diepte van 9 meter en heeft een zandige bodem.",
+  "photos": "NB-037-001 Klein Frankrijk.jpg",
+  "website": "https://klein-frankrijk.nl",
+  "alternate_name": "Cam. Klein Frankrijk",
+  "name": "Camping Klein Frankrijk",
+  "current_status": "goed",
+  "lat": 51.3406,
+  "lon": 5.5368,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943907,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

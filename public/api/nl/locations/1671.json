@@ -1,0 +1,28 @@
+{
+  "id": 1671,
+  "address": "Wassenaarseslag, Wassenaar",
+  "placename": "Wassenaar",
+  "description": "De zwemwaterlocatie Wassenaarse Slag is onderdeel van het doorlopende Noordzeestrand van Scheveningen naar Katwijk. Het kenmerkt zich als een kleinschalig familiestrand. De plaats Wassenaar ligt achter het duingebied, in het achterland ter hoogte van deze zwemwaterlocatie. De beschermde duinen van Meijendel & Berkheide omsluiten de zwemwaterlocatie. Het strand is bereikbaar via de A44-N44 en vervolgens lokale wegen.",
+  "photos": "01e_3_Wassenaarseslag.jpg",
+  "website": null,
+  "alternate_name": "Wassenaarse Slag",
+  "name": "Wassenaarse Slag",
+  "current_status": "goed",
+  "lat": 52.1624,
+  "lon": 4.3452,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

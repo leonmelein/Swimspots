@@ -1,0 +1,30 @@
+{
+  "id": 1596,
+  "address": "Spijkweg, Biddinghuizen",
+  "placename": "Biddinghuizen",
+  "description": "De zwemlocatie Spijkstrand is een 700 meter lang strand met baaien. Het strand ligt aan het Veluwemeer en grenst aan de zwemlocatie Rivi\u00e8ra Beach, dat aan de zuidkant van het Spijkstrand ligt. Het strand heeft een paviljoen Beachclub Nu.",
+  "photos": "DOCUVITP-#1332276-v1-12_068_Spijkstrand_1_pdf.jpg",
+  "website": "https://www.beachclubnu.nl/",
+  "alternate_name": "Spijkstrand",
+  "name": "Spijkstrand",
+  "current_status": "goed",
+  "lat": 52.4538,
+  "lon": 5.8108,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943917,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

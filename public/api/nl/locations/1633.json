@@ -1,0 +1,26 @@
+{
+  "id": 1633,
+  "address": "Dieklaan, Middelharnis",
+  "placename": "Middelharnis",
+  "description": "Het badstrand Middelharnis is gelegen in de gemeente Middelharnis, aan het Haringvliet. Het \r\nHaringvliet ligt in Zuid-Holland tussen Voorne-Putten, de Hoeksche Waard en Goeree-Overflakkee.",
+  "photos": "02e_Middelharnis_Badstrand.jpg",
+  "website": null,
+  "alternate_name": "Middelharnis Badstrand",
+  "name": "Middelharnis Badstrand",
+  "current_status": "goed",
+  "lat": 51.7721,
+  "lon": 4.1944,
+  "eu_designation": "1",
+  "e_coli": 200.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

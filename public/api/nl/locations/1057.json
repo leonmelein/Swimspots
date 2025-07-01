@@ -1,0 +1,33 @@
+{
+  "id": 1057,
+  "address": "Beijerdstraat, De Meent",
+  "placename": "De Meent",
+  "description": "De Meent is een plas met een wateroppervlak van ongeveer 5 ha en valt onder het beheer van Recreatiemaatschappij   Uiterwaarden",
+  "photos": "GLD-026-001 DE MEENT 2020.jpg",
+  "website": "http://www.uiterwaarde.nl/",
+  "alternate_name": "De Meent",
+  "name": "De Meent",
+  "current_status": "goed",
+  "lat": 51.946,
+  "lon": 5.2801,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1623,
+  "address": "Maasdijk 15, Aalst",
+  "placename": "Aalst",
+  "description": "De zwemwaterlocatie bevindt zich in de gemeente Zaltbommel binnen de provincie Gelderland. \u2018De\r\nRietschoof, camping badstrand\u2019 ligt in de uiterwaarden van de Afgedamde Maas. In de omgeving van\r\nde locatie zijn jachthaven- en industri\u00eble activiteiten. Het strand is via de camping \u2018De Rietschoof\u2019 te\r\nbereiken.",
+  "photos": "GLD-056-001 DE RIETSCHOOF 2023.jpg",
+  "website": "http://www.rietschoof.nl/",
+  "alternate_name": "Rietschoof",
+  "name": "Rietschoof",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.7771,
+  "lon": 5.1241,
+  "eu_designation": "4",
+  "e_coli": 160.0,
+  "int_ent": 76.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943892,
+    5943924,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een permanent negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven,"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1205,
+  "address": "Pieter Postmapad, Rijswijk",
+  "placename": "Rijswijk",
+  "description": "Zwemvijver Wilhelminapark is gelegen in de Gemeente Rijswijk. De  Zwemplas  heeft  een  zandstrand.",
+  "photos": "28 Plas Wilhelminapark_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Plas Wilhelminapark",
+  "name": "Plas Wilhelminapark",
+  "current_status": "goed",
+  "lat": 52.0248,
+  "lon": 4.3288,
+  "eu_designation": "2",
+  "e_coli": 94.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943929,
+    5943892
+  ],
+  "warnings": []
+}

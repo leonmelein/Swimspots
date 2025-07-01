@@ -1,0 +1,30 @@
+{
+  "id": 1445,
+  "address": "Laagheideweg 11, America",
+  "placename": "America",
+  "description": "De zwemlocatie is onderdeel van Center  Parcs  \u2018Het  Meerdal\u2019 en is  gelegen  in  de  gemeente  Horst. De locatie bevat een zandstrand.",
+  "photos": "Het Meerdal.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Het Meerdal",
+  "name": "Dagstrand Het Meerdal",
+  "current_status": "goed",
+  "lat": 51.4559,
+  "lon": 5.9502,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943893,
+    5943926,
+    5943927,
+    5943898,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

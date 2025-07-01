@@ -1,0 +1,27 @@
+{
+  "id": 1103,
+  "address": "Gageldijk, Maarssen",
+  "placename": "Maarssen",
+  "description": "Deze locatie is onderdeel van de Grote Maarsseveense Plassen en vrij toegankelijk. Er zijn drie ligweiden in lengte\r\nvari\u00ebrend van 30 tot 90 meter. De ligweiden grenzen direct aan\r\nhet water. Er is een vaste houten oeverbeschoeiing. Op vier\r\npunten is het water goed toegankelijk, de lengtes van deze\r\noeverstroken vari\u00ebren van 20 tot ruim 30 meter",
+  "photos": "PU-003-101 Maarsseveense Plassen.jpg",
+  "website": "http://www.stichtsegroenlanden.nl",
+  "alternate_name": "Maarssev. Pl. Zuid",
+  "name": "Maarsseveense Plassen Zuidhoek",
+  "current_status": "goed",
+  "lat": 52.1373,
+  "lon": 5.0963,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943927,
+    5943891,
+    5943892,
+    5943893,
+    5943895,
+    5943930
+  ],
+  "warnings": []
+}

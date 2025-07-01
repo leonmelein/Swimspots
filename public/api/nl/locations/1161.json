@@ -1,0 +1,21 @@
+{
+  "id": 1161,
+  "address": "Julianalaan, Buitenkaag",
+  "placename": "Buitenkaag",
+  "description": "De zwemlocatie Kaageiland is gelegen aan de westzijde van Kaageiland aan het \u2019s Gravenwater in de\r\ngemeente Kaag en Braassem",
+  "photos": "67_Kaageiland.jpg",
+  "website": null,
+  "alternate_name": "Kaageiland",
+  "name": "Kaageiland",
+  "current_status": "goed",
+  "lat": 52.2161,
+  "lon": 4.5577,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943930,
+    5943907
+  ],
+  "warnings": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1649,
+  "address": "Zeekant, Hoek Van Holland",
+  "placename": "Hoek Van Holland",
+  "description": "Het badstrand van Hoek van Holland is het zuidelijke deel van het Noordzeestrand, gelegen tussen de kern \u2018s-Gravenzande en de Nieuwe Waterweg. De gelijknamige kern Hoek van Holland, voormalige deelgemeente (sinds 2014 bestuurscommissiegebied) van Rotterdam, is landinwaarts achter dit strand gelegen. Het strand is bereikbaar via de wegen N220 en de N211 en met de bus.",
+  "photos": "01j 1-2 Hoek van Holland Slag Zeekant v3_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Hoek Van Holland",
+  "name": "Hoek Van Holland",
+  "current_status": "goed",
+  "lat": 51.9911,
+  "lon": 4.1081,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943912,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": 980,
+  "address": "Meerweg, Rohel",
+  "placename": "Rohel",
+  "description": "Het zwemwater Rohel ligt aan de noordzijde van de Tsj\u00fbkemar, aan de Meerweg nabij het plaatsje Oldeouwer in de gemeente De Fryske Marren. Het zwemwater maakt deel uit van camping \u201cTjeukemeer\u201d.",
+  "photos": "FR-042-001 Rohel.jpg",
+  "website": null,
+  "alternate_name": "Rohel",
+  "name": "Rohel",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.9116,
+  "lon": 5.8072,
+  "eu_designation": "4",
+  "e_coli": 250.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943915,
+    5943919,
+    5943924,
+    5943898,
+    5943892,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "NORMOVERSCHRIJDING_GECONSTATEERD_WATERKWALITEIT",
+      "warning_description": null
+    },
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

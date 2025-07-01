@@ -1,0 +1,31 @@
+{
+  "id": 1034,
+  "address": "Holterweg, Markelo",
+  "placename": "Markelo",
+  "description": "In het Recreatiepark De Poppe bij Markelo in de provincie Overijssel ligt het zwemwater De Poppe. Het is een kleine gegraven zwemplas, die alleen voor campinggasten toegankelijk is. Het park ligt in het buitengebied aan de noordwestzijde van Markelo. Het strand van De Poppe ligt aan de noordzijde van de plas. Er staan verschillende speeltoestellen en er is een groot springkussen. Langs het water liggen surfplanken en er is een vlot op het water aanwezig. Er zijn twee ballenlijnen in het water.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Camping De Poppe",
+  "name": "Camping De Poppe (Ws Rijn En Ijssel)",
+  "current_status": "goed",
+  "lat": 52.2554,
+  "lon": 6.4614,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

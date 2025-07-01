@@ -1,0 +1,32 @@
+{
+  "id": 1593,
+  "address": "Slobbeland, Volendam",
+  "placename": "Volendam",
+  "description": "Zwemgelegenheid is gesloten.\r\n\r\nSlobbeland is onderdeel van het gelijknamige recreatiecentrum, dichtbij de haven van Volendam. Er zijn twee grote ligweiden en verschillende speeltoestellen. Vlakbij is een dagcamping met aanmeermogelijkheden voor recreatieboten.",
+  "photos": "Slobbeland Volendam.PNG",
+  "website": null,
+  "alternate_name": "Slobbeland",
+  "name": "Slobbeland, Volendam",
+  "current_status": "goed",
+  "lat": 52.491,
+  "lon": 5.0717,
+  "eu_designation": "1",
+  "e_coli": 160.0,
+  "int_ent": 310.0,
+  "amenities": [
+    5943932,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943893,
+    5943930,
+    5943927,
+    5943897,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

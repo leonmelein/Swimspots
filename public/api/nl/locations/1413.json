@@ -1,0 +1,33 @@
+{
+  "id": 1413,
+  "address": "Joh. Plasweg, Coevorden",
+  "placename": "Coevorden",
+  "description": "De Klinkenvlierseplas is een voormalige zandwinplas ten oosten van Coevorden. Aan de zuidkant en noordkant van de plas zijn de oevers bedekt met gras. De oppervlakte van de plas is ongeveer 15 hectare (exclusief schiereiland).",
+  "photos": "Recreatiezone_Klinkenvlierseplas.jpg",
+  "website": null,
+  "alternate_name": "Klinkenvlierse Plas",
+  "name": "Klinkenvlierse Plas",
+  "current_status": "goed",
+  "lat": 52.652,
+  "lon": 6.7702,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

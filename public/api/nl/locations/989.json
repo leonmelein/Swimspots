@@ -1,0 +1,29 @@
+{
+  "id": 989,
+  "address": "Vijverweg, Den Hulst",
+  "placename": "Den Hulst",
+  "description": "Speelvijver De Zwarte Dennen ligt in de bossen van boswachterij Staphorst tussen Rouveen en Den Hulst. De plas Zwarte Dennen wordt gebruikt om te zwemmen en zonnen en is gratis toegankelijk.\r\n De locatie is via vijf ingangen toegankelijk.",
+  "photos": null,
+  "website": "http://www.staatsbosbeheer.nl/Activiteiten/Staphorst/Speelvijver%20De%20Zwarte%20Dennen.aspx",
+  "alternate_name": "Zwarte Dennen",
+  "name": "Zwarte Dennen",
+  "current_status": "goed",
+  "lat": 52.6245,
+  "lon": 6.2726,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

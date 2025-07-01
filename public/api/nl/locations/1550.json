@@ -1,0 +1,29 @@
+{
+  "id": 1550,
+  "address": "Drontermeerdijk, Dronten",
+  "placename": "Dronten",
+  "description": "Het Abbertstrand ligt aan het Drontermeer tussen de Roggebotsluis en de brug naar Elburg. Het strand ligt aan het Drontermeer en de Drontermeerdijk aan de westzijde van het meer. Bij het strand is het strandpaviljoen At Sea.",
+  "photos": "DOCUVITP-#1332258-v1-12_067_Abbertstrand-1_pdf.jpg",
+  "website": "https://www.atsea-restaurant.nl/",
+  "alternate_name": "Abbertstrand",
+  "name": "Abbertstrand",
+  "current_status": "goed",
+  "lat": 52.5127,
+  "lon": 5.8547,
+  "eu_designation": "3",
+  "e_coli": 140.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943917,
+    5943921,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

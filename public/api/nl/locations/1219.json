@@ -1,0 +1,33 @@
+{
+  "id": 1219,
+  "address": "Strandweg, Oostvoorne",
+  "placename": "Oostvoorne",
+  "description": "Oostvoornse Meer Zuidzijde is \u00e9\u00e9n van de twee zwemwaterlocaties van \r\nhet  Oostvoornse  Meer.  Deze  locatie  wordt  voornamelijk  door  de  bewoners  van Oostvoorne met jonge kinderen bezocht. De locatie is dan ook bijzonder kindvriendelijk ingericht met speeltoestellen en een deel voor peuters, gemarkeerd met een ballenlijn.",
+  "photos": "58b Oostvoornse Meer Z-zijde_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Oostvoornse Meer Zz",
+  "name": "Oostvoornse Meer Zuidzijde",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.9192,
+  "lon": 4.0685,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_ONVEILIGE_SITUATIE",
+      "warning_description": "Uit veiligheidsonderzoek is gebleken dat de waterbodem zuigend is en diepe kuilen heeft."
+    },
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

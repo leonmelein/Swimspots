@@ -1,0 +1,33 @@
+{
+  "id": 1518,
+  "address": "Burenpolderweg, Yerseke",
+  "placename": "Yerseke",
+  "description": "De locatie Yerseke Postweg Badstrand is gelegen aan de Oosterschelde en wordt fysiek begrensd \r\ndoor dijken. Zwemlocatie Yerseke Postweg is een \r\nzoutwaterlocatie welke onder invloed staat van het getij. Het strand staat gedurende hoogwater \r\nvolledig onder water.",
+  "photos": "yerseke Postweg badstrand (2).jpg",
+  "website": null,
+  "alternate_name": "Strandje Postweg Yerseke",
+  "name": "Yerseke Postweg Badstrand",
+  "current_status": "goed",
+  "lat": 51.5026,
+  "lon": 4.0463,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943921,
+    5943890,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

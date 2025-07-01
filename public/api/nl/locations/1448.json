@@ -1,0 +1,29 @@
+{
+  "id": 1448,
+  "address": "'t Leuken (Bosserheide) 3 a, Well",
+  "placename": "Well",
+  "description": "Dagstrand Seurenheide is gelegen in de gemeente Bergen. De  zwemplas  is omheind. Bij  het  water  is  een  zandstrand  en  een  grote ligweide aanwezig. De  maximale  diepte  tussen  zandstrand  en  eiland  is  1,40  m.",
+  "photos": "Seurenheide.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Seurenheide",
+  "name": "Dagstrand Seurenheide",
+  "current_status": "goed",
+  "lat": 51.5669,
+  "lon": 6.0766,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

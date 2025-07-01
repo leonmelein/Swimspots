@@ -1,0 +1,24 @@
+{
+  "id": 1278,
+  "address": "Beekse Bergen, Hilvarenbeek",
+  "placename": "Hilvarenbeek",
+  "description": "De plas Beekse Bergen maakt deel uit van het vakantiepark de Beekse Bergen te Hilvarenbeek.",
+  "photos": "NB-034-003 Beekse Bergen Zuid AANGEPAST.jpg",
+  "website": "http://libemavakantieparken.nl/beeksebergen/",
+  "alternate_name": "Beekse Bergen 2",
+  "name": "Beekse Bergen Zone 2",
+  "current_status": "goed",
+  "lat": 51.5212,
+  "lon": 5.137,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

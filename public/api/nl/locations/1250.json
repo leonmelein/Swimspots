@@ -1,0 +1,27 @@
+{
+  "id": 1250,
+  "address": "Markdijk 0, Zevenbergen",
+  "placename": "Zevenbergen",
+  "description": "Zwemplas Markeplaat is gelegen ten zuiden van de gemeente Zevenbergen aan de Markdijk. Het terrein is circa 10 hectare groot.",
+  "photos": "NB-069-001 Markeplaat.jpg",
+  "website": "http://www.mensennatuur.nl",
+  "alternate_name": "Markeplaat",
+  "name": "Plas Op De Markeplaat",
+  "current_status": "goed",
+  "lat": 51.6278,
+  "lon": 4.6184,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943912,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

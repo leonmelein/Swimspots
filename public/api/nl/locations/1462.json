@@ -1,0 +1,31 @@
+{
+  "id": 1462,
+  "address": "Badweg 6, Oost-Vlieland",
+  "placename": "Oost-Vlieland",
+  "description": "Vlieland grenst aan de noordkant aan de Noordzee en aan de Waddenzee in het zuiden. De zwemlocatie is gelegen aan het Noordzeekust van Vlieland. Ten zuiden van de locatie, aan de Waddenzee, ligt het enige dorp: Oost-Vlieland.",
+  "photos": "FR-001-001 Badstrand Badhuis.jpg",
+  "website": null,
+  "alternate_name": "Badstrand Badhuis",
+  "name": "Badstrand Badhuis",
+  "current_status": "goed",
+  "lat": 53.3051,
+  "lon": 5.0511,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943914,
+    5943890,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943900,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

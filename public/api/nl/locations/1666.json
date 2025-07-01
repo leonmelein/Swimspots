@@ -1,0 +1,29 @@
+{
+  "id": 1666,
+  "address": "Zeekant, Scheveningen",
+  "placename": "Scheveningen",
+  "description": "De zwemwaterlocatie Scheveningen Noorderstrand is onderdeel van het doorlopende Noordzeestrand van Scheveningen naar Katwijk en ligt ten noorden van de haven van Scheveningen en ten zuiden van de Scheveningse pier. Het strand is bereikbaar met de auto via\r\nDen Haag A12, met de bus en via trein en tram.",
+  "photos": "01g 14-16 Scheveningen Noorderstrand_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Scheveningen N",
+  "name": "Scheveningen Noorderstrand",
+  "current_status": "goed",
+  "lat": 52.1091,
+  "lon": 4.2707,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943912,
+    5943923,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

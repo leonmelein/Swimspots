@@ -1,0 +1,25 @@
+{
+  "id": 1380,
+  "address": "Hoofdstraat, Lettelbert",
+  "placename": "Lettelbert",
+  "description": "De zwemlocatie is gelegen in het noorden van de gemeente Leek, direct aan de zuidzijde van de \r\nRijksweg A7. De zwemlocatie ligt ingesloten tussen het dorp Lettelbert en de Rijksweg A7. Langs \r\nde oostkant ligt het Lettelberterdiep. Omdat de plas wordt omgeven door houtopstand heeft de \r\nzwemlocatie een beschutte ligging. ",
+  "photos": "GR-016-001Recreatiezone Lettelberterplas.jpg",
+  "website": null,
+  "alternate_name": "Lettelberterplas",
+  "name": "Lettelberterplas, Lettelbert",
+  "current_status": "goed",
+  "lat": 53.1919,
+  "lon": 6.4107,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

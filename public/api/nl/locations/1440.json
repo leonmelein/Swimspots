@@ -1,0 +1,28 @@
+{
+  "id": 1440,
+  "address": "Tienrayseweg, Horst",
+  "placename": "Horst",
+  "description": "De  plas  Kasteelse  Bossen  is  gelegen  in  het  parkachtige  gebied  Kasteelse  Bossen. De plas wordt omgeven door een \r\nsmalle strook lage begroeiing en zandstrand, met daarbuiten een strook bos. De plas is ongeveer 6 ha groot.",
+  "photos": "Kasteelse Bossen.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand De Kasteelse Bossen",
+  "name": "Dagstrand De Kasteelse Bossen",
+  "current_status": "goed",
+  "lat": 51.4692,
+  "lon": 6.0597,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

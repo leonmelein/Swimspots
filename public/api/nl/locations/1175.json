@@ -1,0 +1,29 @@
+{
+  "id": 1175,
+  "address": "Bosweg, Hoofddorp",
+  "placename": "Hoofddorp",
+  "description": "Het Haarlemmermeerse Bos is een ongeveer 115 ha groot, recreatiegebied ten noordwesten van Hoofddorp. De Spartelvijver is een van de twee offici\u00eble zwemlocaties in dit gebied.",
+  "photos": "Haarlemmermeerse Bos Spartelvijver.PNG",
+  "website": null,
+  "alternate_name": "Haarlemmermeerse Bos Spartelvijver",
+  "name": "Haarlemmermeerse Bos Spartelvijver",
+  "current_status": "goed",
+  "lat": 52.3251,
+  "lon": 4.6649,
+  "eu_designation": "7",
+  "e_coli": 110.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

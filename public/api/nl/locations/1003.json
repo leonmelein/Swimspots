@@ -1,0 +1,29 @@
+{
+  "id": 1003,
+  "address": "Rijksstraatweg 109, Olst",
+  "placename": "Olst",
+  "description": "De zwemlocatie Lange Kolk, ook wel Kolkbad Den Nul genoemd, is gelegen aan de rijksstraatweg (N337) bij De Nul",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Kolkbad Den Nul",
+  "name": "Kolkbad Den Nul",
+  "current_status": "goed",
+  "lat": 52.3637,
+  "lon": 6.1105,
+  "eu_designation": "1",
+  "e_coli": 160.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943917,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

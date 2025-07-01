@@ -1,0 +1,24 @@
+{
+  "id": 1212,
+  "address": "Stompaardsedijk, Zuidland",
+  "placename": "Zuidland",
+  "description": "Op de locatie Bernisse Oostzijde Zuidland zijn twee naast elkaar gelegen zwemstrandjes te vinden.",
+  "photos": "61c Bernisse O-zijde van Zuidland v1_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Bernisse Zuidland Oostzijde",
+  "name": "Bernisse Zuidland Oostzijde",
+  "current_status": "goed",
+  "lat": 51.8219,
+  "lon": 4.2712,
+  "eu_designation": "2",
+  "e_coli": 130.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

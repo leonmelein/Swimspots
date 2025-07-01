@@ -1,0 +1,29 @@
+{
+  "id": 1558,
+  "address": "Kooizandweg, Enkhuizen",
+  "placename": "Enkhuizen",
+  "description": "Enkhuizerzand ligt aan het IJsselmeer, bij de gelijknamige camping en vlak bij Sprookjeswonderland. Er is een zandstrand.",
+  "photos": "Enkuizerzand.PNG",
+  "website": null,
+  "alternate_name": "Enkhuizerzand",
+  "name": "Enkhuizerzand",
+  "current_status": "goed",
+  "lat": 52.7118,
+  "lon": 5.2933,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943932,
+    5943907,
+    5943913,
+    5943914,
+    5943891,
+    5943892,
+    5943930,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

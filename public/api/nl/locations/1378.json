@@ -1,0 +1,34 @@
+{
+  "id": 1378,
+  "address": "Hunzeweg, Garnwerd",
+  "placename": "Garnwerd",
+  "description": "De zwemlocatie garwerd ligt aan de westoever van het Reitdiep. De zwemlocatie wordt omringd door landelijk gebied\r\n\r\n",
+  "photos": "GR-027-001 Recreatiezone Reitdiep.jpg",
+  "website": null,
+  "alternate_name": "Reitdiep",
+  "name": "Reitdiep, Garnwerd",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 53.3059,
+  "lon": 6.4936,
+  "eu_designation": "4",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943932,
+    5943900
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": null
+    }
+  ]
+}

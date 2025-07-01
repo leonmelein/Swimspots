@@ -1,0 +1,33 @@
+{
+  "id": 1565,
+  "address": "De Holle Poarte, Makkum",
+  "placename": "Makkum",
+  "description": "De Holle Poarte is gelegen aan het IJsselmeer ten westen van Makkum en ten zuiden van de uitmonding van het Makkumerdiep in het IJsselmeer. Ten noorden van het zwemstrand ligt het natuurgebied de Noardwaard, dat deel uit maakt van een gebied dat is aangewezen als beschermd natuurmonument, Vogelrichtlijn en Habitatrichtlijngebied De Friese IJsselmeerkust. Het is een\r\ngevarieerd gebied, dat bestaat uit voormalige zandplaten begroeid met riet, ruigten en struweel en is omgeven door ondiep water.",
+  "photos": "FR-011-001 De Holle Poarte.jpg",
+  "website": null,
+  "alternate_name": "Holle Poarte",
+  "name": "De Holle Poarte",
+  "current_status": "goed",
+  "lat": 53.0507,
+  "lon": 5.3766,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943909,
+    5943895,
+    5943913,
+    5943915,
+    5943919,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943900
+  ],
+  "warnings": []
+}

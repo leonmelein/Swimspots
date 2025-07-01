@@ -1,0 +1,28 @@
+{
+  "id": 1538,
+  "address": "Hatenboer 51, Roermond",
+  "placename": "Roermond",
+  "description": "Zwemlocatie Recreatiestrand Camping Hatenboer (ook wel Nieuwe Nack dagstrand genoemd) ligt in Midden-Limburg \r\nin de gemeente Roermond en is gesitueerd in het westelijke winterbed van de Maas; op minder dan \r\n100 meter van de rivier. Het strand ligt ongeveer 1,5 kilometer ten westen van de stad Roermond, \r\nnabij de gelijknamige camping. Het dagstrand is een klein smal zandstrand.",
+  "photos": "Camping Hatenboer.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Camping Hatenboer",
+  "name": "Recreatiestrand Camping Hatenboer",
+  "current_status": "goed",
+  "lat": 51.1953,
+  "lon": 5.9749,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

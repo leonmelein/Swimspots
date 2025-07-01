@@ -1,0 +1,37 @@
+{
+  "id": 1191,
+  "address": "Madepolderweg, Den Haag",
+  "placename": "Den Haag",
+  "description": "Het gebied is aangelegd in twee polders ten zuidwesten van Den Haag. De zwemzone heeft een totale lengte van ongeveer 160 m. Aan de zwemzone zijn twee kleine zandstrandjes  aangelegd",
+  "photos": "34c Plassen Madestein Z-zijde v1_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Madestein Zuid",
+  "name": "Plassen Madestein, Zuidzijde",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.0364,
+  "lon": 4.2152,
+  "eu_designation": "3",
+  "e_coli": 94.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943930,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    },
+    {
+      "warning_type": "WAARSCHUWING_ONVEILIGE_SITUATIE",
+      "warning_description": "Uit het veiligheidsonderzoek is gebleken dat de waterbodem zuigend is en diepe kuilen heeft."
+    },
+    {
+      "warning_type": "ONTRADEN_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1083,
+  "address": "Abcouderstraatweg, Abcoude",
+  "placename": "Abcoude",
+  "description": "Het recreatiegebied De Hoge Dijk ligt ten zuiden van Amsterdam en ten noorden van Abcoude. De zwemlocatie bestaat uit een lange, smalle en ondiepe vijver met aan weerszijden een zandstrand.",
+  "photos": "Speelsloot (De Hoge Dijk).PNG",
+  "website": null,
+  "alternate_name": "Speelsloot (De Hoge Dijk)",
+  "name": "Speelsloot (De Hoge Dijk)",
+  "current_status": "goed",
+  "lat": 52.2866,
+  "lon": 4.9651,
+  "eu_designation": "2",
+  "e_coli": 61.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943930,
+    5943901,
+    5943902
+  ],
+  "warnings": []
+}

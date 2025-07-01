@@ -1,0 +1,40 @@
+{
+  "id": 1595,
+  "address": "Westdijk, Bunschoten-Spakenburg",
+  "placename": "Bunschoten-Spakenburg",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven, Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend. Recreatiepark \u2019t Kleine Zeetje ligt aan de zuidzijde van het Eemmeer in de gemeente Bunschoten.\r\nHet betreft een zoetwaterlocatie.",
+  "photos": "PU-010-001 't Kleine Zeetje.jpg",
+  "website": "http://www.bunschoten.nl",
+  "alternate_name": "'t Kleine Zeetje",
+  "name": "Recreatiepark 't Kleine Zeetje",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.2602,
+  "lon": 5.3762,
+  "eu_designation": "4",
+  "e_coli": 110.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven, Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend."
+    }
+  ]
+}

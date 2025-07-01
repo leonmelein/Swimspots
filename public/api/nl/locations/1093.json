@@ -1,0 +1,26 @@
+{
+  "id": 1093,
+  "address": "Middenweg, Oudekerk aan de Amstel",
+  "placename": "Oudekerk aan de Amstel",
+  "description": "De Ouderkerkerplas ligt ten zuiden van het dorp Ouderkerk aan de Amstel. Het Zandstrand heeft een lengte van ongeveer 200 meter en een breedte van ongeveer 20 meter.",
+  "photos": "Zandstrand Ouderkerkerplas.PNG",
+  "website": null,
+  "alternate_name": "Zandstrand",
+  "name": "Zandstrand, Ouderkerkerplas",
+  "current_status": "goed",
+  "lat": 52.2946,
+  "lon": 4.9292,
+  "eu_designation": "3",
+  "e_coli": 127.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943897,
+    5943891,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

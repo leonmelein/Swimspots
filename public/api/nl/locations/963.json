@@ -1,0 +1,37 @@
+{
+  "id": 963,
+  "address": "Prins Bernhardweg 1, Schiermonnikoog",
+  "placename": "Schiermonnikoog",
+  "description": "De zwemlocatie ligt op Schiermonnikoog ten noordoosten van het dorp\r\nSchiermonnikoog. De zwemplas ligt beschut in een bos- en duingebied en is eigendom van Natuurmonumenten. Het meertje is gegraven ten behoeve van zandwinning voor dijkverbeteringwerken begin \u201960-er jaren. Om de goede waterkwaliteit stabiel te houden is een helofytenfilter aangelegd.",
+  "photos": "FR-010-001 Berkenplas.jpg",
+  "website": null,
+  "alternate_name": "Berkenplas",
+  "name": "Berkenplas",
+  "current_status": "WAARSCHUWING",
+  "lat": 53.485,
+  "lon": 6.1748,
+  "eu_designation": "2",
+  "e_coli": 790.0,
+  "int_ent": 80.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_ZWEMMERSJEUK",
+      "warning_description": null
+    }
+  ]
+}

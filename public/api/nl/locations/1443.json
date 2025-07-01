@@ -1,0 +1,32 @@
+{
+  "id": 1443,
+  "address": "Heldensedijk 5, Roggel",
+  "placename": "Roggel",
+  "description": "De  zwemplas  heeft momenteel  een  oppervlakte  van  ongeveer  7000  m 2  en  staat  niet  in  verbinding  met \r\nander  oppervlaktewater.",
+  "photos": "De Leistert.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Recreatiepark De Leistert",
+  "name": "Dagstrand Recreatiepark De Leistert",
+  "current_status": "goed",
+  "lat": 51.2761,
+  "lon": 5.9312,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943916,
+    5943897,
+    5943921,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

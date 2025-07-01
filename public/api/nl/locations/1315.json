@@ -1,0 +1,28 @@
+{
+  "id": 1315,
+  "address": "Holthesedijk, Overloon",
+  "placename": "Overloon",
+  "description": "\u2018t Schaartven is een voormalige zandwinplas, gelegen in de bossen tussen Overloon en de A73. De noordkant van de \r\nplas is ingericht voor zwemmen en de zuidkant van de plas is bestemd voor natuur. De plas is \r\nomgeven door bos.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "'t Schaartven",
+  "name": "'t Schaartven",
+  "current_status": "goed",
+  "lat": 51.5735,
+  "lon": 5.9749,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943911,
+    5943916,
+    5943929,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943900
+  ],
+  "warnings": []
+}

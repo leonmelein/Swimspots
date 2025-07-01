@@ -1,0 +1,26 @@
+{
+  "id": 1663,
+  "address": "Vrijheidsweg, Ouddorp",
+  "placename": "Ouddorp",
+  "description": "Ouddorp heeft door zijn ligging op de kop van Goeree-Overflakkee vele kilometers strand. Ook zijn er veel parkeerplaatsen, die gratis en goed bereikbaar zijn. ",
+  "photos": "01n_Ouddorp_2 v2.jpg",
+  "website": null,
+  "alternate_name": "Ouddorp",
+  "name": "Ouddorp Strand",
+  "current_status": "goed",
+  "lat": 51.83,
+  "lon": 3.9153,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

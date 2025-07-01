@@ -1,0 +1,31 @@
+{
+  "id": 1308,
+  "address": "Grintweg, Handel",
+  "placename": "Handel",
+  "description": "De Rooyse Plas ligt ten zuidoosten van Handel, ten noorden van de\r\nN272 (Peeldijk). Aan de noord- en westzijde grenst de plas aan bos. Aan de zuid- en oostkant is\r\nde plas met een groene strook gescheiden van landbouwgronden. Ongeveer 200 meter ten\r\noosten van de plas ligt een camping.\r\nDe Rooye Plas wordt jaarrond door waterski\u00ebrs gebruikt, zowel voor wedstrijden als trainingen.\r\nDe plas is openbaar toegankelijk. Het zwemgedeelte in de Rooye Plas ligt in de ondiepe inham aan de westkant van de plas.",
+  "photos": "NB-027-001 De Rooije Plas.jpg",
+  "website": "http://www.gemertbakeltoerisme.nl/",
+  "alternate_name": "Rooyse Plas Handel",
+  "name": "Rooyse Plas Handel",
+  "current_status": "goed",
+  "lat": 51.5745,
+  "lon": 5.7218,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943917,
+    5943891,
+    5943892,
+    5943927,
+    5943896,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

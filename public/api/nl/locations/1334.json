@@ -1,0 +1,28 @@
+{
+  "id": 1334,
+  "address": "Beetserweg, Sellingen",
+  "placename": "Sellingen",
+  "description": "De zwemlocatie Sellingerbeetse is gelegen te Sellingen. Sellingen is een dorp in de gemeente \r\nVlagtwedde in de streek Westerwolde aan de Ruiten Aa. De zwemlocatie Sellingerbeetse is gelegen in het natuurgebied \u201cHet Sellingerveld\u201d. De badzone van zwemlocatie Sellingerbeetse is gelegen ten westen \r\nvan zwemlocatie \u201cDe Papaver\u201d, wordt omgeven door een bosrand en maakt onderdeel uit van een \r\ngrote voormalige zandwinning.",
+  "photos": "GR-031-001 Recreatiezone Sellingerbeetse.jpg",
+  "website": null,
+  "alternate_name": "De Sellingerbeetse",
+  "name": "De Sellingerbeetse, Sellingen",
+  "current_status": "goed",
+  "lat": 52.9382,
+  "lon": 7.0906,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 353.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

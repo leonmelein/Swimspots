@@ -1,0 +1,29 @@
+{
+  "id": 987,
+  "address": "Kleasterdyk, Slappeterp",
+  "placename": "Slappeterp",
+  "description": "Zwemvijver de Swanneblom is gelegen nabij de Klaesterdijk te Slappeterp, een Fries dorp tussen Franeker en Leeuwarden in de gemeente Menameradiel. De plas wordt gebruikt om te zwemmen en zonnen door gasten van een nabijgelegen camping en lokale bewoners. De plas is via een wandelroute van twee kanten te bereiken.",
+  "photos": "FR-048-001 De Swanneblom.jpg",
+  "website": null,
+  "alternate_name": "De Swanneblom",
+  "name": "De Swanneblom",
+  "current_status": "goed",
+  "lat": 53.2189,
+  "lon": 5.6288,
+  "eu_designation": "2",
+  "e_coli": 80.0,
+  "int_ent": 50.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

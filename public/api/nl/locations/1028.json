@@ -1,0 +1,35 @@
+{
+  "id": 1028,
+  "address": "Hambroekweg 10, Borculo",
+  "placename": "Borculo",
+  "description": "Ten oosten van Borculo ligt zwemwater Hambroekplas . Dit recreatiegebied ligt tussen de beken de Berkel, de Berkel door Borculo en de Leerinkbeek.",
+  "photos": "GLD-018-001 HAMBROEKPLAS 2022.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "Hambroek",
+  "name": "Hambroekplas",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.1157,
+  "lon": 6.5409,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943913,
+    5943915,
+    5943916,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1459,
+  "address": "Prins Bernhardweg 2, Schiermonnikoog",
+  "placename": "Schiermonnikoog",
+  "description": "Het badstrand wordt ook we Badstrand De Grilk genoemd. Het strand van Schiermonnikoog is erg breed, circa 500 tot 750 meter breed. Tegen de duinen vormen zich onder de dynamiek van wind en zand nieuwe \u201d duinen, die na enige tijd begroeit raken met helmgras en andere pioniervegetatie. Achter de eerste nieuwe duinenrij ter hoogte van het badstrand bevindt zich een meeuwenkolonie.",
+  "photos": "FR-007-001 Badstrand Prins Bernardweg.jpg",
+  "website": null,
+  "alternate_name": "Badstrand Prins Bernhardweg",
+  "name": "Badstrand Prins Bernhardweg",
+  "current_status": "goed",
+  "lat": 53.5026,
+  "lon": 6.1897,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943914,
+    5943890,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943900,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

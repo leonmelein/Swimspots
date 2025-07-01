@@ -1,0 +1,27 @@
+{
+  "id": 1620,
+  "address": "Hoge Maasdijk, Andel",
+  "placename": "Andel",
+  "description": "De zwemlocatie Hooge Waard ligt in Andel (gemeente Woudrichem). Het strand bestaat uit een smalle strook zand met daar omheen een hoger gelegen ligweide.",
+  "photos": "NB-003-001 De Hoge Waard.jpg",
+  "website": "http://www.dehogewaard.nl",
+  "alternate_name": "De Hoge Waard",
+  "name": "De Hoge Waard, Camping Badstrand",
+  "current_status": "goed",
+  "lat": 51.78,
+  "lon": 5.0821,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943929,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

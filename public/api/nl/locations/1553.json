@@ -1,0 +1,28 @@
+{
+  "id": 1553,
+  "address": "Zuiderdijk, Broekerhaven",
+  "placename": "Broekerhaven",
+  "description": "Recreatieterrein Broekerhaven ligt aan het Markermeer, nabij Bovenkarspel (gemeente Stede Broec). Er zijn twee offici\u00eble zwemplekken, Recreatiepark Broekerhaven en Broekerhaven Oost. Ze liggen elk aan een kant van de ingang naar jachthaven Broekerhaven.",
+  "photos": "Broekerhaven Oost.PNG",
+  "website": null,
+  "alternate_name": "Broekerhaven Oost",
+  "name": "Broekerhaven Oost",
+  "current_status": "goed",
+  "lat": 52.6867,
+  "lon": 5.2579,
+  "eu_designation": "1",
+  "e_coli": 350.0,
+  "int_ent": 200.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943929,
+    5943891,
+    5943927,
+    5943897,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

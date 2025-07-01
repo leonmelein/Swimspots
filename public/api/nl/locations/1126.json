@@ -1,0 +1,31 @@
+{
+  "id": 1126,
+  "address": "De Lange Jap, Den Ilp",
+  "placename": "Den Ilp",
+  "description": "Recreatiegebied het Twiske ligt ten noorden van Amsterdam tussen Den Ilp, Landsmeer en Oostzaan. Het bestaat uit diverse plassen, sloten, weilanden en bosjes en is omgeven door een dijk met fiets- en wandelpad. Het Kure-Jan Strand is een van de zeven offici\u00eble zwemlocaties.",
+  "photos": "Het Twiske Kure-Jan Strand.PNG",
+  "website": null,
+  "alternate_name": "Het Twiske; Kure-Jan Strand",
+  "name": "Het Twiske; Kure-Jan Strand",
+  "current_status": "goed",
+  "lat": 52.4563,
+  "lon": 4.8939,
+  "eu_designation": "3",
+  "e_coli": 144.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

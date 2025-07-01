@@ -1,0 +1,26 @@
+{
+  "id": 1165,
+  "address": "Azieweg, Zoetermeer",
+  "placename": "Zoetermeer",
+  "description": "De Zoetermeerse Plas grenst aan het noorden van Zoetermeer en is begin jaren '70 aangelegd. Het is een recreatieplas die ontstaan is door zandwinning voor de Zoetermeerse wijken.\r\nDe Speelvijver is een kleinere en meer beschutte zwemlocatie die door een strekdam/schiereiland van de diepe plas wordt gescheiden.",
+  "photos": "23 Noord Aa speelvijver_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Speelvijver",
+  "name": "Noord Aa Speelvijver",
+  "current_status": "goed",
+  "lat": 52.0859,
+  "lon": 4.5117,
+  "eu_designation": "2",
+  "e_coli": 230.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

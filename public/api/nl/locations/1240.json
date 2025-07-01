@@ -1,0 +1,27 @@
+{
+  "id": 1240,
+  "address": "Oude Raadhuislaan 154, Rotterdam",
+  "placename": "Rotterdam",
+  "description": "t Zwarte Plasje",
+  "photos": "42__t_Zwarte_Plasje.jpg",
+  "website": null,
+  "alternate_name": "'t Zwarte Plasje",
+  "name": "'t Zwarte Plasje",
+  "current_status": "goed",
+  "lat": 51.9593,
+  "lon": 4.4913,
+  "eu_designation": "1",
+  "e_coli": 310.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943907,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

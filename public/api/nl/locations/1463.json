@@ -1,0 +1,31 @@
+{
+  "id": 1463,
+  "address": "Zeedijk, Baarland",
+  "placename": "Baarland",
+  "description": "Baarland Badstrand is gelegen aan de noordelijke oever van de Westerschelde. De zwemlocatie is gelegen tegen de zeedijk",
+  "photos": "Baarland badstrand (2).JPG",
+  "website": null,
+  "alternate_name": "Baarland Badstrand",
+  "name": "Baarland Badstrand",
+  "current_status": "goed",
+  "lat": 51.3939,
+  "lon": 3.8983,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

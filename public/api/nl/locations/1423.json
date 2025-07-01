@@ -1,0 +1,30 @@
+{
+  "id": 1423,
+  "address": "Gemeenteweg, Sibculo",
+  "placename": "Sibculo",
+  "description": "De Spartelvijver Sibculo ligt ten oosten van Sibculo in het noordoosten van Overijssel. De plas heeft een totaal oppervlak van 7,2 ha en is maximaal 16 meter diep. Het zwemgedeelte, de \u201eSpartelvijver\u201f, bevindt zich in het zuidelijke deel van de plas.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Sibculo Spartel",
+  "name": "Recreatieplas Sibculo",
+  "current_status": "goed",
+  "lat": 52.4849,
+  "lon": 6.6439,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1494,
+  "address": "Gortzakweg, Oesterdam, Bergen op Zoom",
+  "placename": "Bergen op Zoom",
+  "description": "Zwemlocatie Oesterdam Westzijde is gelegen aan de westzijde van het zuidelijke deel van de \r\nOesterdam, oftewel aan de kant van de Oosterschelde. Het betreft een zoutwater-getijdelocatie. Het \r\nstrand staat gedurende hoogwater volledig onder water.",
+  "photos": "Oesterdam Westzijde badstrand (2).JPG",
+  "website": null,
+  "alternate_name": "Oesterdam Westzijde Badstrand",
+  "name": "Oesterdam Westzijde Badstrand",
+  "current_status": "goed",
+  "lat": 51.4773,
+  "lon": 4.2191,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

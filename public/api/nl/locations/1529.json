@@ -1,0 +1,28 @@
+{
+  "id": 1529,
+  "address": "Waage Naak 38, Wessem",
+  "placename": "Wessem",
+  "description": "De zwemlocatie Recreatiestrand Comfortparc Wessem (Koeweide) is gelegen aan de Munsterse Speije op circa 2 km afstand ten zuidoosten van Thorn. De Munsterse Speije staat in open verbinding met de Maas. Het dagstrand is een onderdeel van de camping en jachthaven, en alleen toegankelijk voor bezoekers hiervan. De jachthaven ligt aan \r\nde noordzijde van de \u2018pier\u2019, terwijl de zwemzone zich aan de zuidzijde bevindt. Op de pier is de \r\ncamping gelegen.",
+  "photos": "Watersportcentrum Koeweide.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Comfortparc Wessem",
+  "name": "Recreatiestrand Comfortparc Wessem",
+  "current_status": "goed",
+  "lat": 51.1538,
+  "lon": 5.8717,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

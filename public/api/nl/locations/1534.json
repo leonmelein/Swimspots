@@ -1,0 +1,33 @@
+{
+  "id": 1534,
+  "address": "de Lithse Ham 3, Lith",
+  "placename": "Lith",
+  "description": "De Lithse Ham is gelegen langs de Maas in de gemeente Lith en heeft een totaal oppervlakte van ongeveer 250 ha.",
+  "photos": "NB-042-001 De Lithse Ham Campingstrand.jpg",
+  "website": "http://www.delithseham.nl/",
+  "alternate_name": "Lithse Ham, Dagstr.",
+  "name": "Lithse Ham, Dagstrand",
+  "current_status": "goed",
+  "lat": 51.8101,
+  "lon": 5.4102,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943916,
+    5943917,
+    5943919,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1285,
+  "address": "Bosschenweg, Den Bosch",
+  "placename": "Den Bosch",
+  "description": "Zwemplas de Meerse plas (lokaal bekend als Dungens Gat) ligt ten noordwesten van het dorp \r\nDen Dungen in de gemeente Sint-Michielsgestel. Aan de noordkant van de plas ligt de Zuid-\r\nWillemsvaart en ten westen van de plas ligt de rijksweg A2. Tussen de plas en de Zuid-\r\nWillemsvaart ligt een crossbaan.",
+  "photos": "NB-013-001 Meerse Plas AANGEPAST.jpg",
+  "website": null,
+  "alternate_name": "Meerse Plas",
+  "name": "Meerse Plas",
+  "current_status": "goed",
+  "lat": 51.6789,
+  "lon": 5.3588,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943898,
+    5943895,
+    5943896,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

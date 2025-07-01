@@ -1,0 +1,26 @@
+{
+  "id": 1379,
+  "address": "Bangeweer, Hoogkerk",
+  "placename": "Hoogkerk",
+  "description": "De zwemlocatie Ruskenveen ligt in de gelijknamige plas en bevindt zich ten westen van de stad \r\nGroningen tussen de voormalige vloeivelden van de suikerfabriek en Hoogkerk. De zwemlocatie is vrij toegankelijk voor fietsers en voetgangers. Rondom de plas liggen fiets- en \r\nwandelpaden. Paaltjes in de weg maken de plas ontoegankelijk voor voertuigen. Aan de \r\nnoordzijde van de plas is een parkeerplaats. ",
+  "photos": "GR-029-001 Recreatiezone Ruskenveen.jpg",
+  "website": null,
+  "alternate_name": "Ruskenveen",
+  "name": "Ruskenveen, Groningen",
+  "current_status": "goed",
+  "lat": 53.2066,
+  "lon": 6.5141,
+  "eu_designation": "2",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

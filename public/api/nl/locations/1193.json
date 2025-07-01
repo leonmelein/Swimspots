@@ -1,0 +1,24 @@
+{
+  "id": 1193,
+  "address": "Madesteinweg, Den Haag",
+  "placename": "Den Haag",
+  "description": "Het gebied is aangelegd in twee polders ten zuidwesten van Den Haag, de Oostmadepolder   en   voormalige   Zwarte   Polder. De zwemzone heeft een totale lengte van ongeveer 160 m. Aan de zwemzone zijn twee kleine zandstrandjes  aangelegd.",
+  "photos": "34a_Plassen_Madestein_Loosduinen.jpg",
+  "website": null,
+  "alternate_name": "Madestein Loosduin",
+  "name": "Plassen Madestein, Loosduinen",
+  "current_status": "goed",
+  "lat": 52.0438,
+  "lon": 4.2334,
+  "eu_designation": "2",
+  "e_coli": 200.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

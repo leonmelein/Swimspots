@@ -1,0 +1,32 @@
+{
+  "id": 996,
+  "address": "Valkenbergweg, Zwolle",
+  "placename": "Zwolle",
+  "description": "De Wijthmenerplas ligt nabij de doorgaande weg Zwolle-Raalte (N35) aan de Zalneweg in een bosrijke omgeving in de Zwolse buurtschap Wijthmen. De plas wordt ge-bruikt om te zwemmen, zonnen, surfen, duiken en vissen en is gratis toegankelijk. Een deel van de plas is bestemd voor naaktrecreatie.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Wijthmenerplas Oost",
+  "name": "Wijthmenerplas Oost",
+  "current_status": "goed",
+  "lat": 52.4966,
+  "lon": 6.1581,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943912,
+    5943913,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

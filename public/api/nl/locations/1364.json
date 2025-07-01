@@ -1,0 +1,26 @@
+{
+  "id": 1364,
+  "address": "De Elzen, Wagenborgen",
+  "placename": "Wagenborgen",
+  "description": "De zwemlocatie Proostmeer is gelegen te Wagenborgen.Het Proostmeer is een ge\u00efsoleerde plas en wordt \r\nomgeven door een park.",
+  "photos": "GR-026-001 Recreatiezone Proostmeer.jpg",
+  "website": null,
+  "alternate_name": "Proostmeer",
+  "name": "Proostmeer, Wagenborgen",
+  "current_status": "goed",
+  "lat": 53.2571,
+  "lon": 6.9266,
+  "eu_designation": "3",
+  "e_coli": 110.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943929
+  ],
+  "warnings": []
+}

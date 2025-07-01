@@ -1,0 +1,23 @@
+{
+  "id": 1015,
+  "address": "Stepelerveldweg, Haaksbergen",
+  "placename": "Haaksbergen",
+  "description": "Besloten gesitueerde zwemplas voor de gasten van Camping 't Stepelerven",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Stepelerven",
+  "name": "Camping 't Stepelerven",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.1872,
+  "lon": 6.7562,
+  "eu_designation": "4",
+  "e_coli": 108.0,
+  "int_ent": 61.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Zwemmen ontraden vanwege onvoldoende waterkwaliteit. Grote kans op maag-/darmklachten."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1077,
+  "address": "Palmenhuizerweg, Harskamp",
+  "placename": "Harskamp",
+  "description": "Zwemplas op camping",
+  "photos": "GLD-009-001_2019_CAMPING_DE_MIDDEN_VELUWE_BORD.jpg",
+  "website": "http://www.demiddenveluwe.nl/",
+  "alternate_name": "De Midden Veluwe",
+  "name": "Camping De Midden Veluwe",
+  "current_status": "goed",
+  "lat": 52.1375,
+  "lon": 5.7587,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943893,
+    5943927,
+    5943928,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

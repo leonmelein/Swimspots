@@ -1,0 +1,27 @@
+{
+  "id": 1084,
+  "address": "Loosdrechtdreef, Amsterdam",
+  "placename": "Amsterdam",
+  "description": "De Gaasperplas ligt in recreatiegebied het Gaasperpark. De plas, ontstaan door zandwinning voor de bouw van de Bijlmermeer, ligt tussen de zuidrand van Amsterdam-Zuidoost en het riviertje de Gaasp.",
+  "photos": "Speelvijver-Noord (Gaasperplas).PNG",
+  "website": null,
+  "alternate_name": "Speelvijver-Noord",
+  "name": "Speelvijver-Noord, Gaasperplas",
+  "current_status": "goed",
+  "lat": 52.3097,
+  "lon": 4.9884,
+  "eu_designation": "3",
+  "e_coli": 108.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943895,
+    5943913,
+    5943929,
+    5943891,
+    5943893,
+    5943927,
+    5943897,
+    5943900
+  ],
+  "warnings": []
+}

@@ -7,22 +7,35 @@ import { mdiCheckCircle, mdiAlert, mdiAlertOutline, mdiCloseOctagon } from '@mdi
 
 import AmenityList from './AmenityList'
 
+import {
+    useNavigate,
+    useParams,
+} from "react-router-dom";
 
 
 function SearchResult({id, alternate_name, name, address, placename, current_status, e_coli, int_ent, description, amenities, lat, lon}) {
-    const stateObj = {
-        'id': id,
-        'alternate_name': alternate_name,
-        'name': name,
-        'address': address,
-        'placename': placename,
-        'current_status': current_status,
-        'e_coli': e_coli,
-        'int_ent': int_ent,
-        'description': description,
-        'amenities': amenities,
-        'lat': lat,
-        'lng': lon
+    let navigate = useNavigate();
+    let params = useParams();
+    console.log(navigate, params);
+
+    let stateObj = {}
+    if (id !== null) {
+        stateObj = {
+            'id': id,
+            'alternate_name': alternate_name,
+            'name': name,
+            'address': address,
+            'placename': placename,
+            'current_status': current_status,
+            'e_coli': e_coli,
+            'int_ent': int_ent,
+            'description': description,
+            'amenities': amenities,
+            'lat': lat,
+            'lng': lon
+        }
+    } else {
+        console.log("No data")
     }
 
     return (

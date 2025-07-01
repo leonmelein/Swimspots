@@ -1,0 +1,29 @@
+{
+  "id": 1144,
+  "address": "Bergweg, Bloemendaal",
+  "placename": "Bloemendaal",
+  "description": "De zwemlocatie Oosterplas ligt in het Nationale park Zuid-Kennemerland. Het diepste punt van het meer is ongeveer 2,5 meter. Het strand ligt aan de noordoostzijde van het meer en is ongeveer 150 meter lang. Aan de zuidzijde van het meer is nog een klein strand met een lengte van ongeveer 50 meter. ",
+  "photos": "Oosterplas duinmeer.PNG",
+  "website": null,
+  "alternate_name": "Oosterplas",
+  "name": "Oosterplas Duinmeer",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.4171,
+  "lon": 4.6054,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_ZWEMMERSJEUK",
+      "warning_description": null
+    }
+  ]
+}

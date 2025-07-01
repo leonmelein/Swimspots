@@ -1,0 +1,25 @@
+{
+  "id": 1150,
+  "address": "Zijldijk, Leiden",
+  "placename": "Leiden",
+  "description": "'t Joppe is een zuidelijk gelegen plas welke deel uitmaakt van de Kagerplassen aan de oostzijde van Warmond.\r\nDe zwemwaterlocatie 't Joppe Merenwijk ligt op het eiland 'De strengen' aan de oostzijde van de plas Hier is een ligweide aanwezig. Het gebied wordt omsloten door natuur- en recreatiegebied.",
+  "photos": "09 Kagerplassen t Joppe Merenwijk v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "'t Joppe Merenwijk",
+  "name": "Kagerplassen 't Joppe Merenwijk",
+  "current_status": "goed",
+  "lat": 52.1874,
+  "lon": 4.5186,
+  "eu_designation": "2",
+  "e_coli": 94.0,
+  "int_ent": 110.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

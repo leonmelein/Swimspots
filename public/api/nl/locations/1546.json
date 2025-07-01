@@ -1,0 +1,24 @@
+{
+  "id": 1546,
+  "address": "Hardweg, Linden",
+  "placename": "Linden",
+  "description": "Het strand Kraaijenbergse Plas 3 maakt onderdeel uit van de Kraaijenbergse Plassen. Plas 3 ligt aan de westzijde van het kerkdorp Linden in de gemeente Cuijk. ",
+  "photos": "NB-038-001 Kraayenbergse Plas fase 1.jpg",
+  "website": null,
+  "alternate_name": "Kraaijenbergse Pl. 3",
+  "name": "Kraaijenbergse Plas 3",
+  "current_status": "goed",
+  "lat": 51.7504,
+  "lon": 5.8224,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943911,
+    5943890,
+    5943891,
+    5943892,
+    5943927
+  ],
+  "warnings": []
+}

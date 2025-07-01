@@ -1,0 +1,33 @@
+{
+  "id": 1604,
+  "address": "Kernplaats, Almere",
+  "placename": "Almere",
+  "description": "Het Zilverstrand ligt aan de zuidzijde van de Hollandse brug en de A6 aan het Gooimeer. Het Zilverstrand is opnieuw in 2017 opengesteld na herstel en herprofilering van het strand. De reden hiervoor was de verbreding van de A6 en de Hollandse brug. Het nieuwe Zilverstrand ligt aan het Gooimeer..",
+  "photos": "Zilverstrand[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Zilverstrand",
+  "name": "Zilverstrand",
+  "current_status": "goed",
+  "lat": 52.3273,
+  "lon": 5.1479,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943912,
+    5943919,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1307,
+  "address": "Vinkeloord 1, Vinkel",
+  "placename": "Vinkel",
+  "description": "De zwemplas Dierenbos maakt deel uit van vakantiepark Dierenbos. De \r\nzwemplas ligt midden op het vakantiepark, ten noordoosten van het hoofdgebouw. Ten westen \r\nvan de plas ligt een openluchtzwembad. In het hoofdgebouw is tevens een overdekt zwembad \r\naanwezig.",
+  "photos": "NB-060-001 Dierenbos.jpg",
+  "website": null,
+  "alternate_name": "Vinkeloord Dierenbos, Noordoostelijke Zijde Zwemzone",
+  "name": "Vinkeloord Dierenbos, Noordoostelijke Zijde Zwemzone",
+  "current_status": "goed",
+  "lat": 51.7058,
+  "lon": 5.4296,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943922,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

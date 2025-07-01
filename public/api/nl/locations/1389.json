@@ -1,0 +1,27 @@
+{
+  "id": 1389,
+  "address": "Blauwhandseweg, Blauwe Hand",
+  "placename": "Blauwe Hand",
+  "description": "De beulaker- en Belterwijde maken deel uit van natuurgebied de Wieden.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Belterwijde West",
+  "name": "Surfstrand West Belterwijde",
+  "current_status": "goed",
+  "lat": 52.6858,
+  "lon": 6.0798,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1624,
+  "address": "Drimmelen",
+  "placename": "Drimmelen",
+  "description": "Gat van de Kerksloot ligt ten noorden van de rivier de Amer. Gat van Kerksloot maakt deel uit van de Brabantsche Biesbosch en valt onder de gemeente Drimmelen.",
+  "photos": "NB-016-001 Gat van de Kerksloot.jpg",
+  "website": "https://biesbosch.nu",
+  "alternate_name": "Gat Van De Kerksloot",
+  "name": "Gat Van De Kerksloot, Badstrand",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.7248,
+  "lon": 4.7708,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_ONVEILIGE_SITUATIE",
+      "warning_description": "Negatief zwemadvies i.v.m. gevaarlijke waterrecreatie in de zwemzone"
+    }
+  ]
+}

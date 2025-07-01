@@ -1,0 +1,32 @@
+{
+  "id": 1384,
+  "address": "Parkweg, Opende",
+  "placename": "Opende",
+  "description": "De zwemlocatie Strandheem is gelegen ten noordoosten van de stad Drachten en ten noorden \r\nvan de Rijksweg A7. Ongeveer \u00e9\u00e9n derde van de plas is in eigendom van de gemeente Grootegast en is \r\nin gebruik door Partycentrum Het Strandheem. Hier ligt de zwemlocatie. Tweederde van de plas \r\nbehoort toe aan zandhandel Poelman BV die aan de westzijde van de plas is gevestigd. ",
+  "photos": "GR-032-001 Recreatiezone Strandheem.jpg",
+  "website": null,
+  "alternate_name": "Strandheem",
+  "name": "Strandheem, Opende",
+  "current_status": "goed",
+  "lat": 53.1491,
+  "lon": 6.1882,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943932,
+    5943906,
+    5943911,
+    5943913,
+    5943915,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

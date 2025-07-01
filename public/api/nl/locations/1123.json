@@ -1,0 +1,27 @@
+{
+  "id": 1123,
+  "address": "",
+  "placename": "",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend\r\n\r\nHet recreatiegebied Jagersveld ligt nabij Zaandam, tussen de snelwegen A8 en de A7. Het bestaat uit een recreatiedeel en een rustgebied (aan de oostelijke kant). Centraal in het recreatiegebied is de Jagersplas, een grote, diepe plas met aangrenzend enkele brede sloten. De Watersnip is \u00e9\u00e9n van de vier offici\u00eble zwemlocaties in de Jagersplas. Deze ligt niet aan de grote plas, maar aan de brede sloten en kleine plassen aan de westzijde van het gebied.",
+  "photos": "NH-044-101 De Fuut, Jagersveld.png",
+  "website": null,
+  "alternate_name": "Fuut",
+  "name": "Jagersveld; De Fuut",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.4627,
+  "lon": 4.8313,
+  "eu_designation": "4",
+  "e_coli": 179.0,
+  "int_ent": 77.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": null
+    },
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": null
+    }
+  ]
+}

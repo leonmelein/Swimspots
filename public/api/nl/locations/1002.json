@@ -1,0 +1,18 @@
+{
+  "id": 1002,
+  "address": "Deventerweg, Ommen",
+  "placename": "Ommen",
+  "description": "Besloten gesitueerde zwemplas voor bewoners van het Park Reggewold",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Reggewold",
+  "name": "Park Reggewold",
+  "current_status": "goed",
+  "lat": 52.5044,
+  "lon": 6.3819,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 61.0,
+  "amenities": [],
+  "warnings": []
+}

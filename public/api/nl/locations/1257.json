@@ -1,0 +1,30 @@
+{
+  "id": 1257,
+  "address": "Moerstraat, Breda",
+  "placename": "Breda",
+  "description": "Het strand aan de noordoostoever dat in gebruik is voor naaktrecreatie heeft een D-status. Hier wordt geen toezicht gehouden door de reddingsbrigade.",
+  "photos": "NB-026-001 Galderse Meren naakt aangepast.jpg",
+  "website": "http://www.vvvbreda.nl/nl/ontdek-breda/natuur-water/zwemmen-surfen-in-breda/galderse-meren/449",
+  "alternate_name": "Galderse Meren, N.O.",
+  "name": "Galderse Meren Zwemplas N.O. Hoek",
+  "current_status": "goed",
+  "lat": 51.5249,
+  "lon": 4.7575,
+  "eu_designation": "1",
+  "e_coli": 94.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943932,
+    5943907,
+    5943912,
+    5943913,
+    5943914,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943900
+  ],
+  "warnings": []
+}

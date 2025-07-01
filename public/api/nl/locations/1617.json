@@ -1,0 +1,22 @@
+{
+  "id": 1617,
+  "address": "Ooijse Bandijk, Ooij",
+  "placename": "Ooij",
+  "description": "Zwemwaterlocatie de Bisonbaai ligt ten noordwesten van de plaats Ooij. De locatie is te bereiken via\r\nde Ooijse Bandijk en de Erlecomsedam. De zwemlocatie bevind zich in een natuurgebied met loslopende runderen",
+  "photos": "GLD-048-001_DE_BISONBAAI_BORD.jpg",
+  "website": null,
+  "alternate_name": "De Bisonbaai",
+  "name": "De Bisonbaai",
+  "current_status": "goed",
+  "lat": 51.8668,
+  "lon": 5.9335,
+  "eu_designation": "1",
+  "e_coli": 93.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943912
+  ],
+  "warnings": []
+}

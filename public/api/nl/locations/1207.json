@@ -1,0 +1,25 @@
+{
+  "id": 1207,
+  "address": "Huis te Landelaan, Rijswijk",
+  "placename": "Rijswijk",
+  "description": "Natuurzwembad  \u201cDe  Put\u201d  is  aangelegd  in  de  noord-westelijke  hoek  van  \u201cPut  te  Werve\u201d  in Rijswijk. De zwemzone wordt van de rest van de plas gescheiden door een drijflijn.",
+  "photos": "26_Natuurbad_te_Werve_Zwembad_de_Put.jpg",
+  "website": null,
+  "alternate_name": "Natuurbad Te Werve",
+  "name": "Natuurbad Te Werve",
+  "current_status": "goed",
+  "lat": 52.0449,
+  "lon": 4.3197,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943892,
+    5943930,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

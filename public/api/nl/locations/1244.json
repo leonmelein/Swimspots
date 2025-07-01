@@ -1,0 +1,31 @@
+{
+  "id": 1244,
+  "address": "(Vogelkreek) Vogelweg 4, Hengstdijk",
+  "placename": "Hengstdijk",
+  "description": "Zwemlocatie in de vogelkreek, alleen bereikbaar via camping de Vogel",
+  "photos": "Camping de Vogel.jpg",
+  "website": null,
+  "alternate_name": "De Vogel",
+  "name": "De Vogel",
+  "current_status": "goed",
+  "lat": 51.3394,
+  "lon": 3.989,
+  "eu_designation": "1",
+  "e_coli": 117.0,
+  "int_ent": 270.0,
+  "amenities": [
+    5943906,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943901
+  ],
+  "warnings": []
+}

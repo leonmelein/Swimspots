@@ -1,0 +1,26 @@
+{
+  "id": 1235,
+  "address": "Sicilieboulevard, Nesselande",
+  "placename": "Nesselande",
+  "description": "De Zevenhuizerplas is een voormalige zandwinput met een oppervlakte van 178 ha en een maximum diepte van ongeveer 20 meter.",
+  "photos": "41b_Zevenhuizerplas_Nesselande_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Zevenhuizerplas Nesselande",
+  "name": "Zevenhuizerplas Nesselande",
+  "current_status": "goed",
+  "lat": 51.9833,
+  "lon": 4.5791,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

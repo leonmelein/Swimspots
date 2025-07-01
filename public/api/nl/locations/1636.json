@@ -1,0 +1,30 @@
+{
+  "id": 1636,
+  "address": "Drimmelen",
+  "placename": "Drimmelen",
+  "description": "De zwemlocatie \u201cRietplaat\u201d ligt in het noordelijke gedeelte van de Biesbosch. De zwemwaterlocatie is gelegen ten\r\nzuiden van het spaarbekken Petrusplaat. In de Biesbosch zelf is geen stedelijk gebied gelegen, aan de zuidzijde van de Amer zijn de dorpen Drimmelen (op 2 km) en Geertruidenberg (op 6 km) gelegen.",
+  "photos": "NB-015-001 De Rietplaat.jpg",
+  "website": "https://biesbosch.nu",
+  "alternate_name": "Rietplaat",
+  "name": "Rietplaat, Badstrand",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.7486,
+  "lon": 4.7778,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_ONVEILIGE_SITUATIE",
+      "warning_description": "Negatief zwemadvies i.v.m. gevaarlijke waterrecreatie in zwemzone"
+    }
+  ]
+}

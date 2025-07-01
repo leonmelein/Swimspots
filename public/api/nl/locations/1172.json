@@ -1,0 +1,40 @@
+{
+  "id": 1172,
+  "address": "IJweg 125, Hoofddorp",
+  "placename": "Hoofddorp",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend\r\nDe Speelvijver is een van de twee offici\u00eble zwemplekken van Recreatieplas Toolenburg, een recreatiegebied in de gemeente Haarlemmermeer. Aan de noordoostkant grenst het gebied aan een park waar gewandeld en gespeeld kan worden. Ten zuidoosten van de plas mag de natuur zijn gang gaan. De westzijde is bedoeld voor oever- en waterrecreatie. In dit gebied kunt u zonnen, zwemmen en surfen. De Speelvijver is gescheiden van de grote plas door een strekdam.",
+  "photos": "Recreatieplas Toolenburg Speelvijver.PNG",
+  "website": null,
+  "alternate_name": "Recreatieplas Toolenburg Speelvijver",
+  "name": "Recreatieplas Toolenburg Speelvijver",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.3005,
+  "lon": 4.6495,
+  "eu_designation": "4",
+  "e_coli": 77.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Negatief zwemadvies vanwege verminderde waterkwaliteit door intestinale enterococcen"
+    },
+    {
+      "warning_type": "WAARSCHUWING_KWALITEIT",
+      "warning_description": "Waarschuwing voor een verminderde waterkwaliteit. Kans op maag- en darmklachten."
+    }
+  ]
+}

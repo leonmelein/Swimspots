@@ -1,0 +1,26 @@
+{
+  "id": 1204,
+  "address": "Broekpolderlaan, Honselersdijk",
+  "placename": "Honselersdijk",
+  "description": "De plas wordt gebruikt voor verschillende doeleinden: zwemmen, zonnen, waterski\u00ebn, wakeboarden en hengelsport. De gemiddelde diepte van de waterplas is 1,5 m.",
+  "photos": "36 Wollebrand v3_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Wollebrand",
+  "name": "Wollebrand",
+  "current_status": "goed",
+  "lat": 51.993,
+  "lon": 4.2384,
+  "eu_designation": "2",
+  "e_coli": 110.0,
+  "int_ent": 110.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1081,
+  "address": "Peelstraat, Boekel",
+  "placename": "Boekel",
+  "description": " De plas ligt op het terrein van Camping Boekels Ven. De directe omgeving van de zwemplas bestaat uit bos. ",
+  "photos": "NB-009-001 Boekels Ven.jpg",
+  "website": "https://www.boekelsven.nl",
+  "alternate_name": "Boekels Ven",
+  "name": "Boekels Ven",
+  "current_status": "goed",
+  "lat": 51.5918,
+  "lon": 5.6964,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943922,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

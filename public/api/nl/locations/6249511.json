@@ -1,0 +1,37 @@
+{
+  "id": 6249511,
+  "address": "Slingerweg 7, Zeewolde",
+  "placename": "Zeewolde",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse SLECHT en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. \r\n\r\nBij een zwemwaterlocatie met de 4-jaars waterkwaliteitsklasse SLECHT is de kans op maag- of darmklachten groter dan bij UITSTEKEND.\r\n\r\nZwemwaterlocatie met strand met ligweide.",
+  "photos": "Strandbord Beachstrand Eemhof.png",
+  "website": "http://www.jachthaven-eemhof.nl/",
+  "alternate_name": "Beachstrand Eemhof",
+  "name": "Beachstrand Eemhof",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.2599,
+  "lon": 5.3905,
+  "eu_designation": "4",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943917,
+    5943919,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse SLECHT en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden.   Bij een zwemwaterlocatie met de 4-jaars waterkwaliteitsklasse SLECHT is de kans op maag- of darmklachten groter dan bij UITSTEKEND."
+    }
+  ]
+}

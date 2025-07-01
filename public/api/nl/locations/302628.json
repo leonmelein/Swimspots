@@ -1,0 +1,20 @@
+{
+  "id": 302628,
+  "address": "Zeedijk, Stad aan 'T Haringvliet",
+  "placename": "Stad aan 'T Haringvliet",
+  "description": "Zwemlocatie Stad aan \u2019t Haringvliet is een zandstrandje aan de Zeedijk aan de \r\nnoordkant van het gelijknamige dorp op het Zuid-Hollandse eiland Goeree-Overflakkee. \r\nHet dorp ligt tegenover de westpunt van het eiland Tiengemeten. De zwemlocatie staat \r\nin open verbinding met het Haringvliet.",
+  "photos": "68 Stad aan 't Haringvliet_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Stad Aan 't Haringvliet, Badstrand",
+  "name": "Stad Aan 't Haringvliet, Badstrand",
+  "current_status": "goed",
+  "lat": 51.7453,
+  "lon": 4.2419,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907
+  ],
+  "warnings": []
+}

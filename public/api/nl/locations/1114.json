@@ -1,0 +1,41 @@
+{
+  "id": 1114,
+  "address": "Skarpetweg, Oude Niedorp",
+  "placename": "Oude Niedorp",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend\r\n\r\n't Skarpet  is  een  relatief  kleine  zwemplas  van  ongeveer  \u00e9\u00e9n  hectare  groot, die ligt  aan  de  rand  de gemeente Niedorp. Het zwemwater, een inham van het kanaal Westerlangereis, is ontstaan door een zandafgraving. Er is een  strandje  aangelegd. De plas wordt  gebruikt  als  openluchtzwembad. Voor het zwembad gelden openingstijden.",
+  "photos": "'t Skarpet.PNG",
+  "website": null,
+  "alternate_name": "'t Skarpet",
+  "name": "'t Skarpet",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.7175,
+  "lon": 4.8725,
+  "eu_designation": "4",
+  "e_coli": 46.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943932,
+    5943906,
+    5943907,
+    5943910,
+    5943911,
+    5943913,
+    5943915,
+    5943897,
+    5943891,
+    5943923,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend"
+    }
+  ]
+}

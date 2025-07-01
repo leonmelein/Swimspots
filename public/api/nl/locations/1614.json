@@ -1,0 +1,28 @@
+{
+  "id": 1614,
+  "address": "Looveer, Huissensche Waarden",
+  "placename": "Huissensche Waarden",
+  "description": "Het Zwanewater (ook wel Zwanebad genoemd) ligt tussen Huissen en de Nederrijn in de Huissensche\r\nWaarden. De zwemlocatie ligt in Gemeente Lingewaard, provincie Gelderland, tussen Huissen en\r\nWestervoort. De zwemplas is gelegen langs een relatief drukke ontsluitingsweg van het Looveer tussen\r\n\u2019t Loo en Huissen en voor de betonfabriek.",
+  "photos": "GLD-046-001_ZWANENBAD_BORD.jpg",
+  "website": null,
+  "alternate_name": "Zwanenbad",
+  "name": "Zwanenbad",
+  "current_status": "goed",
+  "lat": 51.9376,
+  "lon": 5.9509,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943913,
+    5943916,
+    5943892,
+    5943893,
+    5943927,
+    5943929
+  ],
+  "warnings": []
+}

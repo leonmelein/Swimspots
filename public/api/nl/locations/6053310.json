@@ -1,0 +1,23 @@
+{
+  "id": 6053310,
+  "address": "Parelstrand, Emmen",
+  "placename": "Emmen",
+  "description": "De Kleine- en Grote Rietplas staan met elkaar in verbinding. Op drie plaatsen zijn de plassen ingericht om te zwemmen. Aan de Grote Rietplas zijn 3 plekken ingericht om te zwemmen, aan de Kleine Rietplas is 1 plek ingericht om te zwemmen.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Parelstrand",
+  "name": "Grote Rietplas - Parelstrand",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.7359,
+  "lon": 6.9054,
+  "eu_designation": "1",
+  "e_coli": 179.0,
+  "int_ent": 30.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

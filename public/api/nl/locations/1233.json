@@ -1,0 +1,28 @@
+{
+  "id": 1233,
+  "address": "Vrijenburgweg, Barendrecht",
+  "placename": "Barendrecht",
+  "description": "Plas Vrijenburgbos.",
+  "photos": "Vrijenburgbos (2).JPG",
+  "website": null,
+  "alternate_name": "Plas Vrijenburgbos",
+  "name": "Plas Vrijenburgbos",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.868,
+  "lon": 4.5003,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943929,
+    5943907,
+    5943892,
+    5943927
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_BIJZONDERE_OMSTANDIGHEID",
+      "warning_description": "Het negatieve zwemadvies vanwege de PFAS-verontreiniging blijft van kracht. De provincie Zuid-Holland adviseert om niet te zwemmen in recreatieplas Vrijenburgbos. Zwemmen in deze plas kan, in combinatie met de inname van PFAS uit andere bronnen, ervoor zorgen dat men te veel PFAS binnenkrijgt. Dat kan gevolgen hebben voor de gezondheid."
+    }
+  ]
+}

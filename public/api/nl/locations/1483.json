@@ -1,0 +1,27 @@
+{
+  "id": 1483,
+  "address": "Sint Felixweg, Kamperland",
+  "placename": "Kamperland",
+  "description": "Kamperland Sint Felixweg Badstrand ligt aan het Veerse Meer in de gemeente Noord-Beveland. Kamperland Sint Felixweg badstrand bestaat uit een langgerekt stuk grasland met twee kleine kommen met zandstrand en ligt tegenover het eiland De Haringvreter.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Kamperland Felixweg",
+  "name": "Kamperland Sint Felixweg Badstrand",
+  "current_status": "goed",
+  "lat": 51.5525,
+  "lon": 3.6924,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943911,
+    5943913,
+    5943920,
+    5943891,
+    5943892,
+    5943927,
+    5943931,
+    5943902
+  ],
+  "warnings": []
+}

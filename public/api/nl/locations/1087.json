@@ -1,0 +1,30 @@
+{
+  "id": 1087,
+  "address": "Baambrugse Zuwe, Vinkeveen",
+  "placename": "Vinkeveen",
+  "description": "De Vinkeveense Plassen zijn gelegen ten zuiden van Amsterdam, tussen de snelweg A2 en de plaats Vinkeveen in recreatiegebied Winkelpolder. Het totale oppervlak van het open water is ongeveer 960 ha. De Vinkeveense Plassen bestaan uit de Zuidplas, de Kleine plas en de Noordplas. De zwemstranden liggen alle in de Noordplas. De recreatie-eilanden zijn kunstmatig.\r\n\r\nDe zwemlocatie ligt aan de westzijde van zandeiland 8, dit is aan de ondiepe, rustige kant. Deze zwemlocatie is alleen via het water bereikbaar. Er is een afgescheiden zwemgedeelte met strandje en diverse speelattributen, ideaal voor kinderen.",
+  "photos": "PU-001-501 Vinkeveense Plassen.Eiland8.jpg",
+  "website": "https://www.stichtsegroenlanden.nl",
+  "alternate_name": "Vinkeveenseplassen 8",
+  "name": "Vinkeveense Plassen (Eiland 8)",
+  "current_status": "goed",
+  "lat": 52.2402,
+  "lon": 4.9473,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

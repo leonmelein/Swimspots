@@ -1,0 +1,33 @@
+{
+  "id": 6841460,
+  "address": "Bosweg, Gasselte",
+  "placename": "Gasselte",
+  "description": "De zwemlocatie \u201c\u2019t Gasselterveld\u201d is gelegen in Gasselte. Het noordoostelijk deel van de plas is verondiept en gelegen rond een eilandje. Dit deel wordt gebruikt als zwemzone. Het strand gelegen rondom het eiland heeft een omtrek van ca. 500m en heeft een breedte van ca. 100m. De diepte van de plas in de zwemzone is ca. 2,00 m. \r\n\r\nBuiten de zwemzone zeer diepe plas. Pas op! Verdrinkingsgevaar door onderkoeling door koude waterstromen.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "'t Gasselterveld",
+  "name": "'t Gasselterveld",
+  "current_status": "goed",
+  "lat": 52.9722,
+  "lon": 6.7498,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

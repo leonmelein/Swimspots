@@ -1,0 +1,26 @@
+{
+  "id": 1527,
+  "address": "Oolderhuuske 1, Roermond",
+  "placename": "Roermond",
+  "description": "Zwemlocatie Resort Marina Oolderhuuske ligt in Midden-Limburg in de gemeente Roermond. Het \r\nstrand met zwemzone ligt ongeveer 1,5 km ten westen van de stad Roermond aan de Maasplas \r\nZuidplas en grenst aan de gelijknamige camping. De Maasplas Zuidplas ligt tussen de Maas en het \r\nLateraalkanaal en is de verbinding tussen de Maas en de Maasplas Noordplas (Hornergriend). \r\nHet oppervlak van het zwemstrand en de \r\nligweide is circa 2000 m2. \r\nNabij de camping bevinden zich enkele ligplaatsen in de plas en in de buurt bevindt zich \r\neen jachthaven.",
+  "photos": "Marina Oolderhuuske.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Resort Marina Oolderhuuske",
+  "name": "Recreatiestrand Resort Marina Oolderhuuske",
+  "current_status": "goed",
+  "lat": 51.1905,
+  "lon": 5.9548,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

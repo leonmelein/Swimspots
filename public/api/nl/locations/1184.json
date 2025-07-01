@@ -1,0 +1,32 @@
+{
+  "id": 1184,
+  "address": "Strijkviertel, 't Zand",
+  "placename": "'t Zand",
+  "description": "Strijkviertel is een plas gelegen langs het industriegebied Strijkviertel in Vleuten-De Meern, nabij de A12. De plas, met strand en ligweiden, is geschikt voor zwemmen, surfen en vissen. Rondom de plas is een fiets- en wandelpad aangelegd.",
+  "photos": "PU-008-001 Strijkviertel.jpg",
+  "website": "http://www.stichtsegroenlanden.nl",
+  "alternate_name": "Strijkviertel",
+  "name": "Strijkviertelplas",
+  "current_status": "goed",
+  "lat": 52.0754,
+  "lon": 5.0591,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943919,
+    5943921,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

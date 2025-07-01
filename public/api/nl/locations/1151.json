@@ -1,0 +1,21 @@
+{
+  "id": 1151,
+  "address": "Plantage, Roelofarendsveen",
+  "placename": "Roelofarendsveen",
+  "description": "Het Braassemermeer maakt samen met de Kagerplassen, Wijde Aa en Westeinderplassen deel uit van de Hollandse Plassen De zwemlocatie Braassem Noorderhem ligt aan de westoever van het Braassemermeer.",
+  "photos": "12 Braassemermeer_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Braassemermeer",
+  "name": "Braassemermeer",
+  "current_status": "goed",
+  "lat": 52.1965,
+  "lon": 4.644,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943898,
+    5943892
+  ],
+  "warnings": []
+}

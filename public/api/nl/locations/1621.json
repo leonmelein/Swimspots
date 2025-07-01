@@ -1,0 +1,26 @@
+{
+  "id": 1621,
+  "address": "Sportlaan 170, Almkerk",
+  "placename": "Almkerk",
+  "description": "De Mosterdpot is een strand ten noordwesten van Woudrichem",
+  "photos": "NB-066-001 De Mosterdpot AANGEPAST.jpg",
+  "website": "http://www.gemeenteAltena.nl",
+  "alternate_name": "De Mosterdpot",
+  "name": "De Mosterdpot",
+  "current_status": "goed",
+  "lat": 51.8192,
+  "lon": 5.0005,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

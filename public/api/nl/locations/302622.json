@@ -1,0 +1,40 @@
+{
+  "id": 302622,
+  "address": "De Kolk 3, Dinxperlo",
+  "placename": "Dinxperlo",
+  "description": "Het Blauwe Meer ligt als een parkachtig geheel op het industrieterrein van Dinxperlo. Totale oppervlakte, ca. 1.3 ha.",
+  "photos": "GLD-010-001 HET BLAUWE MEER 2023.jpg",
+  "website": "https://www.optisport.nl/blauwemeer",
+  "alternate_name": "Het Blauwe Meer Dinxperlo",
+  "name": "Het Blauwe Meer",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.8594,
+  "lon": 6.4807,
+  "eu_designation": "2",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943910,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943922,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943900,
+    5943901,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "NORMOVERSCHRIJDING_GECONSTATEERD_WATERKWALITEIT",
+      "warning_description": "In verband met een te hoge waarde PFAS is zwemmen ontraden."
+    }
+  ]
+}

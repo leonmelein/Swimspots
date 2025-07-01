@@ -1,0 +1,25 @@
+{
+  "id": 1629,
+  "address": "Hellevoetsluis, Duinweg",
+  "placename": "Duinweg",
+  "description": "Quackstrand is gelegen in de gemeente Hellevoetsluis aan het Haringvliet tegen de Haringvlietdam aan. Het Haringvliet ligt in Zuid-Holland tussen Voorne-Putten, de Hoeksche Waard en Goeree-Overflakkee.",
+  "photos": "02a Quackstrand Hellevoetsluis v3.jpg",
+  "website": null,
+  "alternate_name": "Quackstrand",
+  "name": "Quackstrand",
+  "current_status": "goed",
+  "lat": 51.8415,
+  "lon": 4.074,
+  "eu_designation": "1",
+  "e_coli": 110.0,
+  "int_ent": 110.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 7960110,
+  "address": "Amsterdam",
+  "placename": "Amsterdam",
+  "description": "De zwemsteiger Nieuwe Meer ligt in het Amsterdamse Bos, aan de zuidoostkant van de Nieuwe Meer.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Nieuwe Meer",
+  "name": "Zwemsteiger Nieuwe Meer",
+  "current_status": "goed",
+  "lat": 52.3329,
+  "lon": 4.8465,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943930,
+    5943892,
+    5943893,
+    5943911
+  ],
+  "warnings": []
+}

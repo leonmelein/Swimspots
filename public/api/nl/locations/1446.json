@@ -1,0 +1,32 @@
+{
+  "id": 1446,
+  "address": "Middenpeelweg 5, Sevenum",
+  "placename": "Sevenum",
+  "description": "Recreatiepark  De  Schatberg  is  gelegen  in  de  gemeente  Sevenum. Aan  deze  plassen  is  recreatiepark  De  Schatberg  gelegen.  De  meest  oostelijke  plas  is  in gebruik als zwemwater. Hier mag ook gevaren worden met electroboten. Ook is de plas in 1990 nog verdiept tot zeven meter.",
+  "photos": "De Schatberg.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand De Schatberg",
+  "name": "Recreatiestrand De Schatberg",
+  "current_status": "goed",
+  "lat": 51.3833,
+  "lon": 5.9787,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943892,
+    5943898,
+    5943926,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

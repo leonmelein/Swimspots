@@ -1,0 +1,32 @@
+{
+  "id": 302624,
+  "address": "De Vorrelvenen, Geeuwenbrug",
+  "placename": "Geeuwenbrug",
+  "description": "De zwemlocatie \u201eHet Blauwe Meer\u201f ligt in de gemeente Westerveld in het natuurgebied het Leggelderveld ten noordoosten van Geeuwenbrug en ten zuidoosten van Hoogersmilde. De zwemlocatie bestaat uit \u00e9\u00e9n zwemplas omringd door bomen met een zandstrand van ca. 300 meter aan de oostzijde van de plas. De drijflijnen liggen op een diepte van  0,50-1,00 m. Achter de drijflijnen loopt het talud steiler naar beneden. Het diepste punt van de plas is ca. 18 m.",
+  "photos": "Recreatiezone_Blauwe_Meer.jpg",
+  "website": null,
+  "alternate_name": "Blauwe Meer",
+  "name": "Blauwe Meer",
+  "current_status": "goed",
+  "lat": 52.883,
+  "lon": 6.4105,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943913,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943901,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1100,
+  "address": "Vreelandseweg, Vreeland",
+  "placename": "Vreeland",
+  "description": "De Wijde Blik is onderdeel van het Noordelijke Vechtplassengebied. Het strandje ligt aan de noordoever van de Wijde Blik.",
+  "photos": "NH-061-001 De Wijde blik.png",
+  "website": null,
+  "alternate_name": "De Wijde Blik",
+  "name": "De Wijde Blik",
+  "current_status": "goed",
+  "lat": 52.2315,
+  "lon": 5.0685,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943913,
+    5943906,
+    5943929
+  ],
+  "warnings": []
+}

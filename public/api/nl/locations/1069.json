@@ -1,0 +1,33 @@
+{
+  "id": 1069,
+  "address": "Valburgsestraat, Overbetuwe",
+  "placename": "Overbetuwe",
+  "description": "De plas ligt in een landelijk gebied en ligt ingeklemd tussen de A15 die ten noorden van de \r\nplas  loopt  en  graan-  en  bietenvelden  die  ten  oosten  en  ten  westen  van  de  plas  liggen  en \r\ngraslanden met vee gelegen ten zuiden van de plas.",
+  "photos": "GLD-029-003_2019_STRANDPARK_SLIJK_EWIJK_BORD.jpg",
+  "website": "http://www.uiterwaarde.nl/",
+  "alternate_name": "Strandp. Slijk-Ewijk",
+  "name": "Strandpark Slijk-Ewijk",
+  "current_status": "goed",
+  "lat": 51.8966,
+  "lon": 5.7819,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

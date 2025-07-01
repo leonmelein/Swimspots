@@ -1,0 +1,29 @@
+{
+  "id": 1563,
+  "address": "Westerdijk, Hindeloopen",
+  "placename": "Hindeloopen",
+  "description": "Zwemlocatie Badpaviljoen IJsselmeer te Hindeloopen ligt aan het IJsselmeer in de gemeente S\u00fadwest Frysl\u00e2n. Het zwemstrand strekt zich uit over een totale lengte van ongeveer 750 meter. Het strand bestaat uit zand en de ligweide bestaat uit gras. Het strand is direct gelegen aan de voet van de dijk en is maximaal slechts vijf meter breed.Bezoekers van de zwemlocatie kunnen op de binnendijks gelegen camping van sanitaire voorzieningen gebruik maken.",
+  "photos": "Badpaviljoen IJsselmeer Hindeloopen.png",
+  "website": null,
+  "alternate_name": "Badpaviljoen Ijsselmeer",
+  "name": "Badpaviljoen Ijsselmeer",
+  "current_status": "goed",
+  "lat": 52.9359,
+  "lon": 5.4021,
+  "eu_designation": "1",
+  "e_coli": 180.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943909,
+    5943911,
+    5943913,
+    5943892,
+    5943895,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

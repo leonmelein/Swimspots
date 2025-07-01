@@ -1,0 +1,26 @@
+{
+  "id": 1104,
+  "address": "Maarsseveensevaart, Maarssen",
+  "placename": "Maarssen",
+  "description": "NIET OPENBAAR TOEGANKELIJK\r\nDe zwemplas op deze camping is geen openbare zwemlocatie en uitsluitend toegankelijk voor campinggasten van De Wilgenplas.\r\nHet recreatieoord de Wilgenplas is gelegen in een plassengebied dat is ontstaan door afgraving voor turfwinning. Karakteristiek voor het gebied zijn de begroeide eilanden, legakkers en petgaten. Aan de westzijde, richting Zogwetering, is een strook agrarische grond tussen het recreatieoord en de bebouwing van Maarssen. Aan de Oostzijde grenst het terrein aan de Bethunepolder, een agrarisch gebied waar kwelwater wordt gewonnen ten behoeve van de drinkwaterbereiding.\r\nHet gehele gebied is in gebruik als recreatieterrein. Het water wordt gebruikt voor watersport zonder motor (wel fluisterboten, zeilen, kano\u00ebn, surfen) vissen en zwemmen.",
+  "photos": "PU-017-001 De Wilgenplas.jpg",
+  "website": null,
+  "alternate_name": "De Wilgenplas",
+  "name": "Recreatieoord De Wilgenplas",
+  "current_status": "goed",
+  "lat": 52.1488,
+  "lon": 5.0572,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943927,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

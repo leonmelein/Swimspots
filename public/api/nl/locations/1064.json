@@ -1,0 +1,26 @@
+{
+  "id": 1064,
+  "address": "Verlengde Bredestraat, Meteren",
+  "placename": "Meteren",
+  "description": "Zwemplas in woonwijk",
+  "photos": "GLD-037-001 KALENBERGSE PLAS 2023.jpg",
+  "website": null,
+  "alternate_name": "Kalenbergse Plas",
+  "name": "Kalenbergse Plas",
+  "current_status": "goed",
+  "lat": 51.8684,
+  "lon": 5.2842,
+  "eu_designation": "2",
+  "e_coli": 46.0,
+  "int_ent": 180.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943916,
+    5943892,
+    5943893,
+    5943929
+  ],
+  "warnings": []
+}

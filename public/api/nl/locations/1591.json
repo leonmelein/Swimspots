@@ -1,0 +1,32 @@
+{
+  "id": 1591,
+  "address": "Schellinkhouterdijk, Drechterland",
+  "placename": "Drechterland",
+  "description": "De zwemlocatie Schellinkhout ligt aan de westkant van het gelijknamige dorp, op een paar kilometer ten zuidoosten van Hoorn. De zwemlocatie is een zandstrand met een lengte van 80 meter in een baai aan het Markermeer.",
+  "photos": "schellinkhouterdijk uiterdijk.png",
+  "website": null,
+  "alternate_name": "Schellinkhout",
+  "name": "Schellinkhout",
+  "current_status": "goed",
+  "lat": 52.6323,
+  "lon": 5.1206,
+  "eu_designation": "3",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

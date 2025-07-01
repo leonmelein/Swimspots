@@ -1,0 +1,24 @@
+{
+  "id": 302627,
+  "address": "Beach, Scheveningen",
+  "placename": "Scheveningen",
+  "description": "De zwemwaterlocatie Scheveningen Zuid is een locatie aan de Noordzee. Het strand ligt ten zuiden \r\nvan de haven van Scheveningen.",
+  "photos": "01q  10 Scheveningen Zuiderstrand.jpg",
+  "website": null,
+  "alternate_name": "Scheveningen Zuiderstrand",
+  "name": "Scheveningen Zuiderstrand",
+  "current_status": "goed",
+  "lat": 52.0916,
+  "lon": 4.2466,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943929,
+    5943931,
+    5943903
+  ],
+  "warnings": []
+}

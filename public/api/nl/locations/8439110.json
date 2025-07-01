@@ -1,0 +1,29 @@
+{
+  "id": 8439110,
+  "address": "Westerdijk, Hoorn",
+  "placename": "Hoorn",
+  "description": "In 2024 is de zwemwaterlocatie inclusief de zwemsteiger ingericht als zwemwaterlocatie en bevindt zich aan de Westerdijk in Hoorn.",
+  "photos": "NH-020-004.PNG",
+  "website": "https://www.hoornsestadsstrand.nl/",
+  "alternate_name": "Hoorn-Zuid",
+  "name": "Hoorn-Zuid",
+  "current_status": "goed",
+  "lat": 52.6376,
+  "lon": 5.043,
+  "eu_designation": 0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943927,
+    5943913,
+    5943921,
+    5943926,
+    5943895,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

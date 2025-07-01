@@ -1,0 +1,27 @@
+{
+  "id": 1535,
+  "address": "De Lithse Ham, Lith",
+  "placename": "Lith",
+  "description": "De Lithse Ham is gelegen langs de Maas in de gemeente Lith. De plas heeft een totaal oppervlakte van circa 145 hectare.",
+  "photos": "NB-042-101 De Lithse Ham Gemeentestrand.jpg",
+  "website": null,
+  "alternate_name": "Lithse Ham, Gemeente",
+  "name": "Lithse Ham, Gemeentestrand",
+  "current_status": "goed",
+  "lat": 51.8157,
+  "lon": 5.4176,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

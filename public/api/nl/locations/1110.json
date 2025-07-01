@@ -1,0 +1,26 @@
+{
+  "id": 1110,
+  "address": "Dammerkade, Nederhorst den Berg",
+  "placename": "Nederhorst den Berg",
+  "description": "De Spiegelplas is onderdeel van de Spiegel- en Blijkpolder. Het zwemstrand ligt aan de noordoostoever van de Spiegelplas.",
+  "photos": "Googpad Noordoost strand (Spiegelplas).PNG",
+  "website": null,
+  "alternate_name": "Googpad Noordoost Strand",
+  "name": "Googpad Noordoost Strand (Spiegelplas)",
+  "current_status": "goed",
+  "lat": 52.2744,
+  "lon": 5.0713,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943891,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

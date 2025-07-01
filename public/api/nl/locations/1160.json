@@ -1,0 +1,26 @@
+{
+  "id": 1160,
+  "address": "Herenweg, Kudelstaart",
+  "placename": "Kudelstaart",
+  "description": "De Westeinderplassen bestaan uit een grote plas en verschillende kleinere plassen. Ze zijn met elkaar verbonden door een netwerk van kleine slootjes. Zwemsteiger Herenweg is een van de offici\u00eble zwemlocaties.",
+  "photos": "Westeinderplassen Zwemsteiger Herenweg.PNG",
+  "website": null,
+  "alternate_name": "Westeinderplassen, Zwemsteiger Herenweg",
+  "name": "Westeinderplassen, Zwemsteiger Herenweg",
+  "current_status": "goed",
+  "lat": 52.2354,
+  "lon": 4.7433,
+  "eu_designation": "3",
+  "e_coli": 230.0,
+  "int_ent": 390.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943898
+  ],
+  "warnings": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1428,
+  "address": "Ooievaarsweg, Lelystad",
+  "placename": "Lelystad",
+  "description": "De Reigerplas ligt tussen Almere en Lelystad, langs de A6. De plas is ontstaan door zandwinning voor de A6. Het oppervlak van de plas is circa 22 ha en de diepte is ongeveer 9 meter. De plas is omringd door verlandingsvegetatie met riet, ruigte en struikgewas. Het strand ligt aan de zuidwestelijke oever van het westelijke deel van de plas. De locatie is met name voor rustzoekers een geschikte locatie.",
+  "photos": "11 449 Strandbord Reigersplas (DMW) versie 10.jpg",
+  "website": "http://www.flevo-landschap.nl/Gebied/42/Reigerplas",
+  "alternate_name": "Strand Reigerplas",
+  "name": "Strand Reigerplas",
+  "current_status": "goed",
+  "lat": 52.4223,
+  "lon": 5.4084,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943895,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

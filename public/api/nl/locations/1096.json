@@ -1,0 +1,27 @@
+{
+  "id": 1096,
+  "address": "., .",
+  "placename": ".",
+  "description": "Het recreatie-eiland De Meent ligt in de Loosdrechtse Plassen. De zwemlocatie de Meent is beschut gelegen in een kom. De lengte van het strand is ongeveer 80 meter.\r\n\r\nTijdelijk ontbreekt op dit eiland het informatiebord van de provincie Noord-Holland.",
+  "photos": "Strand Meent (Loosdrechtse plassen).PNG",
+  "website": null,
+  "alternate_name": "Strand Meent",
+  "name": "Strand Meent, Loosdrechtse Plassen",
+  "current_status": "goed",
+  "lat": 52.1756,
+  "lon": 5.0541,
+  "eu_designation": "3",
+  "e_coli": 215.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

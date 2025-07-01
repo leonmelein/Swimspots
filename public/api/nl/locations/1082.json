@@ -1,0 +1,26 @@
+{
+  "id": 1082,
+  "address": "Adcouderstraatweg, Abcoude",
+  "placename": "Abcoude",
+  "description": "Het recreatiegebied De Hoge Dijk ligt ten zuiden van Amsterdam. De maximumdiepte tot de ballenlijn is 1,4 meter.",
+  "photos": "Strand De Hoge Dijk.PNG",
+  "website": null,
+  "alternate_name": "Strand De Hoge Dijk",
+  "name": "Strand De Hoge Dijk",
+  "current_status": "goed",
+  "lat": 52.2862,
+  "lon": 4.9659,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943913,
+    5943929,
+    5943891,
+    5943893,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

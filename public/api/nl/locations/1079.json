@@ -1,0 +1,33 @@
+{
+  "id": 1079,
+  "address": "De Heijgraeff 2, Woudenberg",
+  "placename": "Woudenberg",
+  "description": "Het Henschotermeer is gelegen ten noorden van Maarn. In het meer ligt een eilandje. Het meer is vrijwel compleet omringd door een zandstrand. Aan de noordzijde is een stuk begroeid met gras. De zwemzone omvat de gehele plas en heeft daarmee een oppervlak van 11,4 hectare. De maximale diepte is 2,00 m. Zwemmen is op eigen risico, op warmere dagen is er toezicht aanwezig. Toegang: Persoonstoegang & parkeertarief via online boeking.",
+  "photos": "PU-002-002 Henschotermeer.jpg",
+  "website": "http://www.henschotermeer.nl",
+  "alternate_name": "Henschotermeer Noord",
+  "name": "Henschotermeer (Noordzijde)",
+  "current_status": "goed",
+  "lat": 52.0812,
+  "lon": 5.3753,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

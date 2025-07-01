@@ -1,0 +1,31 @@
+{
+  "id": 1611,
+  "address": "Lekdijk, Houten",
+  "placename": "Houten",
+  "description": "De zwemlocatie Tull en \u2019t Waal West is een van de zwemlocaties in het recreatiegebied \u2019t Waal,\r\ndat gelegen is aan de noordkant van een dode arm van de Lek, ter hoogte van het dorp Tull en \u2019t Waal\r\n(gemeente Houten). Het ligt geheel buitendijks.\r\nHet Recreatiegebied \u2019t Waal heeft als belangrijkste functies dagcamping, stranden, oeverrecreatie en is ongeveer 38 hectare groot.   Het terrein is uitermate geschikt voor diverse activiteiten zoals zwemmen, luieren, zonnen en sportieve activiteiten. Op de drukke dagen is er een mobiele snackwagen waar voor ieder wat wils te krijgen is.",
+  "photos": "PU-006-101 't Waal West.jpg",
+  "website": "http://www.stichtsegroenlanden.nl",
+  "alternate_name": "Tull En 't Waal West",
+  "name": "Tull En 't Waal West",
+  "current_status": "goed",
+  "lat": 51.9978,
+  "lon": 5.1313,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943921,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943903
+  ],
+  "warnings": []
+}

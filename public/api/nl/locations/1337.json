@@ -1,0 +1,24 @@
+{
+  "id": 1337,
+  "address": "De Venen op Parc Emlandermeer, Vlagtwedde",
+  "placename": "Vlagtwedde",
+  "description": "De zwemlocatie Parc Emslandermeer is gelegen in het dorp Vlagwedde. Vlagtwedde ligt in de \r\ngelijknamige gemeente in het zuidoosten van de provincie Groningen in de streek Westerwolde. Het meer staat niet in verbinding met omliggende wateren. In het meer liggen \r\n2 eilandjes, waarvan her meest westelijk gelegen eilandje is aangewezen als zwemlocatie.",
+  "photos": "GR-023-001 Recreatiezone Parc Emslandermeer.jpg",
+  "website": null,
+  "alternate_name": "Parc Emslandermeer",
+  "name": "Parc Emslandermeer, Vlagtwedde",
+  "current_status": "goed",
+  "lat": 53.0349,
+  "lon": 7.116,
+  "eu_designation": "7",
+  "e_coli": 668.0,
+  "int_ent": 353.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943891,
+    5943929
+  ],
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 304870,
+  "address": "Hoogdijk, Volendam",
+  "placename": "Volendam",
+  "description": "De potenti\u00eble zwemwaterlocatie Strand Pieterman Volendam ligt aan de Gouwzee, een ondiep gedeelte van het Markermeer. De zwemlocatie heeft twee zwemstranden, van elkaar gescheiden door een strekdam.",
+  "photos": "Pieterman.PNG",
+  "website": null,
+  "alternate_name": "Strand Pieterman",
+  "name": "Strand Pieterman, Volendam",
+  "current_status": "goed",
+  "lat": 52.4871,
+  "lon": 5.0606,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943891,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

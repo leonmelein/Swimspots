@@ -1,0 +1,30 @@
+{
+  "id": 1415,
+  "address": "Oostwijk, Hardenberg",
+  "placename": "Hardenberg",
+  "description": "De zwemplas Kotermeerstal ligt ten zuiden van Dedemsvaart. De plas heeft in totaal een oppervlakte van ongeveer 13 ha. Het zwemgedeelte bevindt zich in het zuidelijke deel van de plas.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Kotermeerstal Zuid",
+  "name": "Kotermeerstal Zuid Bij Strand",
+  "current_status": "goed",
+  "lat": 52.5892,
+  "lon": 6.4668,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

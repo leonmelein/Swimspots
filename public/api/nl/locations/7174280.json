@@ -1,0 +1,31 @@
+{
+  "id": 7174280,
+  "address": "Strand Boulevard 11, Putten",
+  "placename": "Putten",
+  "description": "Recreatiegebied Strand Nulde Zuid ligt op ca. 4 km afstand ten westen van Putten. Het recreatiegebied ligt ingesloten tussen het Nuldernauw en de snelweg A28. Strand Nulde wordt gekenmerkt door een smalle langgerekte vorm met een afwisseling van stranden, ligweiden, groenstroken en diverse voorzieningen.",
+  "photos": "GLD-074-001 STRAND NULDE ZUID 2021.jpg",
+  "website": "https://www.leisurelands.nl/",
+  "alternate_name": "Strand Nulde Zuid",
+  "name": "Strand Nulde Zuid",
+  "current_status": "goed",
+  "lat": 52.266,
+  "lon": 5.5299,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943917,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

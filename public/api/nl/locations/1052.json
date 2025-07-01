@@ -1,0 +1,22 @@
+{
+  "id": 1052,
+  "address": "De Hoogt, Giessenlanden",
+  "placename": "Giessenlanden",
+  "description": "Recreatieplas  bij  Smoutjesvliet  is  een  recreatiegebied  van  ongeveer  30  ha  met  een  totaal wateroppervlak van ongeveer 14,5 ha groot. In het gebied zijn zes afzonderlijke wateren van verschillende grootte die niet met elkaar in verbinding staan.",
+  "photos": "48_Plas_Slingeland.jpg",
+  "website": null,
+  "alternate_name": "Plas Slingeland",
+  "name": "Plas Slingeland",
+  "current_status": "goed",
+  "lat": 51.888,
+  "lon": 4.897,
+  "eu_designation": "3",
+  "e_coli": 46.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943929,
+    5943907,
+    5943892
+  ],
+  "warnings": []
+}

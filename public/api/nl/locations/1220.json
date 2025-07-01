@@ -1,0 +1,24 @@
+{
+  "id": 1220,
+  "address": "Katteweg, Oostvoorne",
+  "placename": "Oostvoorne",
+  "description": "De zwemwaterlocatie De Stenen Baak is gelegen aan de zuidoostzijde van het Brielse\r\nMeer.",
+  "photos": "59b_Brielse_Meer_Stenen_Baak.jpg",
+  "website": null,
+  "alternate_name": "Brielse Meer De Stenen Baak",
+  "name": "Brielse Meer De Stenen Baak",
+  "current_status": "goed",
+  "lat": 51.9295,
+  "lon": 4.143,
+  "eu_designation": "1",
+  "e_coli": 160.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1410,
+  "address": "Oranjekanaal Noordzijde, Wezuperbrug",
+  "placename": "Wezuperbrug",
+  "description": "Op het terrein van Recreatiepark Park Kuierpad liggen drie plassen die zijn aangewezen als zwemplas. De \u2018spartelvijver\u2019, \u2018grote plas\u2019 en \u2018oostelijke plas\u2019. Om de spartelvijver en de oostelijke plas ligt zandstrand. Bij de grote plas ligt aan de zuidkant zandstrand. Alle plassen zijn ondiep. De maximale diepte is 3 meter.",
+  "photos": "Recreatiezone_'t_Kuierpadtien.jpg",
+  "website": null,
+  "alternate_name": "Kuierpad - Zwemvijver",
+  "name": "Park Kuierpad - Zwemvijver",
+  "current_status": "goed",
+  "lat": 52.8424,
+  "lon": 6.7279,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

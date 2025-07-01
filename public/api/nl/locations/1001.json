@@ -1,0 +1,32 @@
+{
+  "id": 1001,
+  "address": "Heideparkweg, Lemelerveld",
+  "placename": "Lemelerveld",
+  "description": "Zwembad Heidepark is een natuurzwembad en ligt aan de gelijknamige weg in Lemelerveld.\r\nHet zwembad is gelegen in een bosrijke omgeving.De plas wordt gebruikt om te zwemmen en zonnen en is via \u00e9\u00e9n ingang bereikbaar. Naast een zonnestrand en een weide zijn er twee volleybalvelden ingericht. Deze locatie is niet gratis toegankelijk.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Heidepark",
+  "name": "Heidepark Lemelerveld",
+  "current_status": "goed",
+  "lat": 52.4417,
+  "lon": 6.3513,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

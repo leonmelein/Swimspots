@@ -1,0 +1,27 @@
+{
+  "id": 1142,
+  "address": "Meester Jac. Takkade 1, Oosteinde (Gemeente Aalsmeer)",
+  "placename": "Oosteinde (Gemeente Aalsmeer)",
+  "description": "Het Oosterbad ligt aan de Mr. Jac. Takkade in Oosteinde (gemeente Aalsmeer). \r\nHet bad is ingericht als zwembad met natuurwater. ",
+  "photos": "Oosterbad.PNG",
+  "website": "http://www.hetoosterbad.nl",
+  "alternate_name": "Oosterbad",
+  "name": "Oosterbad",
+  "current_status": "goed",
+  "lat": 52.2862,
+  "lon": 4.7999,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1497,
+  "address": "Oranjeplaatweg, Middelburg",
+  "placename": "Middelburg",
+  "description": "De locatie Oranjeplaat Badstrand is gelegen aan de zuidzijde van het Veerse Meer, ten oosten van de \r\nstad Middelburg en ten noorden van de A58. De locatie is genoemd naar het recreatiegebied \r\nOranjeplaat, het recreatiegebied is gelegen ten zuiden van de zwemwaterlocatie.",
+  "photos": "Oranjeplaat 01 2014.JPG",
+  "website": null,
+  "alternate_name": "Oranjeplaat",
+  "name": "Oranjeplaat Badstrand",
+  "current_status": "goed",
+  "lat": 51.5169,
+  "lon": 3.7067,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943911,
+    5943913,
+    5943919,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902
+  ],
+  "warnings": []
+}

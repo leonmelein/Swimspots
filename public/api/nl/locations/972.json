@@ -1,0 +1,23 @@
+{
+  "id": 972,
+  "address": "Langelilleweg, Langelille",
+  "placename": "Langelille",
+  "description": "Het zwemwater ligt aan een verbreding in de Tjonger nabij het dorp Langelille. De Driesprong is gelegen in de gemeente Weststellingwerf.\r\nHet zwemwater ligt binnen het terrein van camping De Driesprong. Naast het zwemwater is een aanlegsteiger gelegen.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "De Driesprong",
+  "name": "De Driesprong",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.8592,
+  "lon": 5.85,
+  "eu_designation": "1",
+  "e_coli": 210.0,
+  "int_ent": 140.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

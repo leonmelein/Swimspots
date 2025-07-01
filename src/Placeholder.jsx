@@ -17,9 +17,8 @@ function Placeholder({collapsed, loading}){
 
     return (
         <div className="placeholder">
-            <h2 className="tagline">Zoek een veilige zwemplek<br />in jouw buurt</h2>
-            <br/>
-            <p className="description">Gebaseerd op <a href="https://github.com/leonmelein/EUBathingWaterAPI" target="_blank">open data</a><br/> van zwemplekken in heel Europa</p>
+            <h2 className="tagline">Favorieten</h2>
+            <SearchResult />
         </div>
     )
 }

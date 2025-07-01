@@ -1,0 +1,28 @@
+{
+  "id": 1661,
+  "address": "Duindamseslag, Noordwijkerhout",
+  "placename": "Noordwijkerhout",
+  "description": "De zwemwaterlocatie Noordwijk aan Zee is onderdeel van het doorlopende Noordzeestrand van Katwijk\r\nnaar IJmuiden. De plaats Noordwijkerhout ligt in het achterland van dit strand. De beschermde duinen\r\nvan Kennemerland-Zuid liggen tussen het strand en Noordwijkerhout. Het strand\r\nis alleen bereikbaar per fiets.",
+  "photos": "01a 27 Noordwijkerhout bord 6_1.jpg",
+  "website": null,
+  "alternate_name": "Noordwijk Aan Zee",
+  "name": "Noordwijk Aan Zee",
+  "current_status": "goed",
+  "lat": 52.2829,
+  "lon": 4.4593,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943912,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1394,
+  "address": "Ieberen, Schoonloo",
+  "placename": "Schoonloo",
+  "description": "De zwemlocatie Ieberenplas ligt ten westen van Schoonloo en ligt langs de weg van Westerbork naar Schoonloo. \r\nDe zwemlocatie bestaat uit \u00e9\u00e9n zwemplas met een maximale diepte van 2.00 meter. \r\nDe zwemplas wordt voor een groot deel omsloten door een zandstrand. Bij de zwemlocatie is een parkeergelegenheid en fietsenstalling aanwezig.",
+  "photos": "Recreatiezone_Ieberenplas.jpg",
+  "website": null,
+  "alternate_name": "Ieberenplas",
+  "name": "Ieberenplas",
+  "current_status": "goed",
+  "lat": 52.9051,
+  "lon": 6.6729,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

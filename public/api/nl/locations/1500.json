@@ -1,0 +1,30 @@
+{
+  "id": 1500,
+  "address": "Zeedijk 4, bij Veerhaven Perkpolder",
+  "placename": "bij Veerhaven Perkpolder",
+  "description": "Het badstrand van Perkpolder ligt aan de zuidelijke oever van de Westerschelde, met in het oosten de \r\noude veerhaven en in het westen een lange strekdam. Aan de zuidkant van het strand loopt de \r\nZeedijk. Het betreft een zoutwaterlocatie welke onder invloed staat van het getij. Gedurende \r\nhoogwater is het strand volledig overspoeld.",
+  "photos": "Perkpolder badstrand (2).jpg",
+  "website": null,
+  "alternate_name": "Strandje Perkpolder",
+  "name": "Perkpolder Badstrand",
+  "current_status": "goed",
+  "lat": 51.4014,
+  "lon": 4.0177,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

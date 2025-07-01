@@ -1,0 +1,23 @@
+{
+  "id": 1213,
+  "address": "Middeldijk, Abbenbroek",
+  "placename": "Abbenbroek",
+  "description": "De zwemlocatie Bernisse Oostzijde van Abbenbroek is gelegen in een zijplas van de Bernisse en ligt tussen de kernen Abbenbroek, Geervliet en Heenvliet.",
+  "photos": "61a_Bernisse_-_O-zijde_van_Abbenbroek.jpg",
+  "website": null,
+  "alternate_name": "Bernisse Abbenbroek Oostzijde",
+  "name": "Bernisse Abbenbroek Oostzijde",
+  "current_status": "goed",
+  "lat": 51.8552,
+  "lon": 4.2448,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943898,
+    5943907,
+    5943892,
+    5943927
+  ],
+  "warnings": []
+}

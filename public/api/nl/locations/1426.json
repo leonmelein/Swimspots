@@ -1,0 +1,33 @@
+{
+  "id": 1426,
+  "address": "Noorderplassenweg, Almere",
+  "placename": "Almere",
+  "description": "De Noorderplassen liggen ten noorden van Almere en vormen de overgang van het natuurgebied de Lepelaarplassen en de stad. Het is ontstaan door zandafgravingen voor woningbouw. De plas is circa 200 ha groot en heeft een maximale diepte van circa 20 meter. Het Strand in Zicht ligt aan de zuidelijke oever, naast het paviljoen BoatHouse. Het heeft een 185 meter lang zandstrand met een grote ligweide.",
+  "photos": "Strand_in_Zicht[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Strand In Zicht",
+  "name": "Strand In Zicht, Noorderplassen",
+  "current_status": "goed",
+  "lat": 52.3943,
+  "lon": 5.2124,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943916,
+    5943917,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1532,
+  "address": "Zandstraat, Kerdriel",
+  "placename": "Kerdriel",
+  "description": "De zwemlocatie ligt in de provincie Gelderland, gemeente Maasdriel, midden in Kerkdriel. De\r\ngemeente Maasdriel is ontstaan door de samenvoeging van de dorpen Alem, Kerkdriel, Well,\r\nHurwenen, Hoenzadriel, Wordragen, Ammerzoden, Hedel, Heerewaarden, Velddriel en Rossum in\r\n1999 [www.maasdriel.nl]. Bodemtype van de locatie is leemarm zand [bodemdata.nl].",
+  "photos": "GLD-057-002_2015_ZANDENMEREN_NOORD_BORD.jpg",
+  "website": null,
+  "alternate_name": "De Zandmeren Noord",
+  "name": "De Zandmeren Noord",
+  "current_status": "goed",
+  "lat": 51.7656,
+  "lon": 5.3471,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943914,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

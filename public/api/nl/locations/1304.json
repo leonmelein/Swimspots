@@ -1,0 +1,20 @@
+{
+  "id": 1304,
+  "address": "Schuttersweg, Volkel",
+  "placename": "Volkel",
+  "description": "De zwemplas Hemelrijk ligt op het terrein van BillyBird Park Hemelrijk, ten zuidoosten van Volkel. Het pretpark ligt ten oosten van de N605 (Zeelandsedijk). De zwemplas is te bereiken via de hoofdingang van het pretpark, welke gelegen is aan de Zeelandsedijk 34a te Volkel.",
+  "photos": null,
+  "website": "https://www.billybird.nl",
+  "alternate_name": "Hemelrijk Grote Plas Noordzijde",
+  "name": "Hemelrijk Grote Plas Noordzijde",
+  "current_status": "goed",
+  "lat": 51.6363,
+  "lon": 5.6756,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943891
+  ],
+  "warnings": []
+}

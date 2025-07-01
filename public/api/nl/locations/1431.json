@@ -1,0 +1,31 @@
+{
+  "id": 1431,
+  "address": "Lumi\u00e8repad, Almere",
+  "placename": "Almere",
+  "description": "Het Weerwater ligt in Almere Stad. Het is ontstaan door zandafgravingen voor woningbouw en nu is het een zwem- en recreatieplas. Het Lumi\u00e8restrand is \u00e9\u00e9n van de drie stranden en ligt aan de oostzijde. Het heeft een 150 meter lang zandstrand en ligt langs het fietspad \"rondje 't Weerwater\".",
+  "photos": "Lumierestrand[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Lumi\u00e8restrand",
+  "name": "Lumi\u00e8restrand",
+  "current_status": "goed",
+  "lat": 52.3622,
+  "lon": 5.2347,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943915,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

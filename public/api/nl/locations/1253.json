@@ -1,0 +1,25 @@
+{
+  "id": 1253,
+  "address": "Westpolderpad 6, Etten-Leur",
+  "placename": "Etten-Leur",
+  "description": "De plas is gelegen ten noorden van Etten-Leur en is aangelegd als natuurplas en recreatieplas voor zwemmers.",
+  "photos": "NB-025-001 Westpolderplas AANGEPAST.jpg",
+  "website": "http://etten-leur.nl/Vrije_tijd/Zwemmen_in_bad_en_plas/Westpolderplas",
+  "alternate_name": "Westpolderplas",
+  "name": "Westpolderplas",
+  "current_status": "goed",
+  "lat": 51.5967,
+  "lon": 4.6547,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

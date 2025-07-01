@@ -1,0 +1,25 @@
+{
+  "id": 961,
+  "address": "Koaidyk/Walddyk, Earnew\u00e2ld",
+  "placename": "Earnew\u00e2ld",
+  "description": "Zwemplaats Earnew\u00e2ld, ook bekend als It Wiid, ligt nabij het natuurgebied Alde Feanen. Het ligt in de gemeente Tytsjerksteradiel.\r\nNaast het zwemwater liggen het Rondvaartbedrijf MSK, bezoekerscentrum It Wiid en het Educatiebos. Het strand ligt in een groter recreatiegebied en is voorzien van een speelveld. Vlak bij het zwemwater kan gevist worden. Langs het zwemwater ligt een vaarroute voor kleine boten naar het bungalowpark.",
+  "photos": "FR-026-001 Earnewa\u00cc\u201ald.jpg",
+  "website": null,
+  "alternate_name": "Zwemplaats Earnew\u00e2ld",
+  "name": "Zwemplaats Earnew\u00e2ld",
+  "current_status": "goed",
+  "lat": 53.1315,
+  "lon": 5.9559,
+  "eu_designation": "2",
+  "e_coli": 230.0,
+  "int_ent": 90.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1221,
+  "address": "Visserijweg 9, Brielle",
+  "placename": "Brielle",
+  "description": "De  zwemwaterlocatie  Nautica  is  gelegen  aan  de  noordoostzijde  van  het  Brielse  Meer. De locatie is gelegen op het terrein van de priv\u00e9-watersportvereniging Nautica.",
+  "photos": "59f_Brielse_Meer_WSV_Nautica.jpg",
+  "website": null,
+  "alternate_name": "Brielse Meer Wsv Nautica",
+  "name": "Brielse Meer Wsv Nautica",
+  "current_status": "goed",
+  "lat": 51.8947,
+  "lon": 4.218,
+  "eu_designation": "1",
+  "e_coli": 130.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943929,
+    5943907,
+    5943892
+  ],
+  "warnings": []
+}

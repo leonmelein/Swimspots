@@ -1,0 +1,29 @@
+{
+  "id": 5921823,
+  "address": "Rijndijk 67 67 a, Doorneburg",
+  "placename": "Doorneburg",
+  "description": "Zwemplek op Camping",
+  "photos": "GLD-065-001 CAMPING DE WAAY 2024 (002).jpg",
+  "website": "http://www.de-waay.nl/nl/",
+  "alternate_name": "Camping De Waay",
+  "name": "Camping De Waay",
+  "current_status": "goed",
+  "lat": 51.901,
+  "lon": 5.9833,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943892,
+    5943927,
+    5943928,
+    5943897,
+    5943932
+  ],
+  "warnings": []
+}

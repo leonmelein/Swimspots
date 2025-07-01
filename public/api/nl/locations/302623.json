@@ -1,0 +1,27 @@
+{
+  "id": 302623,
+  "address": "Elspeterweg 61, Nunspeet",
+  "placename": "Nunspeet",
+  "description": "Zwemplas op camping",
+  "photos": "GLD-061-001_2014_CAMPING_DE_TOL_BORD.jpg",
+  "website": "http://www.camping-detol.nl",
+  "alternate_name": "Camping De Tol",
+  "name": "Camping De Tol",
+  "current_status": "goed",
+  "lat": 52.3569,
+  "lon": 5.7914,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943927,
+    5943897
+  ],
+  "warnings": []
+}

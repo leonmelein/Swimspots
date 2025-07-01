@@ -1,0 +1,26 @@
+{
+  "id": 6026683,
+  "address": "Deltapark, Rosmalen",
+  "placename": "Rosmalen",
+  "description": "Ten noordoosten van \u2019s-Hertogenbosch ligt de VINEX wijk De Groote Wielen. In deze wijk is veel water aanwezig. De Centrale Plas heeft met 39 ha het grootste oppervlak (HAS, 2008). De Centrale Plas wordt in het noorden begrensd door agrarisch gebied en in het zuiden door stedelijk gebied. De Centrale Plas is ontstaan tijden de realisatie van het gebied. Het zwemstrand in de Centrale Plas ligt aan de zuidkant. Hert zwemstrand is vrij toegankelijk en er zijn reddingsboeien aanwezig.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Groote Wielen",
+  "name": "Groote Wielen",
+  "current_status": "goed",
+  "lat": 51.7361,
+  "lon": 5.3629,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

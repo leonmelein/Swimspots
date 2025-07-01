@@ -1,0 +1,33 @@
+{
+  "id": 1396,
+  "address": "Hoofdstraat, Schoonloo",
+  "placename": "Schoonloo",
+  "description": "De zwemlocatie \u201et Loomeer ligt ten zuiden van het dorp Schoonloo en ligt vlak langs de weg van Schoonloo naar Schoonoord. De zwemlocatie bestaat uit \u00e9\u00e9n zwemplas met een maximale diepte van 2.00 meter. \r\nGrenzend aan het strand is een ligweide aanwezig. De zwemplas wordt in het geheel omsloten door een ruim zandstrand. Bij de zwemlocatie is een parkeergelegenheid en fietsenstalling aanwezig.",
+  "photos": "Recreatiezone_'t_Loomeer_nw.jpg",
+  "website": null,
+  "alternate_name": "'t Loomeer",
+  "name": "'t Loomeer",
+  "current_status": "goed",
+  "lat": 52.8924,
+  "lon": 6.7048,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943916,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

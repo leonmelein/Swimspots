@@ -1,0 +1,31 @@
+{
+  "id": 1577,
+  "address": "Plattedijk, Lemmer",
+  "placename": "Lemmer",
+  "description": "Zwemlocatie Lemsterstrand is gelegen aan het IJsselmeer. Het zandstrand heeft een totale oppervlakte van 3,5 hectare. De locatie ligt aan de zuidzijde van Lemmer in gemeente De Fryske Marren.",
+  "photos": "FR-018-001 Lemsterstrand.jpg",
+  "website": null,
+  "alternate_name": "Lemsterstrand",
+  "name": "Lemsterstrand",
+  "current_status": "goed",
+  "lat": 52.843,
+  "lon": 5.699,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 93.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943913,
+    5943915,
+    5943892,
+    5943898,
+    5943895,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1035,
+  "address": "Kruittorenstraat 20, Bredevoort",
+  "placename": "Bredevoort",
+  "description": "De Slingeplas ligt aan de noordoostzijde van Bredevoort. Het terrein ligt in een landelijke omgeving met aan de noordzijde de Schaarsbeek en aan de zuidzijde de Boven Slinge. De Slingeplas speelt een belangrijke rol voor de recreatie in het gebied: er liggen wandel-, fiets- en ruiterpaden en door het jaar heen zijn er veel activiteiten bij de Slingeplas.",
+  "photos": "GLD-016-001 SLINGEPLAS 2024.jpg",
+  "website": "http://www.detweebruggen.nl",
+  "alternate_name": "Slingeplas",
+  "name": "Slingeplas",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.9462,
+  "lon": 6.6281,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
+    }
+  ]
+}

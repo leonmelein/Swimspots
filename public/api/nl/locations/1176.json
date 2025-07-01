@@ -1,0 +1,39 @@
+{
+  "id": 1176,
+  "address": "Barbeelpad, Haarlem",
+  "placename": "Haarlem",
+  "description": "De zwemlocatie de Veerplas ligt ten oosten van Haarlem en maakt deel uit van recreatiegebied Spaarnwoude. Het strand ligt aan de westkant van de plas, waar de meeste speel- en ligweiden zijn.",
+  "photos": "Veerplas Noordzijde.PNG",
+  "website": null,
+  "alternate_name": "Veerplas Noordzijde",
+  "name": "Veerplas Noordzijde",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.3874,
+  "lon": 4.6745,
+  "eu_designation": "2",
+  "e_coli": 160.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943932,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943891,
+    5943892,
+    5943893,
+    5943930,
+    5943897,
+    5943898,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

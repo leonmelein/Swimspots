@@ -1,0 +1,33 @@
+{
+  "id": 1392,
+  "address": "J. Brugginkweg, Hoogersmilde",
+  "placename": "Hoogersmilde",
+  "description": "De zwemlocatie \u201eDrentse Weelde\u201f ligt ten noorden van het dorp Hoogersmilde. Voorheen heette de zwemlocatie De Horrebieter.\r\nDe zwemlocatie bestaat uit 1 zwemplas. De recreatieplas bevindt zich op de gelijknamige camping: \u201eHub Vakantieparken Drentse Weelde\u201f die ook beheerder is van de plas. De plas is geheel omringd door een zandstrand dat vari\u00ebrend is van 1 tot 5 meter breedte. \r\nBij de entree van de plas is een informatiebord aanwezig met informatie betreffend de locatie.",
+  "photos": "Recreatiezone_De__Horrebieter.jpg",
+  "website": null,
+  "alternate_name": "Drentse Weelde",
+  "name": "Drentse Weelde",
+  "current_status": "goed",
+  "lat": 52.9117,
+  "lon": 6.385,
+  "eu_designation": "1",
+  "e_coli": 93.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943901
+  ],
+  "warnings": []
+}

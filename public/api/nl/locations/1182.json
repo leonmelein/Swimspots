@@ -1,0 +1,27 @@
+{
+  "id": 1182,
+  "address": "Oostbroekerweg, Velsen",
+  "placename": "Velsen",
+  "description": "De EU-klasse indeling is de waterkwaliteit gemeten en beoordeeld volgens de EU-normen over de afgelopen vier jaar. Dit zegt iets over de kans op het krijgen van huid-, maag- of darmklachten. Bij \u2018slecht\u2019 is de kans dus groter dan bij \u2018uitstekend\u2019. Voor de actuele zwemwaterkwaliteit zie het symbool en de tekst hierboven.\r\n\r\nDe Peddelpoel (ongeveer 200 meter lang en 80 meter breed) ligt in het recreatiegebied Spaarnwoude. De zwemplek staat in open verbinding met Zijkanaal B. Er zijn twee zandstrandjes.",
+  "photos": "Peddelpoel speelvijver noord.PNG",
+  "website": null,
+  "alternate_name": "Peddelpoel",
+  "name": "Peddelpoel",
+  "current_status": "goed",
+  "lat": 52.4377,
+  "lon": 4.6754,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943891,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

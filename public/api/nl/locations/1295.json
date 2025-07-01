@@ -1,0 +1,23 @@
+{
+  "id": 1295,
+  "address": "Troprijt 10, Bladel",
+  "placename": "Bladel",
+  "description": "Zwemplas de Achterste Hoef is gelegen in de gemeente Bladel.  De zwemplas is ongeveer 2,7 hectare groot, heeft een diepte van 9 meter en heeft een zandbodem.",
+  "photos": "NB-008-001 De Achterste Hoef.jpg",
+  "website": "http://www.achterstehoef.nl",
+  "alternate_name": "De Achterste Hoef",
+  "name": "De Achterste Hoef",
+  "current_status": "goed",
+  "lat": 51.3404,
+  "lon": 5.2308,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943913,
+    5943906,
+    5943900,
+    5943914
+  ],
+  "warnings": []
+}

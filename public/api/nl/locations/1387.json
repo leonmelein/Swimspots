@@ -1,0 +1,30 @@
+{
+  "id": 1387,
+  "address": "Kardingerplein, Groningen",
+  "placename": "Groningen",
+  "description": "De zwemlocatie is gelegen in recreatiepark Kardinge, te Groningen.",
+  "photos": "GR-011-004 Recreatiezone Kardinge 3.jpg",
+  "website": null,
+  "alternate_name": "Recreatieplas Kardinge",
+  "name": "Recreatieplas Kardinge, Groningen",
+  "current_status": "goed",
+  "lat": 53.2394,
+  "lon": 6.6009,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943897,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1657,
+  "address": "Badweg, Texel",
+  "placename": "Texel",
+  "description": " Het strand \r\nDe Koog ligt aan de Noordzeekust en grenst over de volle lengte aan het nationaal park Duinen van \r\nTexel.",
+  "photos": "NH-001-501.PNG",
+  "website": null,
+  "alternate_name": "De Koog",
+  "name": "De Koog",
+  "current_status": "goed",
+  "lat": 53.0965,
+  "lon": 4.748,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943914,
+    5943918,
+    5943921,
+    5943890,
+    5943892,
+    5943926,
+    5943927,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

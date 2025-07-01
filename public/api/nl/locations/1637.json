@@ -1,0 +1,27 @@
+{
+  "id": 1637,
+  "address": "Haringvlietplein, Goedereede",
+  "placename": "Goedereede",
+  "description": "Het badstrand Stellendam Jachthaven is gelegen in de gemeente Goedereede aan het Haringvliet. \r\nHet Haringvliet ligt in Zuid-Holland tussen Voorne-Putten, de Hoeksche Waard en Goeree-\r\nOverflakkee.",
+  "photos": "02b Recreatieterrein RWS Stellendam_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Recreatieterrein Rws Stellendam",
+  "name": "Recreatieterrein Rws Stellendam",
+  "current_status": "goed",
+  "lat": 51.825,
+  "lon": 4.0455,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

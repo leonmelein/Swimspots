@@ -1,0 +1,28 @@
+{
+  "id": 982,
+  "address": "Koarte Ekers, Joure",
+  "placename": "Joure",
+  "description": "Het zwemwater Skipsleat ligt aan de noordkant van Joure in de gemeente De Fryske Marren, aan de weg de Koarte Ekers tegenover de nieuwbouwwijk Skipsleat.",
+  "photos": "FR-047-001 Skipsleat.jpg",
+  "website": null,
+  "alternate_name": "Skipsleat",
+  "name": "Skipsleat",
+  "current_status": "goed",
+  "lat": 52.9748,
+  "lon": 5.8137,
+  "eu_designation": "3",
+  "e_coli": 20.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943898,
+    5943895,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

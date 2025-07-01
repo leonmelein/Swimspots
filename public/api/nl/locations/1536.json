@@ -1,0 +1,24 @@
+{
+  "id": 1536,
+  "address": "Lithoijensedijk, Lithoijen",
+  "placename": "Lithoijen",
+  "description": "De Hemelrijkse Waard is een onderdeel van het grotere natuurontwikkelingsgebied \u201cFort Sint Andries\u201d. De zwemlocatie heeft een oppervlak van ongeveer 235 hectare.",
+  "photos": "NB-041-001 Hemelrijkse Waard.jpg",
+  "website": null,
+  "alternate_name": "Hemelrijkse Waard",
+  "name": "Hemelrijkse Waard, Dagstrand",
+  "current_status": "goed",
+  "lat": 51.7996,
+  "lon": 5.4812,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943930
+  ],
+  "warnings": []
+}

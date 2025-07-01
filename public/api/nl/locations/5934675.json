@@ -1,0 +1,32 @@
+{
+  "id": 5934675,
+  "address": "De Negen Sneeweg, Langendijk",
+  "placename": "Langendijk",
+  "description": "De Plas Geestmerambacht (ook wel Zomerdel genoemd) vormt het hart van het recreatiegebied Geestmerambacht. Dit recreatiegebied ligt tussen Langedijk, Heerhugowaard, Alkmaar en Bergen.",
+  "photos": "Geestmerambacht Zwembaai 6.PNG",
+  "website": null,
+  "alternate_name": "Zwembaai 6",
+  "name": "Geestmerambacht, Zwembaai 6",
+  "current_status": "goed",
+  "lat": 52.6807,
+  "lon": 4.7747,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943919,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

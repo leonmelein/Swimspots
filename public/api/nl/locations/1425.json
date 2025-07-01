@@ -1,0 +1,31 @@
+{
+  "id": 1425,
+  "address": "Von Draisweg, Almere",
+  "placename": "Almere",
+  "description": "De Noorderplassen liggen ten noorden van Almere en vormen de overgang van het natuurgebied de Lepelaarplassen en de stad. Het is ontstaan door zandafgravingen voor woningbouw. De plas is circa 200 ha groot en heeft een maximale diepte van circa 20 meter. In het noordelijke deel van de plas liggen een aantal eilanden. Het Noorderplassenstrand ligt aan de zuidelijke oever en heeft een 100 meter lang zandstrand met een grote ligweide.",
+  "photos": "Noorderplassenstrand_Zwemstrand[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Noorderplassenstrand",
+  "name": "Noorderplassenstrand",
+  "current_status": "goed",
+  "lat": 52.3947,
+  "lon": 5.2208,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943916,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

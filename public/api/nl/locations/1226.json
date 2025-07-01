@@ -1,0 +1,22 @@
+{
+  "id": 1226,
+  "address": "Vingerling, Mijnsheerenland",
+  "placename": "Mijnsheerenland",
+  "description": "De  Binnenbedijkte  Maas  is  gelegen  in  de  Hoekse  Waard.  De  Binnenbedijkte  Maas  is \r\nafgedamde arm van de Maas en bevindt zich tussen Mijnsheerenland en Maasdam.",
+  "photos": "63a_Binnenbedijkte_Maas_Mijnsheerenland.jpg",
+  "website": null,
+  "alternate_name": "Binnenbedijkte Maas, Mijnsheerenland",
+  "name": "Binnenbedijkte Maas, Mijnsheerenland",
+  "current_status": "goed",
+  "lat": 51.793,
+  "lon": 4.4857,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943902
+  ],
+  "warnings": []
+}

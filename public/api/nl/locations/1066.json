@@ -1,0 +1,32 @@
+{
+  "id": 1066,
+  "address": "Nijmegenstraat 65  b, Gendt",
+  "placename": "Gendt",
+  "description": "De  Walburgen  is  een  recreatieplas  ter  grootte  van  ongeveer  3,8  ha.  De  plas  ligt  net  ten zuidwesten  van  Gendt. De plas is afgeschermd door een hekken",
+  "photos": "GLD-032-001 WALBURGEN 2023.jpg",
+  "website": null,
+  "alternate_name": "Walburgen",
+  "name": "Walburgen",
+  "current_status": "goed",
+  "lat": 51.8719,
+  "lon": 5.9585,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943929,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

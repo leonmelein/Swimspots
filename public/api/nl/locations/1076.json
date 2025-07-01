@@ -1,0 +1,32 @@
+{
+  "id": 1076,
+  "address": "Stroetweg/Zeumerseweg, Voorthuizen",
+  "placename": "Voorthuizen",
+  "description": "De zwemwaterplas Zeumeren is gelegen in de gemeente Barneveld, ten zuiden van Voorthuizen en ten noorden van de A1. De plas wordt beheerd door recreatieschap Leisurelands.",
+  "photos": "GLD-008-001_2015_ZEUMEREN_BORD.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "Zeumeren",
+  "name": "Zeumeren",
+  "current_status": "goed",
+  "lat": 52.1748,
+  "lon": 5.621,
+  "eu_designation": "1",
+  "e_coli": 110.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943927,
+    5943928,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

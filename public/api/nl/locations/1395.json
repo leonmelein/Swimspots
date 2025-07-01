@@ -1,0 +1,33 @@
+{
+  "id": 1395,
+  "address": "Slagdijk, Havelte",
+  "placename": "Havelte",
+  "description": "De zwemlocatie \u201eklaverkampen\u201f is gelegen enkele kilometers zuiden van Havelte. De zwemlocatie bestaat uit 1 zwemplas. De maximale diepte van het water is ca 2-3 meter. Bij de entree van de plas is een informatiebord aanwezig met informatie betreffend de locatie.",
+  "photos": "Recreatiezone_Klaverklampen.jpg",
+  "website": null,
+  "alternate_name": "De Klaverkampen",
+  "name": "De Klaverkampen",
+  "current_status": "goed",
+  "lat": 52.7605,
+  "lon": 6.2259,
+  "eu_designation": "1",
+  "e_coli": 251.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

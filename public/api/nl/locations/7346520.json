@@ -1,0 +1,37 @@
+{
+  "id": 7346520,
+  "address": "Van Heemstraweg West, Zaltbommel",
+  "placename": "Zaltbommel",
+  "description": "Zwemplas ten zuiden van woonwijk De Spellewaard en ten Noorden van sportpark De Watertoren in een voormalige zandwinput",
+  "photos": "GLD-075-002 TIJNINGENPLAS 2025.jpg",
+  "website": "https://www.zaltbommel.nl",
+  "alternate_name": "Tijningenplas Jeugdstrand",
+  "name": "Tijningenplas Jeugdstrand",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.8,
+  "lon": 5.2412,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943891,
+    5943892,
+    5943895,
+    5943929,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
+    },
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
+    }
+  ]
+}

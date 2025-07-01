@@ -1,0 +1,29 @@
+{
+  "id": 1070,
+  "address": "Alde Weteringweg, Beek (Ubbergen)",
+  "placename": "Beek (Ubbergen)",
+  "description": "De  plas  ligt  in  de  Ooijpolder  ten  oosten  van  Nijmegen  tegen  de \r\nNederlands  -  Duitse  grens  aan.  Aan  de  zuidzijde  wordt  het  gebied  begrensd  door  de  N325.",
+  "photos": "GLD-036-001 WYLERBERGMEER 2020.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "Wylerbergmeer",
+  "name": "Wylerbergmeer",
+  "current_status": "goed",
+  "lat": 51.8266,
+  "lon": 5.9437,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

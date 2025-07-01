@@ -1,0 +1,28 @@
+{
+  "id": 1478,
+  "address": "Parallelweg, Bruinisse",
+  "placename": "Bruinisse",
+  "description": "Het badstrand \u2018Plaat van oude Tonge\u2019 ligt aan de Grevelingendam ten noordoosten van Bruinisse in de gemeente Schouwen-Duiveland.",
+  "photos": "Plaat van Oude Tonge 01 2014.JPG",
+  "website": null,
+  "alternate_name": "Grevelingendam Plaat Ot",
+  "name": "Grevelingendam Plaat Van Oude Tonge Badstrand",
+  "current_status": "goed",
+  "lat": 51.6755,
+  "lon": 4.1399,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

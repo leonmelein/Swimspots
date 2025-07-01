@@ -1,0 +1,24 @@
+{
+  "id": 1236,
+  "address": "Kooilaan, Bleiswijk",
+  "placename": "Bleiswijk",
+  "description": "De zwemlocatie Bleiswijkse Zoom ligt aan de noordkant van de kanovijver in het gelijknamige recreatieterrein en dagcamping Bleiswijkse Zoom in Bleiswijk. Er bevindt zich een strand en een ligweide.",
+  "photos": "40_Bleiswijkse_Zoom.jpg",
+  "website": null,
+  "alternate_name": "Bleiswijkse Zoom",
+  "name": "Bleiswijkse Zoom",
+  "current_status": "goed",
+  "lat": 52.0133,
+  "lon": 4.553,
+  "eu_designation": "1",
+  "e_coli": 250.0,
+  "int_ent": 180.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

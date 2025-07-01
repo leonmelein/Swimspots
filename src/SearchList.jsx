@@ -22,6 +22,7 @@ function SearchList({data}){
             setSearchResults(
                 searchHandler.search(input.current.value)
             );
+            setLocating(false);
         } else {
             setSearchResults([])
         }

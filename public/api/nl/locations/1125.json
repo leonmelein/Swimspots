@@ -1,0 +1,27 @@
+{
+  "id": 1125,
+  "address": "Kuilpad, Zaanstad",
+  "placename": "Zaanstad",
+  "description": "Het recreatiegebied Jagersveld ligt nabij Zaandam, tussen de snelwegen A8 en de A7. Het bestaat uit een recreatiedeel en een rustgebied (aan de oostelijke kant). Centraal in het recreatiegebied is de Jagersplas, een grote, diepe plas met aangrenzend enkele brede sloten. De Kuifeend is een van de vier offici\u00eble zwemlocaties in de Jagersplas. Deze liggen niet aan de grote plas, maar aan de brede sloten en kleine plassen aan de westzijde van het gebied.",
+  "photos": "KuifeendJagersveld.PNG",
+  "website": null,
+  "alternate_name": "De Kuifeend",
+  "name": "De Kuifeend; Jagersveld",
+  "current_status": "goed",
+  "lat": 52.4641,
+  "lon": 4.8386,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943893,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

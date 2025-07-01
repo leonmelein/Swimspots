@@ -1,0 +1,28 @@
+{
+  "id": 1109,
+  "address": "Rietkraag, Wijdemeren",
+  "placename": "Wijdemeren",
+  "description": "De Spiegelplas is onderdeel van de Spiegel- en Blijkpolder en ligt ten oosten van Nederhorst den Berg. De zwemlocatie bestaat uit een zandstrand met een afgebakend zwemgedeelte en een speelweide.",
+  "photos": "Strand Sporthal Spiegelplas.PNG",
+  "website": null,
+  "alternate_name": "Strand Sporthal Spiegelplas",
+  "name": "Strand Sporthal Spiegelplas",
+  "current_status": "goed",
+  "lat": 52.2608,
+  "lon": 5.05,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943901
+  ],
+  "warnings": []
+}

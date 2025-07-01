@@ -1,0 +1,29 @@
+{
+  "id": 1571,
+  "address": "Labradorstroom, Huizen",
+  "placename": "Huizen",
+  "description": "Gooierhoofd en Zomerkade zijn twee stranden aan het Gooimeer. De Zomerkade ligt aan de rand van een woonwijk. Het Gooierhoofd ligt iets noordelijker en heeft een ligweide met speelveld.",
+  "photos": "Gooierhoofd.PNG",
+  "website": null,
+  "alternate_name": "Gooierhoofd",
+  "name": "Gooierhoofd",
+  "current_status": "goed",
+  "lat": 52.3084,
+  "lon": 5.2545,
+  "eu_designation": "2",
+  "e_coli": 200.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943897,
+    5943891,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

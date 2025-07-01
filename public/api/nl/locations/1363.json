@@ -1,0 +1,29 @@
+{
+  "id": 1363,
+  "address": "Damsterweg, Steendam",
+  "placename": "Steendam",
+  "description": "De zwemlocatie Schildmeer is gelegen te Steendam. Het \r\ndorp ligt aan de oude weg van Noordbroek naar Appingedam. Het Schildmeer \r\nwordt vanuit het zuidwesten gevoed door het afwateringskanaal van Duurswold en vanuit het \r\nnoorden door de Groeve.",
+  "photos": "GR-030-001 Recreatiezone Schildmeer.jpg",
+  "website": null,
+  "alternate_name": "Schildmeer",
+  "name": "Schildmeer, Steendam",
+  "current_status": "goed",
+  "lat": 53.2708,
+  "lon": 6.8404,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943913,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943900
+  ],
+  "warnings": []
+}

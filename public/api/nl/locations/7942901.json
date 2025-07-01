@@ -1,0 +1,21 @@
+{
+  "id": 7942901,
+  "address": "Beekse Bergen 1, Hilvarenbeek",
+  "placename": "Hilvarenbeek",
+  "description": "Zwemplek Beekse Bergen zone 3 bestaat uit een zandstrand aan een zuidelijke oever van het oppervlaktewater van De Beekse Bergen. Het zandstrand loopt ongeveer 50 meter langs de oever en is ongeveer 40 meter breed.",
+  "photos": null,
+  "website": "http://beeksebergen.nl",
+  "alternate_name": "Beekse Bergen Zone 3",
+  "name": "Beekse Bergen Zone 3",
+  "current_status": "goed",
+  "lat": 51.5199,
+  "lon": 5.1278,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943929,
+    5943892
+  ],
+  "warnings": []
+}

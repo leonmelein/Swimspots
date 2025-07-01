@@ -1,0 +1,31 @@
+{
+  "id": 1541,
+  "address": "Lutenkampstraat 2, Appeltern",
+  "placename": "Appeltern",
+  "description": "De Gouden Ham is een ruim opgezet recreatiegebied (totale oppervlakte ongeveer 400 ha) en is\r\ngelegen in het land van Maas en Waal.",
+  "photos": "GLD-058-002_2019_CAMPINGPARK_HET_GROEN_ EILAND_BORD.jpg",
+  "website": "https://www.hetgroeneeiland.nl/",
+  "alternate_name": "Dgh Strand Maasboulevard",
+  "name": "De Gouden Ham, \"Camping Het Groene Eiland\" Strand Maasboulevard",
+  "current_status": "goed",
+  "lat": 51.8345,
+  "lon": 5.5549,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943932
+  ],
+  "warnings": []
+}

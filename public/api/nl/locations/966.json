@@ -1,0 +1,32 @@
+{
+  "id": 966,
+  "address": "Groningerstraatweg, Leeuwarden",
+  "placename": "Leeuwarden",
+  "description": "De Grutte Wielen en de Lytse Wielen vormen samen het Wielengebied ten oosten van Leeuwarden. De Rijksweg tussen Leeuwarden en Groningen (N355) doorkruist het gebied.",
+  "photos": "FR-023-001 Grutte Wielen.jpg",
+  "website": null,
+  "alternate_name": "Grutte Wielen",
+  "name": "Grutte Wielen",
+  "current_status": "goed",
+  "lat": 53.2189,
+  "lon": 5.8697,
+  "eu_designation": "1",
+  "e_coli": 50.0,
+  "int_ent": 50.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943919,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

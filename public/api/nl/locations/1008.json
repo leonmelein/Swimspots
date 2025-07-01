@@ -1,0 +1,29 @@
+{
+  "id": 1008,
+  "address": "Grasbroekweg 1, Bornerbroek",
+  "placename": "Bornerbroek",
+  "description": "De gebiedsbeschrijving is gebaseerd op informatie van de beheerder, informatie van Waterschap Regge en Dinkel en het veldbezoek op 29 juli 2010. De plas ligt ten noorden van het recreatieterrein het Grasbroek gelegen aan de Grasbroekweg 1 te Bornebroek.",
+  "photos": null,
+  "website": "http://www.grasbroek.nl/",
+  "alternate_name": "Camping 't Grasbroek",
+  "name": "Camping 't Grasbroek",
+  "current_status": "goed",
+  "lat": 52.298,
+  "lon": 6.6495,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943908,
+    5943911,
+    5943919,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

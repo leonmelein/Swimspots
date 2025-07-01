@@ -1,0 +1,29 @@
+{
+  "id": 1333,
+  "address": "Hoveniersweg, Stadskanaal",
+  "placename": "Stadskanaal",
+  "description": "Het Pagedal ligt in de plaats Stadskanaal.  De badzone is gelegen aan de noordzijde van de plas. Het strand heeft een lengte van ca. 210m en een breedte van ca. 40m. De maximale diepte van de plas is ca. 3,5m. ",
+  "photos": "GR-021-001 Recreatiezone Pagedal.jpg",
+  "website": null,
+  "alternate_name": "Pagedal, Stadskanaal",
+  "name": "Pagedal, Stadskanaal",
+  "current_status": "goed",
+  "lat": 52.995,
+  "lon": 6.9828,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

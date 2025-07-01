@@ -1,0 +1,32 @@
+{
+  "id": 1618,
+  "address": "Middelwaard, Vianen",
+  "placename": "Vianen",
+  "description": "Plas Middelwaard is een voormalige zandwinput van ongeveer 17 ha groot en ligt in de uiterwaarden van de Lek net buiten Vianen. Deze rivier stroomt ten noordwesten van de plas. Aan de oostzijde wordt de plas begrensd door de snelweg A2, aan de zuidoostzijde van de plas ligt Vianen.\r\nHet zandstrand ligt in de noordoostelijke hoek van de plas. In het water ligt een ballenlijn\r\naan paaltjes tot de plaats waar de diepte ongeveer \u00e9\u00e9n meter is.",
+  "photos": "Middelwaard.jpg",
+  "website": "http://www.vijfheerenlanden.nl",
+  "alternate_name": "Middelwaard",
+  "name": "Middelwaard",
+  "current_status": "goed",
+  "lat": 51.9943,
+  "lon": 5.0762,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943921,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 986,
+  "address": "Achterweg, Eastermar",
+  "placename": "Eastermar",
+  "description": "Het zwemwater maakt onderdeel uit van het dagrecreatieterrein Eastermar.\r\nHet zwemwater ligt in de gemeente Tytsjerksteradiel, aan de zuidoost-zijde van het Burgumer Mar.",
+  "photos": "FR-025-002 Eastermar.jpg",
+  "website": null,
+  "alternate_name": "Eastermar",
+  "name": "Swimplak Eastermar",
+  "current_status": "goed",
+  "lat": 53.1789,
+  "lon": 6.0496,
+  "eu_designation": "2",
+  "e_coli": 20.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943891,
+    5943892,
+    5943895,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

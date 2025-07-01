@@ -1,0 +1,24 @@
+{
+  "id": 1059,
+  "address": "Achterweg, Heukelum",
+  "placename": "Heukelum",
+  "description": "Rietput  Heukelum  is  een  kleine  recreatieplas  van  ongeveer  5,4  ha  groot  en  is  opgedeeld  in twee plassen. Het westelijke deel is ongeveer 4 ha groot, terwijl het oostelijke deel ongeveer 1,4 ha groot is.",
+  "photos": "GLD-035-001 RIETPUT 2020.jpg",
+  "website": null,
+  "alternate_name": "Rietput",
+  "name": "Rietput",
+  "current_status": "goed",
+  "lat": 51.8726,
+  "lon": 5.0633,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943891,
+    5943927,
+    5943898
+  ],
+  "warnings": []
+}

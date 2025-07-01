@@ -1,0 +1,23 @@
+{
+  "id": 559041,
+  "address": "Boekhorsterweg 21, Warmond",
+  "placename": "Warmond",
+  "description": "Europarcs Kagerplassen",
+  "photos": "Europarcs Kagerplassen jpg.JPG",
+  "website": null,
+  "alternate_name": "Europarcs",
+  "name": "Europarcs Kagerplassen",
+  "current_status": "goed",
+  "lat": 52.2009,
+  "lon": 4.5541,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943930,
+    5943892,
+    5943898,
+    5943927
+  ],
+  "warnings": []
+}

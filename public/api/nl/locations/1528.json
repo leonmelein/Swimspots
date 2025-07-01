@@ -1,0 +1,27 @@
+{
+  "id": 1528,
+  "address": "Kanaalweg Oost / De Weerd, Roermond",
+  "placename": "Roermond",
+  "description": "Zwemlocatie Dagstrand Area X ligt in Midden-Limburg in de gemeente Roermond. \r\nHet strand ligt ongeveer 1,5 km ten noordwesten van de stad Roermond in het westelijke winterbed \r\nvan de Maas. Het dagstrand is gesitueerd aan plas Hornergriend, ook wel Noordplas genoemd, met  \r\ndaarachter het Lateraalkanaal. Ongeveer \u00e9\u00e9n maal per twee jaar vindt er inundatie plaats door de \r\nMaas. Tevens zijn er kleine kwelsituaties.",
+  "photos": "Dagstrand De Weerd.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Area-X",
+  "name": "Dagstrand Area-X",
+  "current_status": "goed",
+  "lat": 51.206,
+  "lon": 5.9649,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943929,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

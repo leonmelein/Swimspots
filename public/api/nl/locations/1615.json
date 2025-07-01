@@ -1,0 +1,23 @@
+{
+  "id": 1615,
+  "address": "Waaldijk, Bemmel",
+  "placename": "Bemmel",
+  "description": "De zwemlocatie Bemmelse Waard ligt tussen Bemmel en de Waal en in de Bemmelsche-, Gendtscheen\r\nOoijrijksche Polder.",
+  "photos": "GLD-049-001 BEMMELSE WAARD 2020.jpg",
+  "website": null,
+  "alternate_name": "Bemmelse Waard",
+  "name": "Bemmelse Waard",
+  "current_status": "goed",
+  "lat": 51.8821,
+  "lon": 5.8995,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943891,
+    5943907,
+    5943892
+  ],
+  "warnings": []
+}

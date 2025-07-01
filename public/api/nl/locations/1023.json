@@ -1,0 +1,18 @@
+{
+  "id": 1023,
+  "address": "Bergvennenweg, Lattrop",
+  "placename": "Lattrop",
+  "description": "Zwemplas voor de gasten van Camping De Bergvennen, maar tegen betaling openbaar toegankelijk.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "De Bergvennen",
+  "name": "Camping De Bergvennen",
+  "current_status": "goed",
+  "lat": 52.4249,
+  "lon": 7.011,
+  "eu_designation": "1",
+  "e_coli": 177.0,
+  "int_ent": 30.0,
+  "amenities": [],
+  "warnings": []
+}

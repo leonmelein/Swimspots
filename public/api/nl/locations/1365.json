@@ -1,0 +1,32 @@
+{
+  "id": 1365,
+  "address": "Engelberterweg, Engelbert",
+  "placename": "Engelbert",
+  "description": "De zwemlocatie ligt in de plaats Engelbert. Engelbert is een dorp in de gemeente Groningen in de \r\nprovincie Groningen. Het dorp ligt ten oosten van de stad.",
+  "photos": "GR-007-001 Recreatiezone Engelbert.jpg",
+  "website": null,
+  "alternate_name": "Recreatieplas Engelbert",
+  "name": "Recreatieplas Engelbert",
+  "current_status": "goed",
+  "lat": 53.2061,
+  "lon": 6.645,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943910,
+    5943911,
+    5943913,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943899,
+    5943900
+  ],
+  "warnings": []
+}

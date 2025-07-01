@@ -1,0 +1,24 @@
+{
+  "id": 1218,
+  "address": "Veckhoekse Sluisweg, Brielle",
+  "placename": "Brielle",
+  "description": "De  zwemwaterlocatie  Brielsebrug Zuidzijde  is  gelegen  aan  de  zuidoost zijde  van  het  Brielse \r\nMeer.",
+  "photos": "59e Brielsebrug Z-zijde v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Brielse Meer Brielsebrug Zuidzijde",
+  "name": "Brielse Meer Brielsebrug Zuidzijde",
+  "current_status": "goed",
+  "lat": 51.8995,
+  "lon": 4.2057,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

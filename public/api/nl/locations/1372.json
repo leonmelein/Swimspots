@@ -1,0 +1,28 @@
+{
+  "id": 1372,
+  "address": "Hoofdweg, Midwolda",
+  "placename": "Midwolda",
+  "description": "De zwemlocatie Oldambtmeer is gelegen te Midwolda. Bij het meer is een groot strand aangelegd. Daarnaast vormt het meer een watersportgebied.",
+  "photos": "GR-020-001 Recreatiezone Noordrand Oldambtmeer.jpg",
+  "website": null,
+  "alternate_name": "Noordrand Oldambtmeer",
+  "name": "Noordrand Oldambtmeer, Midwolda",
+  "current_status": "goed",
+  "lat": 53.1939,
+  "lon": 7.0259,
+  "eu_designation": "7",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943915,
+    5943921,
+    5943891,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

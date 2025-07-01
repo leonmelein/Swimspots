@@ -1,0 +1,21 @@
+{
+  "id": 7187130,
+  "address": "Kattenburgerstraat 5, Amsterdam",
+  "placename": "Amsterdam",
+  "description": "Zwemlocatie op in het oude marinehaventje op het Marineterrein te Amsterdam. Haventje is fysiek afgescheiden door loopplanken.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Marineterrein Amsterdam",
+  "name": "Marineterrein Amsterdam",
+  "current_status": "goed",
+  "lat": 52.3731,
+  "lon": 4.9155,
+  "eu_designation": "2",
+  "e_coli": 161.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943892,
+    5943927
+  ],
+  "warnings": []
+}

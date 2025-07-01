@@ -1,0 +1,25 @@
+{
+  "id": 1243,
+  "address": "Krimpen aan de Lek",
+  "placename": "Krimpen aan de Lek",
+  "description": "De Plas Krimpenerhout maakt deel uit van een groot recreatie- en natuurpark \u2018Krimpenerhout\u2019 en beslaat een oppervlakte van circa 250 hectare.",
+  "photos": "46 Plas Krimpenerhout v3_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Plas Krimpenerhout",
+  "name": "Plas Krimpenerhout",
+  "current_status": "goed",
+  "lat": 51.9061,
+  "lon": 4.6224,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

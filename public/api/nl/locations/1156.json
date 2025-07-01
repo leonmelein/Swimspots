@@ -1,0 +1,24 @@
+{
+  "id": 1156,
+  "address": "Poeldijk, Rijpwetering",
+  "placename": "Rijpwetering",
+  "description": "Kleipoel is \u00e9\u00e9n van de oostelijk gelegen kleinere plassen welke deel uitmaakt van de Kagerplassen. Het is gelegen in de gemeente Alkemade. De zwemlocatie Kleipoel ligt ten noorden van het dorp Rijpwetering aan de Poeldijk.",
+  "photos": "10_Kleipoel.jpg",
+  "website": null,
+  "alternate_name": "Kleipoel",
+  "name": "Kleipoel",
+  "current_status": "goed",
+  "lat": 52.2026,
+  "lon": 4.5888,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943898,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

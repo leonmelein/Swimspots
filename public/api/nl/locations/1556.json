@@ -1,0 +1,30 @@
+{
+  "id": 1556,
+  "address": "Flevoweg, Elburg",
+  "placename": "Elburg",
+  "description": "Het Veluwestrand Elburg, een zandstrand, is gelegen ten noordwesten van Elburg en maakt deel uit\r\nvan Recreatieoord Veluwe Strandbad. In de buurt bevinden zich meerdere zwemwaterlocaties, zoals\r\nhet Spijkstrand, het Riviera Beach noordoost en het Riviera Beach zuidwest.",
+  "photos": "GLD-043-001 RECREATIEOORD VELUWE STRANDBAD 2023.jpg",
+  "website": "http://www.veluwestrandbad.nl/nl/",
+  "alternate_name": "Strandbad Zuid",
+  "name": "Veluwe Strandbad Zuid",
+  "current_status": "goed",
+  "lat": 52.4536,
+  "lon": 5.8221,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943892,
+    5943924,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

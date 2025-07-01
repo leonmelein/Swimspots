@@ -1,0 +1,38 @@
+{
+  "id": 1092,
+  "address": "Middenweg, Ouderkerk aan de Amstel",
+  "placename": "Ouderkerk aan de Amstel",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend.\r\nDe Ouderkerkerplas ligt ten zuiden van Ouderkerk aan de Amstel. Het Groenstrand is ligweide langs het water.",
+  "photos": "Groenstrand Ouderkerkerplas.PNG",
+  "website": null,
+  "alternate_name": "Groenstrand",
+  "name": "Groenstrand, Ouderkerkerplas",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.2942,
+  "lon": 4.9255,
+  "eu_designation": "4",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat ook op deze pagina en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend"
+    }
+  ]
+}

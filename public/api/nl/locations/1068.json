@@ -1,0 +1,33 @@
+{
+  "id": 1068,
+  "address": "Rijkswoerdsestraat, Arnhem",
+  "placename": "Arnhem",
+  "description": "De Rijkerswoerdse Plassen zijn twee plassen met een totale grootte van ongeveer 48,3 ha en \r\nliggen  tussen  Arnhem-Zuid  en  Elst.  Het  beheer  van  de  plassen  is  in  handen  van  Recreatie-\r\nschap Uiterwaarde. De plassen liggen ingesloten tussen de A325 aan de oostelijke \r\nzijde van de plas, aan de noordelijke zijde van de plassen ligt de Arnhemse wijk De Laar en \r\naan de westelijke zijde ligt de Rijksweg Noord.",
+  "photos": "GLD-030-002_2019_RIJKERSWOERDSE_PLASSEN_BORD.jpg",
+  "website": "http://www.uiterwaarde.nl/",
+  "alternate_name": "Rijkerswoerdse Plas",
+  "name": "De Rijkerswoerdse Plassen",
+  "current_status": "goed",
+  "lat": 51.9409,
+  "lon": 5.8654,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943913,
+    5943915,
+    5943916,
+    5943897,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

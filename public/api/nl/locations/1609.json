@@ -1,0 +1,26 @@
+{
+  "id": 1609,
+  "address": "Bandijk 60, Terwolde",
+  "placename": "Terwolde",
+  "description": "Zwemlocatie IJssel De Scherpenhof ligt aan de westzijde van de IJssel in de uiterwaarden, ten\r\nnoorden van het plaatsje Terwolde. In het westen bevindt zich de plaats Nijbroek. Het zwemstrand\r\nbevindt zich aan een plas (\u2018speelvijver\u2019), die via een doorlaat naar de jachthaven in verbinding staat\r\nmet de IJssel.",
+  "photos": "GLD-053-001_RECREATIEPARK_DE_SCHERPENHOF_BORD.jpg",
+  "website": "http://www.scherpenhof.nl",
+  "alternate_name": "De Scherpenhof",
+  "name": "Recreatiepark De Scherpenhof",
+  "current_status": "goed",
+  "lat": 52.2982,
+  "lon": 6.1002,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943916,
+    5943892,
+    5943927,
+    5943897
+  ],
+  "warnings": []
+}

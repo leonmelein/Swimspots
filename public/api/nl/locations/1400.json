@@ -1,0 +1,26 @@
+{
+  "id": 1400,
+  "address": "Veneweg, Wanneperveen",
+  "placename": "Wanneperveen",
+  "description": "De zwemlocatie Wanneperveen ligt ten in het oosten van het dorp Wanneperveen.  De plas is ca 50 meter breed en 200 \r\nmeter lang wat neer komt op ca 1 hectare.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Veneger Gat",
+  "name": "Veneger Gat Wanneperveen Veneweg",
+  "current_status": "goed",
+  "lat": 52.697,
+  "lon": 6.108,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943930
+  ],
+  "warnings": []
+}

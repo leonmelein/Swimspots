@@ -1,0 +1,28 @@
+{
+  "id": 1025,
+  "address": "Den Elterweg, Zutphen",
+  "placename": "Zutphen",
+  "description": "Ten zuiden van de stad Zutphen liggen twee voormalige zandafgravingen. De zuidelijke plas behoort tot het recreatiepark \u201cVesting De Bronsbergen\u201d en de noordelijke plas is het recreatiegebied Bronsbergenmeer.",
+  "photos": "GLD-011-002 BRONSBERGENMEER 2020.jpg",
+  "website": null,
+  "alternate_name": "Bronsbergenmeer",
+  "name": "Bronsbergenmeer",
+  "current_status": "goed",
+  "lat": 52.1192,
+  "lon": 6.2125,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943892,
+    5943893,
+    5943927,
+    5943898
+  ],
+  "warnings": []
+}

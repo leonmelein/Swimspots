@@ -1,0 +1,30 @@
+{
+  "id": 1345,
+  "address": "Borgweg, Schipborg",
+  "placename": "Schipborg",
+  "description": "De zwemlocatie de Vledders is gelegen te Schipborg.  Het betreft een ge\u00efsoleerde plas. Het strand, gelegen in het noordoosten heeft een lengte van ca. 155m en een breedte van ca. 2,5 m.",
+  "photos": "Recreatiezone_de_Vledders.jpg",
+  "website": null,
+  "alternate_name": "De Vledders",
+  "name": "De Vledders",
+  "current_status": "goed",
+  "lat": 53.0793,
+  "lon": 6.6633,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943916,
+    5943897,
+    5943891,
+    5943898,
+    5943927,
+    5943896,
+    5943929,
+    5943930,
+    5943900
+  ],
+  "warnings": []
+}

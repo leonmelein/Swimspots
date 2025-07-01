@@ -1,0 +1,33 @@
+{
+  "id": 1513,
+  "address": "Nieuwendijk, Wemeldinge",
+  "placename": "Wemeldinge",
+  "description": "Wemeldinge Badstrand ligt aan de Oosterschelde in de gemeente Kapelle (Zuid-Beveland), met aan \r\nde oostkant de jachthaven van Wemeldinge en de monding van het kanaal door Zuid-Beveland. Direct \r\nachter de dijk is een vakantie-/bungalowpark te vinden. De locatie is fysiek begrensd door dijken en \r\nlangs het strand staat stroming. Het betreft een zoutwaterlocatie welke onder invloed staat van getij. \r\nHet strand wordt gedurende hoogwater volledig overspoeld.",
+  "photos": "Wemeldinge badstrand 03 2014.JPG",
+  "website": null,
+  "alternate_name": "Oesterbaai Wemeldinge",
+  "name": "Wemeldinge Oesterbaai",
+  "current_status": "goed",
+  "lat": 51.5224,
+  "lon": 3.9933,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943913,
+    5943921,
+    5943890,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943900,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

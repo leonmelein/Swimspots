@@ -1,0 +1,32 @@
+{
+  "id": 1143,
+  "address": "Zeeweg, Overveen",
+  "placename": "Overveen",
+  "description": "'t Wed ligt in het nationale park Zuid-Kennemerland. Het meer is maximaal ongeveer 8 meter diep.",
+  "photos": "tWed.PNG",
+  "website": null,
+  "alternate_name": "'t Wed",
+  "name": "'t Wed",
+  "current_status": "WAARSCHUWING",
+  "lat": 52.3996,
+  "lon": 4.5898,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_ZWEMMERSJEUK",
+      "warning_description": null
+    }
+  ]
+}

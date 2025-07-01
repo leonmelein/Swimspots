@@ -1,0 +1,28 @@
+{
+  "id": 299241,
+  "address": "Maastrichtsebaan 1, Alphen",
+  "placename": "Alphen",
+  "description": "Zwemplas 't Zand wordt omgeven door bosgebied. De zwemlocatie heeft een langgerekt strand aan de noordoostzijde, waarlangs een ligweide is gelegen. Aan de zuidoostzijde is een smallere ligweide gelegen. Aan de zuidzijde is een strand gelegen dat gebruikt wordt door campinggasten van Recreatiepark 't Zand.",
+  "photos": "NB-002-001 't Zand.jpg",
+  "website": null,
+  "alternate_name": "'t Zand",
+  "name": "'t Zand",
+  "current_status": "goed",
+  "lat": 51.4993,
+  "lon": 4.9497,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

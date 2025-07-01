@@ -1,0 +1,26 @@
+{
+  "id": 1254,
+  "address": "Laarse Heistraat, Zundert",
+  "placename": "Zundert",
+  "description": "De Laarse Heide ligt ten zuiden van Breda.",
+  "photos": null,
+  "website": "http://www.laarseheide.com/laarse_heide_camping_combi.htm",
+  "alternate_name": "Laarse Heide",
+  "name": "Laarse Heide",
+  "current_status": "goed",
+  "lat": 51.4799,
+  "lon": 4.7035,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943915,
+    5943891,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1140,
+  "address": "De Bijlen, Alphen aan den Rijn",
+  "placename": "Alphen aan den Rijn",
+  "description": "De Zegerplas ligt aan de oostkant van Alphen aan den Rijn en is een voormalige zandwinplas uit de jaren 70. De plas is onderdeel van een recreatiegebied dat aan de westkant wordt begrensd door het stedelijk gebied van Alphen aan den Rijn.",
+  "photos": "20_Zeegerplas_Zuidoever.jpg",
+  "website": null,
+  "alternate_name": "Zegerplas Zuid",
+  "name": "Zegerplas Zuidoever",
+  "current_status": "goed",
+  "lat": 52.1301,
+  "lon": 4.6832,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943929,
+    5943930,
+    5943907,
+    5943892
+  ],
+  "warnings": []
+}

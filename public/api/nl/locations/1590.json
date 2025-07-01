@@ -1,0 +1,27 @@
+{
+  "id": 1590,
+  "address": "Burgerwoudweg, Schardam",
+  "placename": "Schardam",
+  "description": "Strand Schardam ligt aan het Markermeer, dichtbij de campings De Eenhoorn en Voor Anker. De oevers langs de camping zijn gereserveerd voor gasten, het strandje ten zuiden daarvan is openbaar. ",
+  "photos": "Strand Schardam.PNG",
+  "website": "http://www.zeevang.nl",
+  "alternate_name": "Strand Schardam",
+  "name": "Strand Schardam",
+  "current_status": "goed",
+  "lat": 52.5938,
+  "lon": 5.0223,
+  "eu_designation": "3",
+  "e_coli": 30.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943892,
+    5943930,
+    5943898
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6243120,
+  "address": "Veldweg 98, Lelystad",
+  "placename": "Lelystad",
+  "description": "Bij Lelystad ligt een heel groot belevenissenbos. De doelstelling is spelen, klimmen en klauteren naast en boven het water. Er is hier ook sprake van waterpartijen en kreken met een waterdiepte van maximaal 70 cm. Daarom is deze locatie in overleg met de terreinbeheerder en de waterbeheerder een offici\u00eble zwemwaterlocatie.",
+  "photos": "WP_20170105_001 bord.jpg",
+  "website": "http://www2.belevenissenbos.nl/",
+  "alternate_name": "Het Belevenissenbos Lelystad",
+  "name": "Het Belevenissenbos Lelystad",
+  "current_status": "goed",
+  "lat": 52.5418,
+  "lon": 5.4764,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943893,
+    5943895,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1561,
+  "address": "Strandweg, Biddinghuizen",
+  "placename": "Biddinghuizen",
+  "description": "Het strand heeft verschillende \u2018baaitjes\u2019 die van elkaar worden gescheiden door strekdammetjes en rietkragen. De breedte van het strand varieert van ongeveer 30 tot 65 meter. De twee delen van het Harderstrand zijn van elkaar gescheiden door een grote jachthaven en een deel van de camping Molecatenpark. Aan de noordzijde bevindt zich waterskivereniging \u2018De Harder\u2019.",
+  "photos": "2013-05-01 12.23.36.jpg",
+  "website": "http://www.molecaten.nl/flevostrand/faciliteiten",
+  "alternate_name": "Harderstrand Noord",
+  "name": "Harderstrand Noord",
+  "current_status": "goed",
+  "lat": 52.3877,
+  "lon": 5.6418,
+  "eu_designation": "2",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943927,
+    5943919,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943895,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

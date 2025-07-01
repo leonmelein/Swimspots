@@ -1,0 +1,23 @@
+{
+  "id": 8455040,
+  "address": "Vijverlaan, Waalwijk",
+  "placename": "Waalwijk",
+  "description": "De Surfvijver in Waalwijk is gelegen in de provincie Brabant. De Surfvijver maakt deel uit van het Hoefsvengebied in Waalwijk, samen met de Roeivijver en het Hoefsven. Het park grenst aan Nationaal Park De Loonse en Drunense Duinen, waardoor het omgeven is door een prachtig natuurgebied.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Surfvijver Waalwijk",
+  "name": "Surfvijver Waalwijk",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.6806,
+  "lon": 5.0966,
+  "eu_designation": 0,
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_ONVEILIGE_SITUATIE",
+      "warning_description": "zwemzone met hekwerk afgesloten en nog niet toegankelijk"
+    }
+  ]
+}

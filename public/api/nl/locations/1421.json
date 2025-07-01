@@ -1,0 +1,28 @@
+{
+  "id": 1421,
+  "address": "Oldemeyerweg, Rheeze",
+  "placename": "Rheeze",
+  "description": "ATTENTIE!  Eerdere gerapporteerde huidklachten blijken op basis van onderzoek niet aan het zwemwater te relateren. Er is zijn wel nesten van de Eikenprocessierups in bomen waargenomen.\r\n\r\nDe zwemplas de Oldemeyer is een ge\u00efsoleerde plas en ligt omsloten in het bosgebied Diffelerveld. De totale oppervlakte van de plas is iets minder dan 6 hectare.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Oldemeyer West",
+  "name": "Oldemeyer West",
+  "current_status": "goed",
+  "lat": 52.5472,
+  "lon": 6.5591,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

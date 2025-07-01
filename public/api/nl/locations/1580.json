@@ -1,0 +1,29 @@
+{
+  "id": 1580,
+  "address": "Zeeweg, Muiderberg",
+  "placename": "Muiderberg",
+  "description": "Het strand Muiderberg ligt aan het IJmeer aan de noordzijde van het gelijknamige dorp. ",
+  "photos": "Muiderberg.PNG",
+  "website": null,
+  "alternate_name": "Muiderberg",
+  "name": "Muiderberg",
+  "current_status": "goed",
+  "lat": 52.3296,
+  "lon": 5.1192,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 130.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

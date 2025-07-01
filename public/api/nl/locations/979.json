@@ -1,0 +1,30 @@
+{
+  "id": 979,
+  "address": "Duinweg Hee, West-Terschelling",
+  "placename": "West-Terschelling",
+  "description": "De zwemwaterlocatie ligt op Terschelling ten noorden van het gehucht Hee, halverwege West Terschelling en Midsland. Het meertje is in 1962 gegraven om zand te winnen voor de verhoging van de Waddendijk. Later is het meertje ingericht als recreatieplas.",
+  "photos": "FR-008-001 Duinmeertje Hee.jpg",
+  "website": null,
+  "alternate_name": "Duinmeertje Hee",
+  "name": "Duinmeertje Hee",
+  "current_status": "goed",
+  "lat": 53.3797,
+  "lon": 5.2544,
+  "eu_designation": "1",
+  "e_coli": 20.0,
+  "int_ent": 50.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943898,
+    5943895,
+    5943930,
+    5943932,
+    5943900
+  ],
+  "warnings": []
+}

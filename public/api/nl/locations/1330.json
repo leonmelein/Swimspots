@@ -1,0 +1,30 @@
+{
+  "id": 1330,
+  "address": "Sportweg, Bellingwolde",
+  "placename": "Bellingwolde",
+  "description": "De zwemlocatie Kemperpark is gelegen te Bellingwolde. De plas Kemperpark is een kleine ge\u00efsoleerde plas, welke is omgeven door een bosrand.",
+  "photos": "GR-012-001 Recreatiezone Kemperpark.jpg",
+  "website": null,
+  "alternate_name": "Kempkerpark",
+  "name": "Kemperpark, Bellingwolde",
+  "current_status": "WAARSCHUWING",
+  "lat": 53.1006,
+  "lon": 7.1659,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

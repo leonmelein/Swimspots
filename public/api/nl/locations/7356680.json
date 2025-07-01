@@ -1,0 +1,21 @@
+{
+  "id": 7356680,
+  "address": "Nieuweweg, Loosdrecht",
+  "placename": "Loosdrecht",
+  "description": "De Loosdrechtse Plassen zijn ontstaan door veenafgraving. De zwemlocatie heeft zowel een ligweide als een zandstrand.",
+  "photos": "Strand De Strook (Loosdrechtse plassen).PNG",
+  "website": null,
+  "alternate_name": "Strand De Strook",
+  "name": "Strand De Strook, Loosdrechtse Plassen",
+  "current_status": "goed",
+  "lat": 52.1696,
+  "lon": 5.0596,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943930
+  ],
+  "warnings": []
+}

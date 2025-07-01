@@ -1,0 +1,30 @@
+{
+  "id": 1284,
+  "address": "Zuiderstrandweg, Den Bosch",
+  "placename": "Den Bosch",
+  "description": "De Zuiderplas in \u2019s-Hertogenbosch is ontstaan door zandwinning rond 1960. De plas is ongeveer 36 \r\nhectare groot en maximaal 16 meter diep. De plas is zowel in eigendom als in beheer bij de gemeente \u2019s-\r\nHertogenbosch.  De plas heeft een brede geleidelijk aflopende zandige \r\noeverzone zonder gevaarlijke obstakels. De plas is voor iedereen vrij toegankelijk en er zijn reddingsboeien aanwezig en AED.",
+  "photos": "NB-033-001 Zuiderplas.jpg",
+  "website": null,
+  "alternate_name": "Zuiderplas (Bad)",
+  "name": "Zuiderplas (Bad)",
+  "current_status": "goed",
+  "lat": 51.6754,
+  "lon": 5.3146,
+  "eu_designation": "1",
+  "e_coli": 130.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943891,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

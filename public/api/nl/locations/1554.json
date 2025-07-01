@@ -1,0 +1,27 @@
+{
+  "id": 1554,
+  "address": "A de visserstraat, Den Oever",
+  "placename": "Den Oever",
+  "description": "Zuiderhaven ligt aan het IJsselmeer, naast de Stevinsluis en in de nabijheid van een jachthaven. Er is een zandstrandje.",
+  "photos": "Strand Zuiderhaven Den Oever.PNG",
+  "website": null,
+  "alternate_name": "Zuiderhaven",
+  "name": "Strand Zuiderhaven, Den Oever",
+  "current_status": "goed",
+  "lat": 52.9316,
+  "lon": 5.0403,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

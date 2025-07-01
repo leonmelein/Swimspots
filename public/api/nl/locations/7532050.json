@@ -1,0 +1,28 @@
+{
+  "id": 7532050,
+  "address": "Bosweg, Drogeham",
+  "placename": "Drogeham",
+  "description": "Strand in zuidoosthoek van zandwinplas Sk\u00fblenboarch, verscholen in een groene en rustige omgeving tussen de dorpen Koatstertille, Droegeham, Sk\u00fblenboarch en It Heechs\u00e2n. Het strand en zwemwater is afgebakend van de zandwinplas door middel van een dam van keien en twee hekken.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Sk\u00fblenboarch",
+  "name": "Recreatiestrand Sk\u00fblenboarch, Drogeham",
+  "current_status": "goed",
+  "lat": 53.194,
+  "lon": 6.0855,
+  "eu_designation": "1",
+  "e_coli": 90.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1195,
+  "address": "Surfpad, Vlaardingen",
+  "placename": "Vlaardingen",
+  "description": "Recreatiegebied de Krabbeplas ligt aan de rand van Vlaardingen Westwijk. De offici\u00eble zwemzones bevinden zich aan de zuid- en oostzijde van de plas en zijn begrensd met een ballenlijn.",
+  "photos": "39a Krabbeplas O-zijde v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Krabbeplas O",
+  "name": "Krabbeplas Oostzijde",
+  "current_status": "goed",
+  "lat": 51.9155,
+  "lon": 4.3037,
+  "eu_designation": "3",
+  "e_coli": 180.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

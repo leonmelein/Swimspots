@@ -1,0 +1,31 @@
+{
+  "id": 956,
+  "address": "Spokedam, Noordwolde",
+  "placename": "Noordwolde",
+  "description": "Het zwemwater Spoekeplas ligt ten zuidwesten van Noordwolde. Rondom is het wandelbos Spokedam gelegen.\r\nSpoekeplas ligt in een boomrijk gebied. Het zwemwater is onderdeel van een groter recreatiegebied. In de buurt van het recreatiegebied ligt een camping, een bungalowpark en een openluchtzwembad.",
+  "photos": "FR-046-001 Spoekeplas.jpg",
+  "website": null,
+  "alternate_name": "Spoekeplas",
+  "name": "Spoekeplas",
+  "current_status": "goed",
+  "lat": 52.8795,
+  "lon": 6.1331,
+  "eu_designation": "1",
+  "e_coli": 80.0,
+  "int_ent": 160.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943915,
+    5943892,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

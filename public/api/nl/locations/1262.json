@@ -1,0 +1,25 @@
+{
+  "id": 1262,
+  "address": "Lange Reeweg, Hooge Zwaluwen",
+  "placename": "Hooge Zwaluwen",
+  "description": "De zwemplas is gelegen ten westen van de gemeente Hooge Zwaluwen. Het heeft een zwemstrand.",
+  "photos": "NB-036-001 Plas aan de Reeweg AANGEPAST.jpg",
+  "website": null,
+  "alternate_name": "Plas A/D Reeweg",
+  "name": "Plas A/D Reeweg",
+  "current_status": "goed",
+  "lat": 51.688,
+  "lon": 4.7209,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943891,
+    5943892,
+    5943898,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

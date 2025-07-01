@@ -1,0 +1,22 @@
+{
+  "id": 1228,
+  "address": "Waalweg, Ridderkerk",
+  "placename": "Ridderkerk",
+  "description": "De  Waalboezem  is  een  langzaam  stromend  waterlichaam  dat  gevoed  wordt  door  de \r\nOude Maas.",
+  "photos": "54 Waalboezem v3_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Waalboezem Surfbocht",
+  "name": "Waalboezem Surfbocht",
+  "current_status": "goed",
+  "lat": 51.855,
+  "lon": 4.5764,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 94.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927
+  ],
+  "warnings": []
+}

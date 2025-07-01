@@ -1,0 +1,23 @@
+{
+  "id": 1178,
+  "address": "Dammersweg, Velserbroek",
+  "placename": "Velserbroek",
+  "description": "De Westbroekplas ligt in de gemeente Velsen en maakt deel uit van recreatiegebied Spaarnwoude. Aan de noordoostkant van de plas ligt een strand met een lengte van ongeveer 200 meter. De rest van het water wordt omringd door speel- en ligweiden. ",
+  "photos": "Westbroekplas.PNG",
+  "website": null,
+  "alternate_name": "Westbroekplas",
+  "name": "Westbroekplas",
+  "current_status": "goed",
+  "lat": 52.4271,
+  "lon": 4.6733,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943913,
+    5943929,
+    5943891,
+    5943927
+  ],
+  "warnings": []
+}

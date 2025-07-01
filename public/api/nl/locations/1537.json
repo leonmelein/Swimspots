@@ -1,0 +1,28 @@
+{
+  "id": 1537,
+  "address": "Kromvenpad / Pastoorsdijk, Plasmolen",
+  "placename": "Plasmolen",
+  "description": "De Mookerplas Plasmolen ligt ten zuiden van Nijmegen, ter hoogte van Cuijk, aan de oostzijde van de \r\nMaas, net bovenstrooms het splitsingspunt van de Maas en het Maas-Waalkanaal. De recreatieplas \r\nstaat middels een keersluis in verbinding met de Maas. Onder de Mookerplas Plasmolen vallen zowel de strandjes \u2018Groote Siep\u2019 als de \u2018Schaapswei\u2019. \r\nDe omgeving rondom de Mookerplas Plasmolen \r\nkenmerkt zich direct nabij de stranden als kaal. Verder is een groot deel van de plas omgeven door \r\nbos en weilanden.",
+  "photos": "De Mookerplas.JPG",
+  "website": null,
+  "alternate_name": "Recreatiegebied Mookerplas",
+  "name": "Recreatiegebied Mookerplas",
+  "current_status": "goed",
+  "lat": 51.731,
+  "lon": 5.9289,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1610,
+  "address": "Eekstraat, Doesburg",
+  "placename": "Doesburg",
+  "description": "Het zwemstrand ligt noordelijk van de plaatsen Doesburg en Achter-drempt aan een oude arm van de\r\nIJssel, het Zwarte Schaar. De rivierarm \"Het Zwarte Schaar\" waaraan het IJsselstrand ligt, is ontstaan\r\ndoor kanalisatie van de IJssel in 1954, waardoor een bochtafsnijding ontstond. Het zand uit deze\r\nbochtafsnijding is gebruikt voor de op- en afritten van de brug bij Doesburg. Het IJsselstrand is te\r\nbereiken via de Eekstraat.",
+  "photos": "GLD-050-001 CAMPING IJSSELSTRAND 2024.jpg",
+  "website": "http://www.ijsselstrand.nl/nl/",
+  "alternate_name": "Camping Ijsselstrand",
+  "name": "Camping Ijsselstrand",
+  "current_status": "goed",
+  "lat": 52.0323,
+  "lon": 6.1597,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943916,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898
+  ],
+  "warnings": []
+}

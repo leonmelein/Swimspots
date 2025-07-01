@@ -1,0 +1,29 @@
+{
+  "id": 1328,
+  "address": "Populierenlaan, Emmercompascuum",
+  "placename": "Emmercompascuum",
+  "description": "De zwemlocatie Recreatievijver is gelegen te Emmer-Compascu\u00fcm. De badzone van de zwemlocatie is gelegen in een kom aan de noordzijde van een grotere plas. Het aangrenzende strand heeft een lengte van ca. 50m en is ca. 25 breed.",
+  "photos": "Recreatiezone_Emmer_Compascuum.jpg",
+  "website": null,
+  "alternate_name": "Recreatievijver",
+  "name": "Recreatievijver",
+  "current_status": "goed",
+  "lat": 52.8062,
+  "lon": 7.0373,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943916,
+    5943891,
+    5943898,
+    5943895,
+    5943896,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

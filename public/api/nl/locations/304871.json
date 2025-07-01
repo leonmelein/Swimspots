@@ -1,0 +1,29 @@
+{
+  "id": 304871,
+  "address": "Watermolenpad, Haarlem",
+  "placename": "Haarlem",
+  "description": "De Molenplas maakt deel uit van het boezemstelsel van Rijnland.  Het totale wateroppervlak van de Molenplas bedraagt ongeveer 21 hectare. De gemiddelde diepte bedraagt 6 meter.",
+  "photos": "Molenplas.PNG",
+  "website": null,
+  "alternate_name": "Molenplas",
+  "name": "Molenplas, Haarlem",
+  "current_status": "goed",
+  "lat": 52.3454,
+  "lon": 4.6558,
+  "eu_designation": "2",
+  "e_coli": 390.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943892,
+    5943930,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

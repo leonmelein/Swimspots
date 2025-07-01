@@ -1,0 +1,32 @@
+{
+  "id": 1517,
+  "address": "Muidenweg, Wolphaartsdijk",
+  "placename": "Wolphaartsdijk",
+  "description": "De locatie Wolphaartsdijk Schelphoek Badstrand is gelegen aan het oostelijke deel van het Veerse \r\nMeer, ten zuiden van Kortgene en ten noorden van Wolphaartsdijk. Het betreft een zoutwater locatie. \r\nTen westen van de zwemlocatie liggen de Middelplaten, een natuurgebied van Natuurmonumenten. \r\nTen oosten van de locatie ligt recreatiepark De Schelphoek.  \r\nDe zwemlocatie bestaat uit een langgerekt smal zandstrand en grotere ligweiden er om heen.",
+  "photos": "Wolphaartsdijk Schelphoek badstrand (2).JPG",
+  "website": null,
+  "alternate_name": "Wolphaartsdijk Schelphoek",
+  "name": "Wolphaartsdijk Schelphoek Badstrand",
+  "current_status": "goed",
+  "lat": 51.5425,
+  "lon": 3.7993,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943919,
+    5943920,
+    5943921,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902
+  ],
+  "warnings": []
+}

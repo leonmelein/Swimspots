@@ -1,0 +1,32 @@
+{
+  "id": 1288,
+  "address": "Weelsedijk, Reusel-De Mierden",
+  "placename": "Reusel-De Mierden",
+  "description": "De zwemplas Spartelvijver is gelegen te Hooge en Lage Mierde in de gemeente Reusel \u2013 De \r\nMierden.",
+  "photos": "NB-035-001 Spartelvijver.jpg",
+  "website": "http://www.spartelvijver.nl/",
+  "alternate_name": "Spartelvijver",
+  "name": "Spartelvijver",
+  "current_status": "goed",
+  "lat": 51.3978,
+  "lon": 5.1182,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943915,
+    5943916,
+    5943917,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1339,
+  "address": "Beetserweg, Sellingen",
+  "placename": "Sellingen",
+  "description": "De zwemlocatie Barkhoornplas is gelegen te Sellingen. Sellingen is een dorp in de gemeente \r\nVlagtwedde in de streek Westerwolde aan de Ruiten Aa. De Barkhoornplas is een ge\u00efsoleerde plas. De plas maakt onderdeel uit van natuurlijk campingpark \u201cDe \r\nBarkhoorn\u201d.",
+  "photos": "GR-003-001 Recreatiezone Barkhoornplas.jpg",
+  "website": null,
+  "alternate_name": "De Barkhoorn",
+  "name": "De Barkhoorn, Sellingen",
+  "current_status": "goed",
+  "lat": 52.9459,
+  "lon": 7.1279,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 270.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

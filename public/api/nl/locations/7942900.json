@@ -1,0 +1,22 @@
+{
+  "id": 7942900,
+  "address": "Schepersweg 10 A, Oost-, West- en Middelbeers",
+  "placename": "Oost-, West- en Middelbeers",
+  "description": "zwemplas vanaf 2023",
+  "photos": null,
+  "website": "https://www.rakelbos.nl",
+  "alternate_name": "Rakelbos",
+  "name": "Rakelbos",
+  "current_status": "goed",
+  "lat": 51.4518,
+  "lon": 5.211,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943929,
+    5943892,
+    5943911
+  ],
+  "warnings": []
+}

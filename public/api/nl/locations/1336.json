@@ -1,0 +1,27 @@
+{
+  "id": 1336,
+  "address": "Bourtangekanaal-Noord, Bourtange",
+  "placename": "Bourtange",
+  "description": "De zwemlocatie Plathuis is gelegen te Bourtange. De zwemlocatie Plathuis is een onderdeel van camping \u2019t Plathuis. Het is een \r\nkleine ge\u00efsoleerde, kunstmatig aangelegde plas. De plas wordt voor de helft omgeven door een \r\nbosrand, terwijl de andere helft bestaat uit een strand. Aangrenzend aan het strand ligt een \r\nzonneweide met speeltoestellen en een camping.",
+  "photos": "GR-025-001 Recreatiezone 't Plathuis.jpg",
+  "website": null,
+  "alternate_name": "Camping Plathuis",
+  "name": "Camping Plathuis, Bourtange",
+  "current_status": "goed",
+  "lat": 53.0091,
+  "lon": 7.1833,
+  "eu_designation": "1",
+  "e_coli": 272.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943897,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943900
+  ],
+  "warnings": []
+}

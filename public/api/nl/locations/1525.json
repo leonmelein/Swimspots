@@ -1,0 +1,25 @@
+{
+  "id": 1525,
+  "address": "De Weerd 1, Roermond",
+  "placename": "Roermond",
+  "description": "Zwemlocatie Camping Maasparcje/Velmans//Van Ass/Hermans ligt in Midden-Limburg in de gemeente Roermond. De \r\nzwemlocatie ligt ongeveer 1,5 km ten noordwesten van de stad Roermond aan de Maasplas \r\nDouvesbeemd. Het is een kleine plas in het westelijke winterbed van de Maas. \r\nDe locatie ligt ten westen van Roermond en ten oosten van de kern Horn. De locatie is omgeven door \r\nweilanden, houtwallen en vier campingterreinen.",
+  "photos": "Camping Barten.JPG",
+  "website": null,
+  "alternate_name": "Recreatiestrand Camping Velmans/Maasparcje/Van Ass/Hermans",
+  "name": "Recreatiestrand Camping Velmans/Maasparcje/Van Ass/Hermans",
+  "current_status": "goed",
+  "lat": 51.2083,
+  "lon": 5.9766,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943898,
+    5943927,
+    5943930
+  ],
+  "warnings": []
+}

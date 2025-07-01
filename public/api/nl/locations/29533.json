@@ -1,0 +1,31 @@
+{
+  "id": 29533,
+  "address": "Baksevenweg, Oisterwijk",
+  "placename": "Oisterwijk",
+  "description": "Zwemplas Het Baksche Ven is gelegen zuidelijk van Berkel-Enschot tussen Tilburg en Moerge-\r\nstel. Direct zuidelijk van de locatie is de autosnelweg A58 gesitueerd. Verder is de zwemplas \r\ngelegen in de bossen.",
+  "photos": "NB-049-001 Baksche Ven.jpg",
+  "website": "http://www.hetbakscheven.nl/",
+  "alternate_name": "Het Baksche Ven",
+  "name": "Het Baksche Ven",
+  "current_status": "goed",
+  "lat": 51.5525,
+  "lon": 5.1412,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943915,
+    5943917,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943899,
+    5943902
+  ],
+  "warnings": []
+}

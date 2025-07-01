@@ -1,0 +1,26 @@
+{
+  "id": 1383,
+  "address": "Meerweg, Hoornsedijk",
+  "placename": "Hoornsedijk",
+  "description": "De zwemlocatie de Lijte is gelegen aan het Paterswoldsemeer. De locatie heeft een klein zandstrand en een ligweide.",
+  "photos": "GR-017-001 Recreatiezone Lijte.jpg",
+  "website": null,
+  "alternate_name": "Paterswoldsemeer, De Lijte",
+  "name": "Paterswoldsemeer, De Lijte",
+  "current_status": "goed",
+  "lat": 53.1634,
+  "lon": 6.5773,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943892,
+    5943927
+  ],
+  "warnings": []
+}

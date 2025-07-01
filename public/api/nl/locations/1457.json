@@ -1,0 +1,32 @@
+{
+  "id": 1457,
+  "address": "Badweg Hoorn, Hoorn (nabij srandpaviljoen Kaap Hoorn), Terschelling",
+  "placename": "Terschelling",
+  "description": "De badstranden Hoorn, Formerum en Oosterend liggen midden op het eiland Terschelling aan de Noordzee",
+  "photos": "FR-003-001 Badstrand  Hoorn Terschelling.jpg",
+  "website": null,
+  "alternate_name": "Badstrand Hoorn",
+  "name": "Badstrand Hoorn",
+  "current_status": "goed",
+  "lat": 53.42,
+  "lon": 5.3473,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943913,
+    5943914,
+    5943890,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943900,
+    5943903
+  ],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1419,
+  "address": "Elfde Wijk, Rheezerveen",
+  "placename": "Rheezerveen",
+  "description": "De zwemplas Het Stoetenslagh is een ge\u00efsoleerde plas die voornamelijk gevoed wordt door grondwater. De plas bevindt zich op het terrein van camping Het Stoetenslagh en is alleen toegankelijk voor campinggasten.\r\nHet zandstrand is rondom vrijwel de hele plas gesitueerd. De oevers zijn, op een klein stukje na, niet begroeid. In totaal heeft de plas een oppervlakte van ongeveer 19.745 m2.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Stoetenslagh",
+  "name": "Vakantiepark Het Stoetenslagh",
+  "current_status": "goed",
+  "lat": 52.5862,
+  "lon": 6.5332,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943915,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943928,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

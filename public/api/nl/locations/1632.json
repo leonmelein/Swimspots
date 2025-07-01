@@ -1,0 +1,23 @@
+{
+  "id": 1632,
+  "address": "Hitsertsekade, Zuid-Beijerland",
+  "placename": "Zuid-Beijerland",
+  "description": "De zwemwaterlocatie bevindt zich in de provincie Zuid-Holland. De Hitsertsekade is gelegen in de \r\ngemeente Zuid-Beijerland, aan de rivier Hiltsertsche- of Vuile Gat. De zwemwaterlocatie is omgeven \r\ndoor landbouwpercelen en een jachthaven.",
+  "photos": "02f Hitsertsekade Zuid-Beijerland_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Hitsertsekade Zuid-Beijerland",
+  "name": "Hitsertsekade Zuid-Beijerland",
+  "current_status": "goed",
+  "lat": 51.7364,
+  "lon": 4.3681,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943898,
+    5943907,
+    5943930,
+    5943927
+  ],
+  "warnings": []
+}

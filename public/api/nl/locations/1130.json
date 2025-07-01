@@ -1,0 +1,36 @@
+{
+  "id": 1130,
+  "address": "De Zuiderlaaik, Oostzaan",
+  "placename": "Oostzaan",
+  "description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend\r\n\r\nRecreatiegebied Het Twiske ligt ten noorden van Amsterdam tussen Den Ilp, Landsmeer en Oostzaan. Het bestaat uit diverse plassen, sloten, weilanden en bosjes en is omgeven door een dijk met fiets- en wandelpad. Het Doesstrand aan de Zuiderplas is \u00e9\u00e9n van de zeven offici\u00eble zwemlocaties in het gebied.",
+  "photos": "Het Twiske Doesstrand.PNG",
+  "website": "http://www.hettwiske.nl",
+  "alternate_name": "Doesstrand",
+  "name": "Het Twiske; Doesstrand",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.4383,
+  "lon": 4.8937,
+  "eu_designation": "4",
+  "e_coli": 127.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse Slecht en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij de 4-jaars waterkwaliteitsklasse Slecht is de kans op maag- of darmklachten groter dan bij Uitstekend"
+    }
+  ]
+}

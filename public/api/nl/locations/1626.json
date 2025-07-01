@@ -1,0 +1,24 @@
+{
+  "id": 1626,
+  "address": "Haringvlietbrug, Comstrijen",
+  "placename": "Comstrijen",
+  "description": "Het strand aan de noordoostkant van de Haringvlietbrug ligt in een hoek, met aan de westkant de A29 naar de Haringvlietbrug en aan de noordkant de Westersche Bekade Gorzen. Het strand wordt begrensd met een bosrand en een sloot achter de dijk, die de afscheiding vormen met het golfterrein daarachter.",
+  "photos": "03a Haringvlietbrug Oost.jpg",
+  "website": null,
+  "alternate_name": "Haringvlietbrug Oost",
+  "name": "Haringvlietbrug Oost",
+  "current_status": "goed",
+  "lat": 51.7219,
+  "lon": 4.407,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943923,
+    5943892,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1261,
+  "address": "Vier Heultjes, Waalwijk",
+  "placename": "Waalwijk",
+  "description": "De locatie ligt aan een recreatiepark. Slechts een klein deel is ingericht als zwemstrand dat vrij toegankelijk is.",
+  "photos": "NB-057-001 De Spranckelaer.jpg",
+  "website": "http://www.spranckelaer.nl/",
+  "alternate_name": "Hof Van Capelle",
+  "name": "Hof Van Capelle",
+  "current_status": "goed",
+  "lat": 51.693,
+  "lon": 4.9913,
+  "eu_designation": "2",
+  "e_coli": 680.0,
+  "int_ent": 120.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943891,
+    5943892,
+    5943930
+  ],
+  "warnings": []
+}

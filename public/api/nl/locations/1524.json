@@ -1,0 +1,41 @@
+{
+  "id": 1524,
+  "address": "Dijk 3, Ohe en Laak",
+  "placename": "Ohe en Laak",
+  "description": "Het dagstrand de Maasterp (Dilkensplas) ligt in het oostelijk winterbed van de Maas in de plaats Oh\u00e9 en Laak. Oh\u00e9 en Laak ligt samen met Stevensweert op het \u201cEiland in de Maas\u201d op de grens tussen Belgi\u00eb en Nederland. Het dagstrand ligt ten westen van de kern Oh\u00e9 en Laak en is niet vrij toegankelijk. Het zwemwater Dilkensplas wordt in het westen begrensd door de Maas. In het zuiden en westen van de plas staan veel bomen en struiken op de oever. In het oosten ligt de camping De Maasterp. In het zuidoosten is een jachthaven aanwezig. De Dilkensplas heeft een oppervlak van ca. 15 ha. De zwemzone is circa 0,55 ha groot. Er is geen toezicht op de zwemmers aanwezig. ",
+  "photos": "De Maasterp (Dilkensplas).JPG",
+  "website": "http://www.eldoradoparken.nl/maasterp/index.htm",
+  "alternate_name": "Dilkensplas",
+  "name": "Dilkensplas",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.111,
+  "lon": 5.8175,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943927,
+    5943911,
+    5943916,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943893,
+    5943926,
+    5943895,
+    5943898,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
+    }
+  ]
+}

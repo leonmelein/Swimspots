@@ -1,0 +1,23 @@
+{
+  "id": 1005,
+  "address": "Hexelseweg, Hoge Hexel",
+  "placename": "Hoge Hexel",
+  "description": "Besloten gesitueerde zwemplas voor gasten van Recreatiepark de Tolplas",
+  "photos": null,
+  "website": null,
+  "alternate_name": "De Tolplas",
+  "name": "Recreatiepark De Tolplas",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.415,
+  "lon": 6.5609,
+  "eu_designation": "4",
+  "e_coli": 215.0,
+  "int_ent": 77.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": "Deze zwemwaterlocatie is ingedeeld in de 4-jaars waterkwaliteitsklasse SLECHT en heeft daardoor een negatief zwemadvies. Dit gaat NIET over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hierboven en ter plaatse aangegeven. Het kan dus zijn dat er voor deze zwemwaterlocatie twee maatregelen gelden. Bij een zwemwaterlocatie met de 4-jaars waterkwaliteitsklasse SLECHT is de kans op maag- of darmklachten groter dan bij UITSTEKEND."
+    }
+  ]
+}

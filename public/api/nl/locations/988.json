@@ -1,0 +1,32 @@
+{
+  "id": 988,
+  "address": "Atalanta, Wolvega",
+  "placename": "Wolvega",
+  "description": "Zwemvijver De Vlinderslag beslaat ongeveer 1,5 hectare en ligt ingeklemd tussen de rijksweg A32, het Van der Valk Hotel Wolvega-Heerenveen en de nieuwbouwwijk Lindewijk. De zwemlocatie ligt in de gemeente Weststellingwerf.",
+  "photos": "FR-049-001 De Vlinderslag.jpg",
+  "website": null,
+  "alternate_name": "De Vlinderslag",
+  "name": "De Vlinderslag",
+  "current_status": "goed",
+  "lat": 52.8782,
+  "lon": 6.0215,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943927,
+    5943913,
+    5943891,
+    5943892,
+    5943898,
+    5943895,
+    5943929,
+    5943930,
+    5943900,
+    5943902
+  ],
+  "warnings": []
+}

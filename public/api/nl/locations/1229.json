@@ -1,0 +1,20 @@
+{
+  "id": 1229,
+  "address": "Rossenburgpad, Hendrik-Ido-Ambacht",
+  "placename": "Hendrik-Ido-Ambacht",
+  "description": "In het gebied Sandelingen Ambacht is momenteel een recreatieplas in een \r\ngebied met natuurwaarde gecre\u00eberd. Dit gebied ligt ingesloten tussen de ge-\r\nmeente Hendrik Ido Ambacht, de snelweg A16 en de Waal.",
+  "photos": "66 Sandelingen-Ambacht v3 (002)_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Sandelingen Ambacht",
+  "name": "Sandelingen Ambacht",
+  "current_status": "goed",
+  "lat": 51.8459,
+  "lon": 4.6191,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907
+  ],
+  "warnings": []
+}

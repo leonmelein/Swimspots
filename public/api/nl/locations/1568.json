@@ -1,0 +1,29 @@
+{
+  "id": 1568,
+  "address": "Schellinghouterdijk, Hoorn",
+  "placename": "Hoorn",
+  "description": "Schellinkhouterdijk ligt ten zuiden van Hoorn in een baai. Het zwemstrand, dat wordt omringd door ligweiden en bomen, maakt deel uit van het Julianapark.",
+  "photos": "Schellinkhouterdijk.PNG",
+  "website": null,
+  "alternate_name": "Schellinkhouterdijk",
+  "name": "Schellinkhouterdijk",
+  "current_status": "goed",
+  "lat": 52.6409,
+  "lon": 5.077,
+  "eu_designation": "3",
+  "e_coli": 390.0,
+  "int_ent": 45.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

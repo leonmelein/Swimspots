@@ -1,0 +1,26 @@
+{
+  "id": 1146,
+  "address": "Rietpolderweg, Leidschendam",
+  "placename": "Leidschendam",
+  "description": "De recreatieplas Vlietland ligt ten zuidoosten van Voorschoten. De recreatieplas Vlietland is een diepe zandwinput bestaande uit twee plassen die in open verbinding staan met de boezem. Het totale open wateroppervlak van Vlietland bedraagt zo'n 370 ha, het centrale hart (noordelijke deel) van Vlietland waar de meeste zwemwateractiviteiten plaatsvinden bedraagt circa 130 hectare.",
+  "photos": "16_Vlietland_Speelvijver.jpg",
+  "website": null,
+  "alternate_name": "Vlietland Speelvijver",
+  "name": "Vlietland Speelvijver",
+  "current_status": "goed",
+  "lat": 52.1208,
+  "lon": 4.4681,
+  "eu_designation": "1",
+  "e_coli": 45.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": []
+}

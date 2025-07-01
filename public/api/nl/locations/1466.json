@@ -1,0 +1,29 @@
+{
+  "id": 1466,
+  "address": "Europaweg Zuid, Borssele",
+  "placename": "Borssele",
+  "description": "Het badstrand ligt aan de Westerschelde ter hoogte van het havengebied Vlissingen Oost.  De locatie ligt naast de koelwateruitlaat van de kerncentrale Borssele.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Strand Borssele /  De Kaloot",
+  "name": "Borssele Badstrand",
+  "current_status": "goed",
+  "lat": 51.4404,
+  "lon": 3.6937,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

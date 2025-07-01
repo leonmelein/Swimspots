@@ -1,0 +1,33 @@
+{
+  "id": 1180,
+  "address": "Genieweg, Velsen",
+  "placename": "Velsen",
+  "description": "De zwemplas voor naaktrecreatie ligt in het recreatieschap Spaarnwoude. Het is een kleine vijver (ongeveer 60 meter breed en 120 meter lang), die in open verbinding staat met de rondom gelegen sloten. Aan de noordoost- en de zuidwestkant zijn zwemstrandjes aangelegd.",
+  "photos": "Naaktrecreatie Spaarnwoude.PNG",
+  "website": null,
+  "alternate_name": "Naaktrecreatie, Spaarnwoude",
+  "name": "Naaktrecreatie, Spaarnwoude",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 52.4267,
+  "lon": 4.6862,
+  "eu_designation": "2",
+  "e_coli": 30.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943912,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7532190,
+  "address": "Flaasdijk 1, CHAAM",
+  "placename": "CHAAM",
+  "description": "De zwemlocatie \u2019t Smokkelstrand ligt ten zuidoosten van de kern Chaam in de gemeente Alphen-Chaam, in\r\nNoord-Brabant aan de Belgische grens. De zwemlocatie van circa 2 hectare ligt op het terrein van RCN\r\nVakantiepark de Flaasbloem. De zwemplas en het vakantiepark worden beheert door RCN Vakantieparken.",
+  "photos": null,
+  "website": "https://www.rcn.nl/nl/vakantieparken/nederland/brabant/rcn-de-flaasbloem",
+  "alternate_name": "Smokkelstrand",
+  "name": "Smokkelstrand De Flaasbloem",
+  "current_status": "goed",
+  "lat": 51.4892,
+  "lon": 4.8962,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943922,
+    5943892,
+    5943927,
+    5943928,
+    5943897,
+    5943930,
+    5943900
+  ],
+  "warnings": []
+}

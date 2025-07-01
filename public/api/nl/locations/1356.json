@@ -1,0 +1,28 @@
+{
+  "id": 1356,
+  "address": "Strandweg, Meerwijck",
+  "placename": "Meerwijck",
+  "description": "De zwemlocatie Zuidlaardermeer is gelegen bij Meerwijck. Meerwijck is een dorp in de gemeente \r\nHoogezand, in de provincie Groningen. Het dorp ligt tussen Zuidlaren en Hoogezand.",
+  "photos": "GR-040-002 Recreatiezone Zuidlaardermeer Meerwijck 1.jpg",
+  "website": null,
+  "alternate_name": "Zuidlaardermeer",
+  "name": "Zuidlaardermeer, Meerwijck",
+  "current_status": "goed",
+  "lat": 53.1451,
+  "lon": 6.6938,
+  "eu_designation": "3",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

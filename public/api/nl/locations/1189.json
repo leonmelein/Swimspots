@@ -1,0 +1,31 @@
+{
+  "id": 1189,
+  "address": "Bloementuin, Houten",
+  "placename": "Houten",
+  "description": "De Rietplas is een recreatieplas met park, aangelegd met stranden, speelruimte, vissteigers en natuurzones. Middenin het dichtbebouwde gebied kunnen bewoners genieten van vergezichten over het water en zijn recreatiemogelijkheden zoals o.a. zwemmen aanwezig.",
+  "photos": "PU-011-001 Rietplas Strand.jpg",
+  "website": "http://houten.nl",
+  "alternate_name": "Rietplas",
+  "name": "Rietplas, Strand",
+  "current_status": "goed",
+  "lat": 52.0223,
+  "lon": 5.1888,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943916,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

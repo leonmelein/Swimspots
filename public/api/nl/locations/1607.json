@@ -1,0 +1,31 @@
+{
+  "id": 1607,
+  "address": "Strandpad, Giesbeek",
+  "placename": "Giesbeek",
+  "description": "De zwemwaterlocatie Rhederlaag Giese Kop is \u00e9\u00e9n van de vier offici\u00eble zwemwaterlocaties in het\r\nrecreatiegebied Rhederlaag, dat een grote zandwinningsplas beslaat. Het gehele terrein beslaat meer\r\ndan 500 hectare, waarvan 350 hectare water is, en ligt geheel buitendijks.",
+  "photos": "GLD-051-010 RHEDERLAAG GIESE KOP 2023.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "Rhederlaag Giese Kop",
+  "name": "Rhederlaag Giese Kop",
+  "current_status": "goed",
+  "lat": 51.9915,
+  "lon": 6.0549,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943892,
+    5943893,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1455,
+  "address": "Westerzeedijk, Harlingen",
+  "placename": "Harlingen",
+  "description": "Zwemlocatie Harlingerstrand ligt aan de Waddenzee. Het strand van Harlingen ligt tegen de Westerzeedijk aan. De lengte en breedte van het strand zijn afhankelijk van het getij. Bij eb is het strand gemiddeld ongeveer 50 m breed en heeft een lengte van ongeveer 375 meter.",
+  "photos": "FR-021-001 Strand Harlingen.jpg",
+  "website": null,
+  "alternate_name": "Harlingerstrand",
+  "name": "Harlingerstrand",
+  "current_status": "goed",
+  "lat": 53.1669,
+  "lon": 5.4137,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943909,
+    5943913,
+    5943897,
+    5943890,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943903
+  ],
+  "warnings": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1085,
+  "address": "Valburgdreef, Gaasperdam",
+  "placename": "Gaasperdam",
+  "description": "De zwemlocatie ligt aan de zuidzijde van de Gaasperplas, er is een breed strand en een ligweide.",
+  "photos": "Schermafbeelding gaasperplas.png",
+  "website": null,
+  "alternate_name": "Strand Zuidoever",
+  "name": "Strand Zuidoever, Gaasperplas",
+  "current_status": "goed",
+  "lat": 52.3036,
+  "lon": 4.9962,
+  "eu_designation": "2",
+  "e_coli": 179.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943897,
+    5943891,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1133,
+  "address": "Luijendijkje, Den Ilp",
+  "placename": "Den Ilp",
+  "description": "Het recreatiegebied Het Twiske ligt ten noorden van Amsterdam tussen Den Ilp, Landsmeer en Oostzaan. \r\nHet bestaat uit diverse plassen, sloten, weilanden en bosjes en is omgeven door een dijk met fiets- en \r\nwandelpad. Speelsloot, aan de Slotersplas, is een van de zeven offici\u00eble zwemlocaties in het gebied.",
+  "photos": "Het Twiske Speelsloot.PNG",
+  "website": null,
+  "alternate_name": "Speelsloot",
+  "name": "Het Twiske Speelsloot",
+  "current_status": "goed",
+  "lat": 52.4613,
+  "lon": 4.898,
+  "eu_designation": "3",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943916,
+    5943891,
+    5943893,
+    5943930,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

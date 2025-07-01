@@ -1,0 +1,32 @@
+{
+  "id": 1382,
+  "address": "Veenweg, Groningen",
+  "placename": "Groningen",
+  "description": "De zwemlocatie is gelegen aan de Hoornseplas. De Hoornseplas ligt ten zuiden van de stad \r\nGroningen en ten westen van de Rijksweg A28. Direct naast de Hoornseplas liggen nog twee meren, genaamd het Hoornsemeer en het \r\nPaterswoldsemeer. Door middel van een dam, de Nijdam, is de Hoornseplas afgescheiden van \r\ndeze twee meren.  Honden zijn alleen inde periode oktober t/m april toegestaan.",
+  "photos": "GR-010-003 Recreatiezone Hoornseplas 3.jpg",
+  "website": null,
+  "alternate_name": "Hoornseplas",
+  "name": "Hoornseplas, Groningen",
+  "current_status": "goed",
+  "lat": 53.178,
+  "lon": 6.5508,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943915,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

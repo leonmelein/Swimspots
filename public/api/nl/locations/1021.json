@@ -1,0 +1,18 @@
+{
+  "id": 1021,
+  "address": "Wittebergweg, Oud Ootmarsum",
+  "placename": "Oud Ootmarsum",
+  "description": "Besloten gesitueerde zwemplas voor gasten van Recreatiecentrum De Witte Berg",
+  "photos": null,
+  "website": null,
+  "alternate_name": "De Witte Berg",
+  "name": "Recreatiecentrum De Witte Berg",
+  "current_status": "goed",
+  "lat": 52.4226,
+  "lon": 6.8928,
+  "eu_designation": "3",
+  "e_coli": 588.0,
+  "int_ent": 30.0,
+  "amenities": [],
+  "warnings": []
+}

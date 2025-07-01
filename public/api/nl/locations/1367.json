@@ -1,0 +1,26 @@
+{
+  "id": 1367,
+  "address": "Hoofdweg, Harkstede",
+  "placename": "Harkstede",
+  "description": "De zwemlocatie Grunostrand is gelegen te Harkstede. Aan de oostzijde van de plas zijn 2 zwemstranden gelegen. De meest \r\nnoordelijke is gelegen op de camping. Op deze locatie wordt de kontrole van de waterkwaliteit uitgevoerd.",
+  "photos": "GR-008-001 Recreatiezone Grunostrand.jpg",
+  "website": null,
+  "alternate_name": "Grunostrand",
+  "name": "Grunostrand Harkstede, Startplatform Waterskibaan",
+  "current_status": "goed",
+  "lat": 53.2131,
+  "lon": 6.6614,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

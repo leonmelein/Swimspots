@@ -1,0 +1,26 @@
+{
+  "id": 1353,
+  "address": "Vijverlaan, Oude Pekela",
+  "placename": "Oude Pekela",
+  "description": "Zwemlocatie Plan Zuid is gelegen in Oude Pekela.De zwemlocatie bestaat uit 2 strandjes. Het strand aan de noordzijde van de locatie heeft een lengte van ca. 75m x ca. 11m. Het strand aan de zuidzijde van de locatie heeft een lengte van ca. 42m x ca. 11m.",
+  "photos": "GR-024-001 Recreatiezone Plan Zuid.jpg",
+  "website": null,
+  "alternate_name": "Plan Zuid  Pekela",
+  "name": "Plan Zuid, Oude Pekela",
+  "current_status": "goed",
+  "lat": 53.0957,
+  "lon": 7.0036,
+  "eu_designation": "2",
+  "e_coli": 253.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943911,
+    5943913,
+    5943892,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

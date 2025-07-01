@@ -1,0 +1,32 @@
+{
+  "id": 1484,
+  "address": "Katseveerweg, Goes",
+  "placename": "Goes",
+  "description": "De locatie Katse Veer Badstrand is gelegen in de Oosterschelde aan de oostzijde van de Zandkreekdam ten noorden van Goes. De zwemlocatie bestaat uit een zandstrand, dat begrensd wordt door duinflora.",
+  "photos": "Katse veer badstrand.JPG",
+  "website": null,
+  "alternate_name": "Strand Katse Veer",
+  "name": "Katse Veer Badstrand",
+  "current_status": "goed",
+  "lat": 51.5409,
+  "lon": 3.8686,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943897,
+    5943890,
+    5943891,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943898,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

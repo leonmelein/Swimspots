@@ -1,0 +1,27 @@
+{
+  "id": 1667,
+  "address": "Zwarte Pad, Den Haag",
+  "placename": "Den Haag",
+  "description": "De zwemlocatie Scheveningen Zwarte pad is een locatie aan de Noordzee. De locatie ligt direct ten noorden van de zwemlocatie Badstrand van Scheveningen. De twee zwemlocaties worden van elkaar gescheiden door de Scheveningse Pier.",
+  "photos": "01f 32-34 Den Haag Zwarte Pad_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Zwarte Pad",
+  "name": "Scheveningen Zwarte Pad",
+  "current_status": "goed",
+  "lat": 52.1229,
+  "lon": 4.2929,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943893,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

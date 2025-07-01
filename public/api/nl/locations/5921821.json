@@ -1,0 +1,26 @@
+{
+  "id": 5921821,
+  "address": "Hoge Dijkseweg 40, Kesteren",
+  "placename": "Kesteren",
+  "description": "Zwemplas op capming",
+  "photos": "GLD-064-001_2015_CAMPING BETUWE_BORD.jpg",
+  "website": "http://www.campingbetuwe.nl",
+  "alternate_name": "Camping Betuwe",
+  "name": "Camping Betuwe",
+  "current_status": "goed",
+  "lat": 51.9385,
+  "lon": 5.5425,
+  "eu_designation": "1",
+  "e_coli": 94.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943915,
+    5943916,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

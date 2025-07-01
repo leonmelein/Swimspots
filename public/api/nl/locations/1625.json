@@ -1,0 +1,25 @@
+{
+  "id": 1625,
+  "address": "Havenkade, Korendijk",
+  "placename": "Korendijk",
+  "description": "Het strand Goudswaard (ook \u201cCosta del Spui\u201c genoemd) ligt ten noorden van Goudswaard aan de \r\nzuidzijde van het Spui. Het Spui in Zuid-Holland is een verbindende rivier tussen de Oude Maas en \r\nhet Haringvliet. Er is op deze locatie een gevaarlijke stroming en er wordt geadviseerd niet verder dan kniediepte het water in te gaan.",
+  "photos": "62_Spui_Goudswaard 2017 def.jpg",
+  "website": null,
+  "alternate_name": "Spui Goudswaard",
+  "name": "Spui Goudswaard",
+  "current_status": "goed",
+  "lat": 51.8034,
+  "lon": 4.28,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1371,
+  "address": "Zuiderweg, Midwolda",
+  "placename": "Midwolda",
+  "description": "Recreatieplas \u201cDe Bouwte\u201d is gelegen te Midwolda. De plas \u201cDe Bouwte\u201d is onderdeel van de camping \u201cDe Bouwte\u201d. De gehele plas wordt gerekend tot de badzone",
+  "photos": "GR-005-001 Recreatiezone Bouwte.jpg",
+  "website": null,
+  "alternate_name": "De Bouwte",
+  "name": "De Bouwte, Midwolda",
+  "current_status": "goed",
+  "lat": 53.1892,
+  "lon": 6.9915,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943900
+  ],
+  "warnings": []
+}

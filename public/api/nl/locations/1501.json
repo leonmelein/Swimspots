@@ -1,0 +1,29 @@
+{
+  "id": 1501,
+  "address": "Muidenweg, Middelburg",
+  "placename": "Middelburg",
+  "description": "De zwemwaterlocatie De Piet badstrand is gelegen aan de oostzijde van het Veerse Meer, ten oosten \r\nvan de stad Middelburg, ten westen van de stad Goes en ten noorden van de A58. Tegenover de \r\nzwemlocatie liggen in het meer de Bastiaan de Langeplaat, de Zandkreekplaat en de Spieringplaat.",
+  "photos": "De Piet badstrand (2).JPG",
+  "website": null,
+  "alternate_name": "De Piet",
+  "name": "De Piet Badstrand",
+  "current_status": "goed",
+  "lat": 51.53,
+  "lon": 3.7273,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943919,
+    5943920,
+    5943891,
+    5943892,
+    5943927,
+    5943931,
+    5943902
+  ],
+  "warnings": []
+}

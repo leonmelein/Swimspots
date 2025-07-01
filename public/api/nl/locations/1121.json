@@ -1,0 +1,26 @@
+{
+  "id": 1121,
+  "address": "Reiger, Langedijk",
+  "placename": "Langedijk",
+  "description": "De Noorderplas ligt in de gemeente Dijk en Waard. Van oorsprong was het een gebied met talloze eilandjes. Het wordt ook wel het \u2018Rijk der duizend eilanden\u2019 of Oosterdelgebied genoemd. Momenteel zijn twee  delen te onderscheiden. Het noordelijke deel, \r\nwaarin de Noorderplas is gelegen, en het zuidelijke  deel, dat de Zuiderplas bevat. Dit deel is een reservaat.",
+  "photos": "Noorderplas.PNG",
+  "website": null,
+  "alternate_name": "Noorderplas",
+  "name": "Noorderplas",
+  "current_status": "goed",
+  "lat": 52.6873,
+  "lon": 4.8187,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943915,
+    5943916,
+    5943891,
+    5943892,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

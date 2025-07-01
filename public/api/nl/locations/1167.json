@@ -1,0 +1,28 @@
+{
+  "id": 1167,
+  "address": "Zuideinde, Zuidhoek",
+  "placename": "Zuidhoek",
+  "description": "De Nieuwkoopse Plassen liggen ten noorden van Bodegraven in de polder \"Nieuwkoop en Noorden\". De Nieuwkoopse Plassen bestaan uit de Zuideinderplas, de Noordeinderplas, het petgatengebied en de Meijegraslanden (gelegen tussen de Meije en de plassen). De zwemlocatie Meijepark ligt in de Zuideinderplas.",
+  "photos": "21 Nieuwkoopse Plassen Meijepark v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Meijepark",
+  "name": "Nieuwkoopse Plassen Meijepark",
+  "current_status": "goed",
+  "lat": 52.1309,
+  "lon": 4.7746,
+  "eu_designation": "3",
+  "e_coli": 130.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943913,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

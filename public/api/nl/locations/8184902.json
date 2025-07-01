@@ -1,0 +1,29 @@
+{
+  "id": 8184902,
+  "address": "Kneuterstraat, Wilp",
+  "placename": "Wilp",
+  "description": "De recreatieplas Bussloo ligt temidden van de stedendriehoek Deventer, Apeldoorn en Zutphen.",
+  "photos": "GLD-004-007 BUSSLOO GORSSELAAR 2020.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "'t Gorsselaar",
+  "name": "Bussloo 't Gorsselaar",
+  "current_status": "goed",
+  "lat": 52.2021,
+  "lon": 6.0963,
+  "eu_designation": 0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943913,
+    5943916,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

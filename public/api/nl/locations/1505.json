@@ -1,0 +1,28 @@
+{
+  "id": 1505,
+  "address": "nabij Barentsweg (Rammekenshoek), Ritthem",
+  "placename": "Ritthem",
+  "description": "Het badstrand Ritthem Fort Rammekens ligt aan de Westerschelde ten oosten van de stad Vlissingen \r\nen is gelegen nabij het natuurreservaat Rammekenshoek en het voormalige Fort Rammekens. Het \r\nstrand is te bereiken via de Rammekensweg en Schorenpolderweg.",
+  "photos": "Ritthem Fort Rammekens badstrand (2).jpg",
+  "website": "http://www.infovlissingen.nl/ritthem.htm",
+  "alternate_name": "Strand Rammekenshoek",
+  "name": "Strand Bij Slufter En Caisson Rammekenshoek",
+  "current_status": "goed",
+  "lat": 51.4487,
+  "lon": 3.646,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

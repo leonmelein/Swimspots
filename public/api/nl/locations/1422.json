@@ -1,0 +1,28 @@
+{
+  "id": 1422,
+  "address": "Valkenlaan, Westerhaar",
+  "placename": "Westerhaar",
+  "description": "Zwemplas De Vlegge is een ge\u00efsoleerde plas die wordt gevoed door een wel. Het strand is aan de noordzijde gesitueerd. De totale oppervlakte van de plas is \u00b1 95.000m2.",
+  "photos": null,
+  "website": "http://www.paviljoendevlegge.nl/",
+  "alternate_name": "Vlegge",
+  "name": "De Vlegge",
+  "current_status": "goed",
+  "lat": 52.4739,
+  "lon": 6.6277,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943917,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943930,
+    5943932
+  ],
+  "warnings": []
+}

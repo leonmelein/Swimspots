@@ -1,0 +1,23 @@
+{
+  "id": 7716690,
+  "address": "Tureluur, Bergen op Zoom",
+  "placename": "Bergen op Zoom",
+  "description": "zwemlocatie nader in te vullen",
+  "photos": null,
+  "website": "http://www.bergenopzoom.nl",
+  "alternate_name": "Tureluur",
+  "name": "De Tureluur",
+  "current_status": "WAARSCHUWING",
+  "lat": 51.4813,
+  "lon": 4.2624,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 200.0,
+  "amenities": [],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": "Waarschuwing i.v.m. blauwalgen"
+    }
+  ]
+}

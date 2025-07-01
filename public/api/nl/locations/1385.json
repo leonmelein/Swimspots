@@ -1,0 +1,33 @@
+{
+  "id": 1385,
+  "address": "Amerika 16, Een",
+  "placename": "Een",
+  "description": "De zwemlocatie is gelegen in het recreatiepark Ronostrand te Een in de gemeente Noordenveld.\r\nDe plas is in 1966 gegraven met als doelstelling zwemplas. Het terrein rondom plas is\r\ngrotendeels omzoomd door een houtwal. Aan de zuidkant wordt de recreatieplas begrensd door\r\nde camping en aan de westkant ligt de parkeerplaats. Het Ronostrand ligt in landelijk gebied. De\r\nomgeving van de plas en het recreatiepark is hoofdzakelijk in agrarisch gebruik.",
+  "photos": "Recreatiezone_Ronostrand.jpg",
+  "website": null,
+  "alternate_name": "Ronostrand",
+  "name": "Ronostrand",
+  "current_status": "goed",
+  "lat": 53.1001,
+  "lon": 6.3765,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943896,
+    5943929,
+    5943898,
+    5943900,
+    5943901,
+    5943902
+  ],
+  "warnings": []
+}

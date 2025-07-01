@@ -1,0 +1,32 @@
+{
+  "id": 1097,
+  "address": "De Meent, Breukelen",
+  "placename": "Breukelen",
+  "description": "Zwembad De Meent ligt ten oosten van Breukelen, te midden van het petgatengebied 'de Kievitsbuurt', dat grenst aan de Loosdrechtse plassen. Er zijn verschillende badzones voor kleuters tot 80 cm diepte en na de steiger een dieper gedeelte >250 cm met 2 duikplanken, een loopmat en een steiger.",
+  "photos": "PU-013-001 De Meent.jpg",
+  "website": "https://www.zwembaddemeent.nl",
+  "alternate_name": "De Meent",
+  "name": "De Meent",
+  "current_status": "goed",
+  "lat": 52.1739,
+  "lon": 5.0313,
+  "eu_designation": "2",
+  "e_coli": 61.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943895,
+    5943911,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1094,
+  "address": "Vuntuslaan, Loosdrecht",
+  "placename": "Loosdrecht",
+  "description": "De Vuntusplas ligt ten noorden van de Loosdrechtse Plassen. Het is een kleine plas met veel begroeiing en waterplanten, grenzend aan een natuurgebied. Het oppervlak van de plas is ongeveer 60 ha, de gemiddelde diepte is zo'n 1,5 meter.",
+  "photos": "Vuntusstrand (Loosdrechtse plassen).PNG",
+  "website": null,
+  "alternate_name": "Vuntusstrand",
+  "name": "Vuntusstrand",
+  "current_status": "goed",
+  "lat": 52.2088,
+  "lon": 5.0813,
+  "eu_designation": "2",
+  "e_coli": 124.0,
+  "int_ent": 77.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943913,
+    5943891,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

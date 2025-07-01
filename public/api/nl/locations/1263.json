@@ -1,0 +1,29 @@
+{
+  "id": 1263,
+  "address": "Marinaweg, Drimmelen",
+  "placename": "Drimmelen",
+  "description": "De zwemplas Biesbosch Marina is gelegen in de gemeente Drimmelen.",
+  "photos": "NB-018-001 Biesbosch Marina AANGEPAST.jpg",
+  "website": "http://www.biesboschmarinadrimmelen.nl/nl/home.lp",
+  "alternate_name": "Biesbosch Marina",
+  "name": "Biesbosch Marina, Badzone Strand",
+  "current_status": "goed",
+  "lat": 51.7057,
+  "lon": 4.8228,
+  "eu_designation": "1",
+  "e_coli": 480.0,
+  "int_ent": 330.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

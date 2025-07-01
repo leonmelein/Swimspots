@@ -1,0 +1,25 @@
+{
+  "id": 1329,
+  "address": "De Horst, Beerta",
+  "placename": "Beerta",
+  "description": "De zwemlocatie Beertsterplas is gelegen te Beerta. Beerta is een dorp behorende tot de \r\ngemeente Oldambt. De plas is gelegen \r\nin een natuur en recreatiegebied. Naast de zwemfunctie wordt de plas gebruikt als visvijver en \r\nduikgelegenheid.",
+  "photos": "GR-004-001 Recreatiezone Beersterplas.jpg",
+  "website": null,
+  "alternate_name": "Beersterplas",
+  "name": "Beersterplas, Beerta",
+  "current_status": "goed",
+  "lat": 53.1556,
+  "lon": 7.0939,
+  "eu_designation": "2",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943929
+  ],
+  "warnings": []
+}

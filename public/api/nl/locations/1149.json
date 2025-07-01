@@ -1,0 +1,26 @@
+{
+  "id": 1149,
+  "address": "Gemeentehaven, Warmond",
+  "placename": "Warmond",
+  "description": "'t Joppe is een zuidelijk gelegen plas welke deel uitmaakt van de Kagerplassen. Het is gelegen in de gemeente Teylingen (provincie Zuid-Holland) aan de oostzijde van Warmond. 't Joppe is ontstaan door zandwinning uit de Zwaneburgerpolder ten behoeve van de aanleg van wegen en woningbouw.\r\nHet strand 't Joppe Warmond is gelegen op het eiland Koudenhorn aan de westzijde van de plas, aangrenzend hieraan liggen speel- en ligweiden. Het strand wordt omsloten door recreatiegebied met extensief beheerd agrarisch gebied.",
+  "photos": "08 Kagerplassen t Joppe W-oever_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "'t Joppe W",
+  "name": "Kagerplassen 't Joppe Westoever",
+  "current_status": "goed",
+  "lat": 52.1942,
+  "lon": 4.5083,
+  "eu_designation": "1",
+  "e_coli": 77.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943929,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6506940,
+  "address": "Withagenweg, wilp",
+  "placename": "wilp",
+  "description": "De recreatieplas Bussloo ligt te midden van de stedendriehoek Deventer, Zutphen",
+  "photos": "GLD-004-014 BUSSLOO KINDERSTRAND 2022.jpg",
+  "website": null,
+  "alternate_name": "Bussloo Kinderstrand",
+  "name": "Bussloo Kinderstrand",
+  "current_status": "goed",
+  "lat": 52.1958,
+  "lon": 6.0942,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943917,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943902
+  ],
+  "warnings": []
+}

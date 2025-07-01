@@ -1,0 +1,32 @@
+{
+  "id": 302625,
+  "address": "Havenweg, Sint Annaland",
+  "placename": "Sint Annaland",
+  "description": "De zwemwaterlocatie Sint Annaland badstrand is gelegen aan de Krabbenkreek, een zijarm tussen de \r\nvoormalige eilanden Tholen en Sint Philipsland welke deel uit maakt van de Oosterschelde. Het strand \r\nis gelegen op het noordelijk deel van Tholen. Zuidelijk van de locatie is de kern Sint Annaland \r\ngelegen.",
+  "photos": "zwemwaterbord Sint Annaland.jpeg",
+  "website": null,
+  "alternate_name": "Strandje Sint Annaland",
+  "name": "Sint Annaland Badstrand",
+  "current_status": "goed",
+  "lat": 51.607,
+  "lon": 4.105,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943890,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898,
+    5943931,
+    5943932,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

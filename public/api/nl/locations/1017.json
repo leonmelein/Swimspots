@@ -1,0 +1,31 @@
+{
+  "id": 1017,
+  "address": "Jacobsrietweg, Enschede",
+  "placename": "Enschede",
+  "description": "Verspreid langs de noordwestelijke \r\noevers van Het Rutbeek zijn vijf verschillende stranden aangelegd, waarvan er \u00e9\u00e9n een \r\nnaturistenstrand is. De zuidelijke oever is vooral natuurlijk ingericht.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Het Rutbeek; Kiosk Strand Groen",
+  "name": "Het Rutbeek; Kiosk Strand Groen",
+  "current_status": "goed",
+  "lat": 52.1823,
+  "lon": 6.8419,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943916,
+    5943897,
+    5943892,
+    5943893,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1313,
+  "address": "Palmstraat 7, Schaijk",
+  "placename": "Schaijk",
+  "description": "De zwemplassen Maashorst Klein en Maashorst Groot liggen op het terrein van Recreatieoord de \r\nMaashorst, aan de noordkant van natuurgebied de Maashorst. Het recreatieoord ligt ten \r\nzuidwesten van Schaijk, ten zuiden van de N324. De plassen zijn te bereiken via de ingang van \r\nhet recreatieoord aan de Palmstraat.",
+  "photos": "NB-055-002 De Maashorst AANGEPAST.jpg",
+  "website": "http://www.campingdemaashorst.nl/",
+  "alternate_name": "De Maashorst, Grote Plas",
+  "name": "De Maashorst, Grote Plas",
+  "current_status": "goed",
+  "lat": 51.7295,
+  "lon": 5.6084,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943913,
+    5943916,
+    5943917,
+    5943891,
+    5943892,
+    5943927,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

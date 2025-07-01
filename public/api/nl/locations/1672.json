@@ -1,0 +1,27 @@
+{
+  "id": 1672,
+  "address": "Brouwersdam, Goedereede",
+  "placename": "Goedereede",
+  "description": "Zwemlocatie \u2018Goedereede, \u2019t Gorsje\u2019 is een van de stranden in de gemeente Goedereede (Provincie Zuid-Holland). De lezers van het Algemeen Dagblad hebben in 2007 Ouddorp uitgeroepen tot beste badplaats van Nederland. Mede vanwege de vele kilometers strand rondom Ouddorp. Zwemlocatie \u2019t Gorsje is ook een van deze stranden. Het strandgedeelte van \u2019t Gorsje ligt tussen kilometerpaal 19.00 en 20.00. Op circa 3 km ten zuiden van \u2019t Gorsje ligt zwemlocatie Brouwersdam, ten noorden van de zwemlocatie zijn diverse strandopgangen, zoals het Vrijheidsduinpad en strandopgang De Vuurtoren.",
+  "photos": "01o_West-Nieuwland_12-13 v2_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "West Nieuwland",
+  "name": "West Nieuwland",
+  "current_status": "goed",
+  "lat": 51.7863,
+  "lon": 3.8633,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943927,
+    5943929,
+    5943931,
+    5943902,
+    5943903
+  ],
+  "warnings": []
+}

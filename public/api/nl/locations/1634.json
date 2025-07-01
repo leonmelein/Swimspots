@@ -1,0 +1,29 @@
+{
+  "id": 1634,
+  "address": "Drimmelen",
+  "placename": "Drimmelen",
+  "description": "De zwemlocatie \u2018Noordergat van de plomp, badstrand\u2019 ligt in het zuidwestelijke gedeelte van de\r\nBiesbosch. De zwemwaterlocatie is gelegen ten zuiden van het spaarbekken De Gijster.",
+  "photos": "NB-017-001 Noordergat van de Plomp.jpg",
+  "website": "https://biesbosch.nu",
+  "alternate_name": "Noordergat Van De Plomp",
+  "name": "Noordergat Van De Plomp, Badstrand",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 51.7196,
+  "lon": 4.7922,
+  "eu_designation": "1",
+  "e_coli": 700.0,
+  "int_ent": 270.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943892,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_ONVEILIGE_SITUATIE",
+      "warning_description": "Negatief zwemadvies i.v.m. gevaarlijke waterrecreatie in de zwemzone"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1433,
+  "address": "Lange Heide 9, Maasbree",
+  "placename": "Maasbree",
+  "description": "Omstreeks  1975  is  aan  de  Lange  Heide  in  Maasbree  een  recreatiepark  gesticht.  In \r\n1999 heeft een uitbreiding plaats gevonden. Bij  de  zwemplas  is  een  groot  zandstrand,  ligweide,  een  waterglijbaan  en  een  \u2018water-paddenstoel\u2019 aanwezig. De plas staat niet in verbinding met ander oppervlaktewater. In \r\ngeval  van  een  te  hoog  waterpeil  kan  water  uitgelaten  worden.",
+  "photos": "Camping Breebronne.JPG",
+  "website": null,
+  "alternate_name": "Dagstrand Camping Breebronne",
+  "name": "Dagstrand Camping Breebronne",
+  "current_status": "goed",
+  "lat": 51.3764,
+  "lon": 6.0614,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943911,
+    5943915,
+    5943897,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943932,
+    5943902
+  ],
+  "warnings": []
+}

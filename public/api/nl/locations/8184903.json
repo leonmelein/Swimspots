@@ -1,0 +1,29 @@
+{
+  "id": 8184903,
+  "address": "Bloemenksweg, Wilp",
+  "placename": "Wilp",
+  "description": "De recreatieplas Bussloo ligt temidden van de stedendriehoek Deventer, Apeldoorn en Zutphen.",
+  "photos": "GLD-004-013 BUSSLOO DE KUITER 2020.jpg",
+  "website": "http://www.leisurelands.nl/",
+  "alternate_name": "De Kuiter",
+  "name": "Bussloo De Kuiter (Naturistenstrand)",
+  "current_status": "goed",
+  "lat": 52.1959,
+  "lon": 6.0998,
+  "eu_designation": 0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943912,
+    5943913,
+    5943916,
+    5943917,
+    5943891,
+    5943892,
+    5943927,
+    5943929,
+    5943898
+  ],
+  "warnings": []
+}

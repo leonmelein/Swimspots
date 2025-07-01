@@ -1,0 +1,33 @@
+{
+  "id": 1424,
+  "address": "Leemringweg 19, Kraggenburg",
+  "placename": "Kraggenburg",
+  "description": "De zwemlocatie Netl Park is gelegen bij Kraggenburg in de Noordoostpolder. Het is een gegraven recreatieplas in een 48 ha gebied waarvan het grootste deel uit een wilde tuin bestaat en er globaal 2,5 ha aan waterpartijen liggen.",
+  "photos": "11 068 Bord Brennels Buiten DEF 2011.jpg",
+  "website": "http://www.netl.nl/",
+  "alternate_name": "Netl Park",
+  "name": "Netl Park",
+  "current_status": "goed",
+  "lat": 52.683,
+  "lon": 5.8834,
+  "eu_designation": "1",
+  "e_coli": 472.0,
+  "int_ent": 61.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943910,
+    5943915,
+    5943917,
+    5943897,
+    5943921,
+    5943891,
+    5943892,
+    5943926,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

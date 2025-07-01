@@ -1,0 +1,24 @@
+{
+  "id": 1368,
+  "address": "Uiterdijk, Kolhalm",
+  "placename": "Kolhalm",
+  "description": "De zwemlocatie Zwaneveldsgat is gelegen te Kolham. Kolham is een streekdorp op een zandrug. \r\n",
+  "photos": "GR-041-001 Recreatiezone Zwaneveldsgat.jpg",
+  "website": null,
+  "alternate_name": "Zwaneveldsgat",
+  "name": "Zwaneveldsgat, Kolham",
+  "current_status": "goed",
+  "lat": 53.1864,
+  "lon": 6.7395,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943891,
+    5943892,
+    5943929
+  ],
+  "warnings": []
+}

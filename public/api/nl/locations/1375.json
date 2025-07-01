@@ -1,0 +1,25 @@
+{
+  "id": 1375,
+  "address": "Strandweg, Lauwersoog",
+  "placename": "Lauwersoog",
+  "description": "De zwemlocaties Lauwersoog meerkoet en lepelaar liggen in het noordoostelijk gebied van het Lauwersmeer, aan het Nieuwe Robbengat en nabij het dorp Lauwersoog.",
+  "photos": "Recreatiezone Lauwersmeer_Lepelaar.jpg",
+  "website": null,
+  "alternate_name": "Lauwersmeer",
+  "name": "Lauwersmeer, Strand Lepelaar",
+  "current_status": "goed",
+  "lat": 53.4004,
+  "lon": 6.2126,
+  "eu_designation": "2",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943929
+  ],
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7961040,
+  "address": "Jongebuorren 5, Terherne",
+  "placename": "Terherne",
+  "description": "Het zwemwater ligt aan de westzijde van het dorp Terherne in de nabijheid van de Terhornstersluis, gemeente De Fryske Marren.",
+  "photos": null,
+  "website": null,
+  "alternate_name": "Terherne",
+  "name": "Terherne",
+  "current_status": "NEGATIEF_ZWEMADVIES",
+  "lat": 53.0389,
+  "lon": 5.7662,
+  "eu_designation": "4",
+  "e_coli": 160.0,
+  "int_ent": 50.0,
+  "amenities": [
+    5943930,
+    5943891
+  ],
+  "warnings": [
+    {
+      "warning_type": "ONTRADEN_KWALITEIT",
+      "warning_description": null
+    }
+  ]
+}

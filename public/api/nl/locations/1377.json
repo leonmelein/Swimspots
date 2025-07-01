@@ -1,0 +1,27 @@
+{
+  "id": 1377,
+  "address": "De Rug, Lauwersoog",
+  "placename": "Lauwersoog",
+  "description": "De zwemlocatie Suyderoogh ligt aan een vijver in het recreatiepark Suyderoogh nabij Lauwersoog",
+  "photos": "GR-033-001 Recreatiezone Suyderoogh.jpg",
+  "website": null,
+  "alternate_name": "Suyderoogh, Lauwersoog",
+  "name": "Suyderoogh, Lauwersoog",
+  "current_status": "goed",
+  "lat": 53.3875,
+  "lon": 6.2158,
+  "eu_designation": "1",
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943905,
+    5943907,
+    5943913,
+    5943891,
+    5943892,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

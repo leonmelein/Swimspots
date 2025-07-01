@@ -1,0 +1,30 @@
+{
+  "id": 1531,
+  "address": "Hoenzadrielsedijk, Maasdriel",
+  "placename": "Maasdriel",
+  "description": "De zwemlocatie ligt in de provincie Gelderland, gemeente Maasdriel, nabij de dorpskern Kerkdriel.",
+  "photos": "GLD-057-003 ZANDENMEREN WEST 2023.jpg",
+  "website": null,
+  "alternate_name": "De Zandmeren West",
+  "name": "De Zandmeren West",
+  "current_status": "goed",
+  "lat": 51.7636,
+  "lon": 5.3477,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943904,
+    5943907,
+    5943911,
+    5943913,
+    5943914,
+    5943929,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}

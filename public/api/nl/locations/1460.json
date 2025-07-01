@@ -1,0 +1,28 @@
+{
+  "id": 1460,
+  "address": "Valgenweg, Termunter",
+  "placename": "Termunter",
+  "description": "Het Termunterzijl Strand bij Termunterzijl ligt in de Eems-Dollard estuarium waar de Waddenzee over \r\ngaat in de Dollard/Eems. Het water van de Eems-Dollard is zout omdat het in open verbinding staat met de Waddenzee. Het aan de zwemlocatie grenzende land is vooral in gebruik als recreatiegebied (camping en \r\nrecreatiehuisjes/hutjes). Deze zwemwaterlocatie is ingedeeld in de kwaliteitsklasse \u201cslecht\u201d en heeft daardoor een negatief zwemadvies. Een kwaliteitsklasse wordt bepaald op basis van bacteriologisch onderzoek over een periode van vier jaar in de indeling, \u201cuitstekend\u201d, \u201cgoed\u201d, \u201caanvaardbaar\u201d of \u201cslecht\u201d. Dit zegt iets over de kans op het krijgen van huid-, maag- of darmklachten. Bij \"slecht\" is de kans dus groter dan bij \"uitstekend\". Dit gaat niet over de actuele kwaliteit van het water. Als daar iets mee aan de hand is, wordt dat hier ter plekke aangegeven.",
+  "photos": "GR-039-001 Recreatiezone Zeestrand Termunten.jpg",
+  "website": null,
+  "alternate_name": "Zeestrand Termunten",
+  "name": "Zeestrand Termunten",
+  "current_status": "goed",
+  "lat": 53.3026,
+  "lon": 7.0309,
+  "eu_designation": "4",
+  "e_coli": 30.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943913,
+    5943929,
+    5943891,
+    5943892,
+    5943927,
+    5943897,
+    5943898,
+    5943903
+  ],
+  "warnings": []
+}

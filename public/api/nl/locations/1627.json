@@ -1,0 +1,25 @@
+{
+  "id": 1627,
+  "address": "Haringvlietbrug, Comstrijen",
+  "placename": "Comstrijen",
+  "description": "Het strand aan de noordwestkant van de Haringvlietbrug ligt langs de westkant van de A29 over het \r\nHaringvliet. Het strand ligt in een soort kom die gevormd wordt door een strekdam ten westen van de \r\nbrug en ten zuiden van het strand.",
+  "photos": "02g Haringvlietbrug West_Pagina_1.jpg",
+  "website": null,
+  "alternate_name": "Haringvlietbrug West",
+  "name": "Haringvlietbrug West",
+  "current_status": "goed",
+  "lat": 51.7218,
+  "lon": 4.4032,
+  "eu_designation": "3",
+  "e_coli": 61.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943923,
+    5943892,
+    5943929,
+    5943898,
+    5943931
+  ],
+  "warnings": []
+}

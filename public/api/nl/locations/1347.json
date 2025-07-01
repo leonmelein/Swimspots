@@ -1,0 +1,31 @@
+{
+  "id": 1347,
+  "address": "Zandlust, Tynaarlo",
+  "placename": "Tynaarlo",
+  "description": "De zwemlocatie Natuurbad is gelegen in Tynaarlo. De zwemlocatie Natuurbad Tynaarlo is een ge\u00efsoleerde plas met een \r\ntotale oppervlakte van ca. 3.15 hectare en een maximale diepte van circa 5 meter. De zwemplas is alleen toegankelijk voor inwoners van het dorp Tynaarlo en hun gasten.",
+  "photos": "Recreatiezone_Natuurbad_Tynaarlo.jpg",
+  "website": null,
+  "alternate_name": "Natuurbad Tynaarlo",
+  "name": "Natuurbad Tynaarlo",
+  "current_status": "WAARSCHUWING",
+  "lat": 53.0813,
+  "lon": 6.6228,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943891,
+    5943898,
+    5943895,
+    5943896,
+    5943929,
+    5943930
+  ],
+  "warnings": [
+    {
+      "warning_type": "WAARSCHUWING_BLAUWALG",
+      "warning_description": null
+    }
+  ]
+}

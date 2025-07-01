@@ -1,0 +1,27 @@
+{
+  "id": 1675,
+  "address": "Zwarteweg, Heemskerk",
+  "placename": "Heemskerk",
+  "description": "Het zandstrand Zwarte Weg ligt vier kilometer van de dichtstbijzijnde parkeergelegenheid. Het is via de duinen bereikbaar via \u00e9\u00e9n opgang. Er is een strandpaviljoen.",
+  "photos": "NH-008-001.PNG",
+  "website": "http://www.heemskerk.nl",
+  "alternate_name": "Heemskerk",
+  "name": "Heemskerk",
+  "current_status": "goed",
+  "lat": 52.5237,
+  "lon": 4.5966,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943905,
+    5943906,
+    5943912,
+    5943913,
+    5943914,
+    5943890,
+    5943927,
+    5943902
+  ],
+  "warnings": []
+}

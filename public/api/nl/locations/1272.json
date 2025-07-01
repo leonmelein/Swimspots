@@ -1,0 +1,31 @@
+{
+  "id": 1272,
+  "address": "Buivensedreef, Eersel",
+  "placename": "Eersel",
+  "description": "Het E3-strand ligt in de gemeente Eersel en is gelegen naast de A67 te Eersel.",
+  "photos": null,
+  "website": "https://E3strand.nl",
+  "alternate_name": "E-3 Strand",
+  "name": "E-3 Strand (Lob 2)",
+  "current_status": "goed",
+  "lat": 51.3827,
+  "lon": 5.3363,
+  "eu_designation": 0,
+  "e_coli": 0.0,
+  "int_ent": 0.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943915,
+    5943916,
+    5943917,
+    5943892,
+    5943898,
+    5943927,
+    5943897,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

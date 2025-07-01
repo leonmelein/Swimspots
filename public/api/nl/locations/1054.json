@@ -1,0 +1,31 @@
+{
+  "id": 1054,
+  "address": "Kurenpolder 31, Hank",
+  "placename": "Hank",
+  "description": "Kurenpolder Zwemplas is een plas ten zuidwesten van Hank. De plas is ongeveer 35 ha groot. Er is een groot zandstrand met een ligweide. ",
+  "photos": "NB-028-001 De Kurenpolder.jpg",
+  "website": "http://www.kurenpolder.nl",
+  "alternate_name": "Kurenpolder, Zwemplas",
+  "name": "Kurenpolder, Zwemplas",
+  "current_status": "goed",
+  "lat": 51.7286,
+  "lon": 4.8824,
+  "eu_designation": "1",
+  "e_coli": 140.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943910,
+    5943911,
+    5943915,
+    5943897,
+    5943923,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

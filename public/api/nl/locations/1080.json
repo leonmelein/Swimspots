@@ -1,0 +1,32 @@
+{
+  "id": 1080,
+  "address": "De Heygraeff 2, Woudenberg",
+  "placename": "Woudenberg",
+  "description": "Houd  zich aan de RIVM maatregelen!\r\n\r\nHet Henschotermeer is gelegen ten noorden van Maarn. Het meer is vrijwel compleet omringd door een zandstrand. Aan de noordzijde is een stuk begroeid met gras. De zwemzone omvat de gehele plas en heeft daarmee een oppervlak van 11,4 hectare. De maximale diepte is 2.00 m. Zwemmen is op eigen risico, op warmere dagen is er toezicht aanwezig. Toegang: Persoonstoegang & parkeertarief via online boeking. In het zwemwater van het Henschotermeer zijn wormpjes waargenomen. Het gaat om het bloedzuigertje Erpobdella octoculata. Deze kleine wormpjes zijn geheel onschuldig en familie van de \u2018normale\u2019 regenworm. Ze zuigen ook geen bloed, ondanks dat hun soortnaam anders doet vermoeden. Deze \u2018bloedzuigertjes\u2019 leven van algen en plankton. De beestjes zitten al jaren in het Henschotermeer maar in warme periode zijn ze in grotere getale aanwezig. Ze zijn totaal ongevaarlijk voor mensen.",
+  "photos": "PU-002-002 Henschotermeer.jpg",
+  "website": "http://www.henschotermeer.nl",
+  "alternate_name": "Henschotermeer Zuid",
+  "name": "Henschotermeer (Zuidzijde), Woudenberg",
+  "current_status": "goed",
+  "lat": 52.0797,
+  "lon": 5.3746,
+  "eu_designation": "1",
+  "e_coli": 46.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943911,
+    5943915,
+    5943916,
+    5943897,
+    5943921,
+    5943892,
+    5943893,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

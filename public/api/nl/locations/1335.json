@@ -1,0 +1,24 @@
+{
+  "id": 1335,
+  "address": "Veendiepsweg, Bellingwolde",
+  "placename": "Bellingwolde",
+  "description": "De Veendiepplassen zijn gelegen in Bellingwolde, een dorp in de gemeente Bellingwedde. De zwemlocatie Veendiepplassen heeft sterk het karakter van een natuurgebied. Het betreft een \r\nge\u00efsoleerde plas waarbij een klein strandje is aangelegd. De zwemzone is niet weergegeven en ook \r\nvoorzieningen als toilet, douche en speeltoestellen ontbreken. De plas is omgeven door een \r\nbosrijk natuurgebied.",
+  "photos": "GR-034-002 Recreatiezone Veendiepplassen 1.jpg",
+  "website": null,
+  "alternate_name": "Veendiepplassen",
+  "name": "Veendiepplassen, Bellingwolde",
+  "current_status": "goed",
+  "lat": 53.0882,
+  "lon": 7.1538,
+  "eu_designation": "1",
+  "e_coli": 30.0,
+  "int_ent": 93.0,
+  "amenities": [
+    5943905,
+    5943911,
+    5943913,
+    5943892,
+    5943929
+  ],
+  "warnings": []
+}

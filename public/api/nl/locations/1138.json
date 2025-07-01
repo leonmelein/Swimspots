@@ -1,0 +1,28 @@
+{
+  "id": 1138,
+  "address": "Veilingweg, Stede Broec",
+  "placename": "Stede Broec",
+  "description": "Ten noorden van de gemeente Stede Broec ligt het natuur- en recreatiegebied het Streekbos. Het recreatiegebied bestaat voor een groot deel uit bos. In het gebied liggen vele slootjes en vaarten. De \r\nzwemplas ligt in het zuidwestelijk deel van het bos. Langs het zwemwater is een zandstrand aangelegd. Hier zijn de meeste voorzieningen.",
+  "photos": "Het Streekbos.PNG",
+  "website": null,
+  "alternate_name": "Streekbos",
+  "name": "Streekbos",
+  "current_status": "goed",
+  "lat": 52.711,
+  "lon": 5.2521,
+  "eu_designation": "1",
+  "e_coli": 61.0,
+  "int_ent": 30.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943897,
+    5943891,
+    5943927,
+    5943929,
+    5943898,
+    5943900,
+    5943901
+  ],
+  "warnings": []
+}

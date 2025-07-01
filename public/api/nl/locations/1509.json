@@ -1,0 +1,22 @@
+{
+  "id": 1509,
+  "address": "Koeweg, Dirksland",
+  "placename": "Dirksland",
+  "description": "De zwemlocatie Slikken van Flakkee ligt op het eiland Goeree-Overflakkee tussen Goedereede en Herkingen. Het zwemstrand kenmerkt zich als een smal zandstrand met een ligweide. Aan de westzijde wordt de locatie begrensd door het Grevelingenmeer. Aan de oostzijde bevindt zich natuurgebied Slikken van Flakkee.",
+  "photos": "04c_Slikken_van_Flakkee.jpg",
+  "website": null,
+  "alternate_name": "Slikken Van Flakkee",
+  "name": "Slikken Van Flakkee",
+  "current_status": "goed",
+  "lat": 51.75,
+  "lon": 4.0191,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943898,
+    5943923,
+    5943892
+  ],
+  "warnings": []
+}

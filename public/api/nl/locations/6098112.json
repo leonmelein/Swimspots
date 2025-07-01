@@ -1,0 +1,27 @@
+{
+  "id": 6098112,
+  "address": "Westlaan, Velserbroek",
+  "placename": "Velserbroek",
+  "description": "Villa Westend, Westbroekplas",
+  "photos": "Villa Westend.PNG",
+  "website": null,
+  "alternate_name": "Villa Westend",
+  "name": "Villa Westend",
+  "current_status": "goed",
+  "lat": 52.4246,
+  "lon": 4.6725,
+  "eu_designation": "3",
+  "e_coli": 140.0,
+  "int_ent": 46.0,
+  "amenities": [
+    5943906,
+    5943907,
+    5943911,
+    5943913,
+    5943929,
+    5943927,
+    5943897,
+    5943930
+  ],
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1552,
+  "address": "Gooimeerdijk-West, Almere",
+  "placename": "Almere",
+  "description": "Zwemstrand Almere Haven ligt buitendijks bij Almere Haven. De locatie ligt aan het Gooimeer, maar door een eiland voor het strand is het waterdeel redelijk afgesloten. Het heeft een groot zandstrand van gemiddeld 50 meter breed dat omgeven is door bomen en struiken. Tussen de struiken bevinden zich enkele stukjes ligweide. Het eiland ligt 100-200 meter van het strand af en is een groen rustgebied voor vogels.",
+  "photos": "Zwemstrand_Haven[1] 2010.jpg",
+  "website": "http://www.almere.nl/",
+  "alternate_name": "Zwemstrand Almere",
+  "name": "Zwemstrand Almere",
+  "current_status": "goed",
+  "lat": 52.3328,
+  "lon": 5.2114,
+  "eu_designation": "1",
+  "e_coli": 15.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943907,
+    5943895,
+    5943917,
+    5943921,
+    5943891,
+    5943892,
+    5943898,
+    5943927,
+    5943929,
+    5943930,
+    5943902
+  ],
+  "warnings": []
+}

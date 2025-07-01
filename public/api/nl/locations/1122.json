@@ -1,0 +1,26 @@
+{
+  "id": 1122,
+  "address": "Lagendijk, Uitgeest",
+  "placename": "Uitgeest",
+  "description": "Het   Zwaansmeer   ligt   ten oosten van Uitgeest. De plas, die zo'n 3 ha groot is, is door een smalle strook land gescheiden van het Uitgeestermeer.Op korte afstand van het Zwaansmeer liggen twee jachthavens.",
+  "photos": "NH-043-201.PNG",
+  "website": null,
+  "alternate_name": "Zwaansmeer",
+  "name": "Zwaansmeer",
+  "current_status": "goed",
+  "lat": 52.5278,
+  "lon": 4.73,
+  "eu_designation": "2",
+  "e_coli": 110.0,
+  "int_ent": 15.0,
+  "amenities": [
+    5943906,
+    5943913,
+    5943891,
+    5943927,
+    5943929,
+    5943898,
+    5943900
+  ],
+  "warnings": []
+}
