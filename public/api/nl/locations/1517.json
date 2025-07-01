@@ -7,11 +7,11 @@
   "website": null,
   "alternate_name": "Wolphaartsdijk Schelphoek",
   "name": "Wolphaartsdijk Schelphoek Badstrand",
-  "current_status": "goed",
+  "current_status": "WAARSCHUWING",
   "lat": 51.5425,
   "lon": 3.7993,
   "eu_designation": "1",
-  "e_coli": 15.0,
+  "e_coli": 30.0,
   "int_ent": 15.0,
   "amenities": [
     5943906,

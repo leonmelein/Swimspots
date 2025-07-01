@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Valkenburgse Meer",
   "name": "Valkenburgse Meer",
-  "current_status": "ZWEMVERBOD",
+  "current_status": "goed",
   "lat": 52.1586,
   "lon": 4.4422,
   "eu_designation": "1",
-  "e_coli": 0.0,
-  "int_ent": 0.0,
+  "e_coli": 15.0,
+  "int_ent": 15.0,
   "amenities": [
     5943907,
     5943923,
@@ -20,10 +20,5 @@
     5943929,
     5943930
   ],
-  "warnings": [
-    {
-      "warning_type": "VERBOD_ONVEILIGE_SITUATIE",
-      "warning_description": "LET OP: Door het onlangs deels wegzakken van de kade, geldt een noodverordening in het gebied rondom het Valkenburgse meer. Het is nog niet bekend wanneer en of het gebied, inclusief de offici\u00eble zwemlocatie, opengesteld wordt. Zolang het gebied niet betreden mag worden, wordt het zwemwater ook niet bemonsterd. Er zijn dus geen recente meetgegevens bekend.   Overtreding van een noodverordening is op grond van artikel 443 Wetboek van Strafrecht een strafbaar feit, waarop een gevangenisstraf is gesteld van ten hoogste drie maanden of een geldboete van de tweede categorie (\u20ac 4.350,-).  Meer informatie over de ontwikkelingen rondom het Valkenburge Meer: https://www.zuid-holland.nl/actueel/nieuws/april-2025/ontwikkelingen-rondom-valkenburgse/"
-    }
-  ]
+  "warnings": []
 }

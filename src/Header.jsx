@@ -1,22 +1,24 @@
+import { Link } from "react-router-dom"
+import Icon from '@mdi/react';
+import { mdiMagnify } from '@mdi/js';
 import './Header.css'
-import logo from './assets/logo.svg'
 
-import { Link } from "react-router-dom";
+export function Header(){
 
-function Header() {
     return (
-        <>
-            <div id="header">
-                <div className="title container">
-                    <Link to={"/"} >
-                        <img className="logo" src={logo} title='Swimspots'/>
-                        <h1>Swimspots</h1>
-                    </Link>
-                </div>
+        <header>
+            <div className="title">
+                <h1>
+                    <Link to="/">🏊 Swimspots</Link>
+                </h1>
             </div>
-        </>
+            <nav>
+                <ul>
+                    <Link to={"/add"}>
+                        <Icon size={1} path={mdiMagnify} />
+                    </Link>
+                </ul>
+            </nav>
+        </header>
     )
 }
-
-
-export default Header

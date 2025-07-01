@@ -1,0 +1,9 @@
+h2 {
+    color: var(--brand);
+}
+
+div.attribution {
+    text-align: center;
+    color: var(--button-click);
+    font-style: italic;
+}

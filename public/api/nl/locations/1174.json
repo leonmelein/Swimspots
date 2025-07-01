@@ -7,11 +7,11 @@
   "website": null,
   "alternate_name": "Haarlemmermeerse Bos Zuidstrand",
   "name": "Haarlemmermeerse Bos Zuidstrand",
-  "current_status": "goed",
+  "current_status": "NEGATIEF_ZWEMADVIES",
   "lat": 52.3251,
   "lon": 4.6709,
   "eu_designation": "2",
-  "e_coli": 61.0,
+  "e_coli": 350.0,
   "int_ent": 15.0,
   "amenities": [
     5943906,

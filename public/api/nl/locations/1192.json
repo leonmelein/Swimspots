@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Madestein Noord",
   "name": "Plassen Madestein, Noordzijde",
-  "current_status": "NEGATIEF_ZWEMADVIES",
+  "current_status": "WAARSCHUWING",
   "lat": 52.0388,
   "lon": 4.2246,
   "eu_designation": "2",
-  "e_coli": 46.0,
-  "int_ent": 30.0,
+  "e_coli": 30.0,
+  "int_ent": 15.0,
   "amenities": [
     5943907,
     5943892,
@@ -20,10 +20,5 @@
     5943930,
     5943902
   ],
-  "warnings": [
-    {
-      "warning_type": "ONTRADEN_BLAUWALG",
-      "warning_description": null
-    }
-  ]
+  "warnings": []
 }

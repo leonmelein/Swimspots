@@ -7,12 +7,12 @@
   "website": null,
   "alternate_name": "Vleyen",
   "name": "De Vleyen",
-  "current_status": "WAARSCHUWING",
+  "current_status": "NEGATIEF_ZWEMADVIES",
   "lat": 53.4486,
   "lon": 5.779,
   "eu_designation": "3",
-  "e_coli": 50.0,
-  "int_ent": 30.0,
+  "e_coli": 140.0,
+  "int_ent": 60.0,
   "amenities": [
     5943907,
     5943911,
@@ -25,10 +25,5 @@
     5943930,
     5943902
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": null
-    }
-  ]
+  "warnings": []
 }

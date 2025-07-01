@@ -7,7 +7,7 @@
   "website": null,
   "alternate_name": "Natuurbad Tynaarlo",
   "name": "Natuurbad Tynaarlo",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 53.0813,
   "lon": 6.6228,
   "eu_designation": "1",
@@ -22,10 +22,5 @@
     5943929,
     5943930
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": null
-    }
-  ]
+  "warnings": []
 }

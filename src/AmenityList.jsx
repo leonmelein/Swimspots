@@ -87,18 +87,19 @@ const amenity_mapping = new Map([
     [5943932, [line, "Drijflijn"]],
 ]);
 
-function AmenityList({amenities}){
-    if (amenities == null){
+export function AmenityList({ amenities }) {
+    if (amenities == null) {
         return null;
     }
 
     return (
         <ul className='result-amenities'>
-            {amenities.map(element => { 
+            {amenities.map(element => {
                 let item = amenity_mapping.get(element);
-                return  <li key={crypto.randomUUID()}>
-                            <img key={crypto.randomUUID()} src={item[0]} title={item[1]} />
-                        </li> })}
+                return <li key={element}>
+                    <img key={element} src={item[0]} title={item[1]} />
+                </li>
+            })}
         </ul>
     )
 }
@@ -106,5 +107,3 @@ function AmenityList({amenities}){
 AmenityList.propTypes = {
     amenities: PropTypes.array
 }
-
-export default AmenityList

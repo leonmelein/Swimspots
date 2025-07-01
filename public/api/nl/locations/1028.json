@@ -7,7 +7,7 @@
   "website": "http://www.leisurelands.nl/",
   "alternate_name": "Hambroek",
   "name": "Hambroekplas",
-  "current_status": "WAARSCHUWING",
+  "current_status": "goed",
   "lat": 52.1157,
   "lon": 6.5409,
   "eu_designation": "2",
@@ -26,10 +26,5 @@
     5943897,
     5943898
   ],
-  "warnings": [
-    {
-      "warning_type": "WAARSCHUWING_BLAUWALG",
-      "warning_description": "Waarschuwing voor blauwalgen. Kans op huidirritatie en maag-/darmklachten."
-    }
-  ]
+  "warnings": []
 }

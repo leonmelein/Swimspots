@@ -1,18 +1,15 @@
+
+
 .searchbar {
     all: unset;
     width: 100%;
     margin: auto;
     padding-bottom: 1em;
-    margin-bottom: 1em;
     display: block;    
     height: 4rem;
-    background: white;
     box-sizing: border-box;
-    padding-left: 1em;
-    padding-right: 1em;
     color: black;
-    background-color: var(--brand);
-
+    
     .searchInput {
         margin: auto;
         display: flex;
@@ -21,13 +18,17 @@
 
         height: 100%;
         width: 100%;
-        max-width: 800px;
+    }
+
+    form {
+        display: flex;
+        width: 100%;
     }
 
     input {
         all: unset;
         background-color: white;
-        padding-left: 1rem;
+        /* padding-left: 1rem; */
         height: 100%;
         display: flex;
         flex-direction: column;
@@ -37,14 +38,14 @@
     }
 
     #geoLocButton {
-        /* border-radius: 1em 0 0 1em; */
+        border-radius: 1em 0 0 1em;
         flex: 0.75;
         color: grey;
         background-color: white;
     }
 
     #searchButton {
-        /* border-radius: 0 1em 1em 0; */
+        border-radius: 0 1em 1em 0;
     }
 
     button {

@@ -11,8 +11,8 @@
   "lat": 52.9128,
   "lon": 5.7813,
   "eu_designation": "4",
-  "e_coli": 1500.0,
-  "int_ent": 370.0,
+  "e_coli": 290.0,
+  "int_ent": 110.0,
   "amenities": [
     5943906,
     5943907,
@@ -34,7 +34,7 @@
   "warnings": [
     {
       "warning_type": "ONTRADEN_KWALITEIT",
-      "warning_description": null
+      "warning_description": "Op 4 en 5 juli is de locatie gesloten in verband met het Beachrockers Festival. Van 27 juni t/m 4 juli en van 6 juli t/m 10 juli zijn de op- en afbouwwerkzaamheden voor het festival"
     }
   ]
 }
