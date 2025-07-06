@@ -7,7 +7,7 @@ export function Warning({warnings}) {
     
     return (
         <div className='warning'>
-            <h2>Waarschuwing</h2>
+            <h2>⚠️ Waarschuwing</h2>
             {warnings.map(item => {
                 return <p>{item.warning_description}</p>
             })}

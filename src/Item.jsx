@@ -1,10 +1,11 @@
 import './Item.css'
+import { useState } from 'react'
 import Icon from '@mdi/react';
-import { mdiBellOutline, mdiClose, mdiPlus } from '@mdi/js';
+import { mdiBellOutline, mdiCheck, mdiClose, mdiPlus, mdiPoolThermometer } from '@mdi/js';
 import { Link } from "react-router-dom";
 
 
-function Item({id, locationName, placename, current_status, search, addAction, delAction, refreshList}) { 
+function Item({id, locationName, placename, current_status, search, delAction, refreshList}) { 
 
     return (
         <>
@@ -12,19 +13,27 @@ function Item({id, locationName, placename, current_status, search, addAction, d
                 <div className='topRow'>
                     <div className='name'>
                         <h2 className="name">
-                            <Link to={"/location/" + id}>{locationName}</Link>
+                            <Link to={"/location/" + id} className='name'>{locationName}</Link>
                         </h2>
-                        <p>{placename}</p>
+                       
                     </div>
                     <div className='status'>
                         {current_status}
                     </div>
                 </div>
-                <div className='tools'>
-                    <AlertButton id={id} alertAction={delAction} refreshList={refreshList} search={search} />
-                    <DeleteButton id={id} delAction={delAction} refreshList={refreshList} search={search} />
-                    <AddButton id={id} addAction={addAction} refreshList={refreshList} search={search} />
+                <div className='bottomRow'>
+                    <p>{placename}</p>
+                    <div className='temp'>
+                        {/* <Icon size={1} path={mdiPoolThermometer} />
+                        <p className='temp'>
+                            20°C
+                        </p> */}
+                        <DeleteButton id={id} delAction={delAction} refreshList={refreshList} search={search} />
+                    </div>
                 </div>
+                {/* <div className='tools'>
+                    <DeleteButton id={id} delAction={delAction} refreshList={refreshList} search={search} />
+                </div> */}
                 
             </div>
         </>
@@ -34,7 +43,9 @@ function Item({id, locationName, placename, current_status, search, addAction, d
 
 export default Item
 
-function AddButton({ id, search, addAction, refreshList }) {
+function AddButton({ id, search, addAction }) {
+    const [icon, setIcon] = useState(mdiPlus)
+
     if (!search) {
         return;
     }
@@ -43,9 +54,9 @@ function AddButton({ id, search, addAction, refreshList }) {
         <>
             <button className="delete" onClick={(e) => {
                 addAction(id, e);
-                refreshList();
+                setIcon(mdiCheck);
             }}>
-                <Icon path={mdiPlus} size={1} />
+                <Icon path={icon} size={1} />
             </button>
         </>
     )
@@ -53,6 +64,7 @@ function AddButton({ id, search, addAction, refreshList }) {
 
 
 function DeleteButton({id, search, delAction, refreshList}){
+
     if (search) {
         return;
     }

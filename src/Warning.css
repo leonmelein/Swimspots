@@ -1,7 +1,15 @@
 div.warning {
-    background-color: var(--button);
-    color: black;
+    background-color: var(--quality-warning);
     border-radius: 1em;
-    padding: 1em 2em;
+    padding: 1em 1em;
     margin: 0.5em 0 0.5em 0;
+
+    h2, p {
+        margin: 0;
+    }
+
+    h2 {
+        color: var(--text);
+        margin-bottom: .25rem;
+    }
 }

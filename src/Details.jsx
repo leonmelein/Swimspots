@@ -6,9 +6,10 @@ import {
     Link
 } from "react-router-dom";
 import Icon from '@mdi/react';
-import { mdiArrowLeft } from '@mdi/js';
+import {mdiArrowLeft, mdiShare } from '@mdi/js';
 import { AmenityList } from './AmenityList'
 import { Warning } from "./Warning";
+import { statusBadge } from "./StatusBadge";
 
 export function Details(){
     const [data, setData] = useState({});
@@ -23,6 +24,16 @@ export function Details(){
             });
         
     }, [id]);
+
+    const shareData = {
+        title: data.name,
+        text: data.description,
+        url: "https://swimspots.eu/location/" + data.id,
+    };
+
+    async function share() {
+        await navigator.share(shareData);
+    }
 
     function generateStars(amount){
         console.log(amount);
@@ -51,8 +62,11 @@ export function Details(){
                 <title>{data.name}</title>
                 <div className='breadcrumb'>
                     <Link to="/">
-                        <Icon size={0.5} path={mdiArrowLeft} /> Terug naar favorieten
+                        <Icon size={1} path={mdiArrowLeft}/>
                     </Link>
+                    <a href="#" className="share" onClick={share}>
+                        <Icon size={1} path={mdiShare} />
+                    </a>
                 </div>
                 <div className="header">
                     <div className='topRow'>
@@ -63,24 +77,37 @@ export function Details(){
                             <p>{data.address}</p>
                         </div>
                         <div className='status'>
-                            {data.current_status}
+                            {statusBadge(data.current_status)}
                         </div>
-                    </div>
-                    <AmenityList amenities={data.amenities} />
-                    <div className="description">
-                        <p>{data.description}</p>
                     </div>
                 </div>
                 <Warning warnings={data.warnings} />
-                <div className="quality">
-                    <h3>Waterkwaliteit</h3>
-                    <ul>
-                        <li>Meerjarige kwaliteit: {generateStars(data.eu_designation)}</li>
-                        <li>E.Coli: {data.e_coli} <abbr title="nanogram per deciliter">n/dl</abbr></li>
-                        <li>Int. Enterococcen: {data.int_ent} <abbr title="nanogram per deciliter">n/dl</abbr></li>
-                    </ul>
-                    <em>Laatste update: {new Date().toDateString()}</em>
+
+                <div className="quality-container">
+                    <div class="quality">
+                        <h3>E.Coli</h3>
+                        <p className="number">{data.e_coli} <abbr title="nanogram per deciliter">n/dl</abbr></p>
+                    </div>
+
+                    <div class="quality">
+                        <h3>Enterococci</h3>
+                        <p className="number">{data.int_ent} <abbr title="nanogram per deciliter">n/dl</abbr></p>
+                    </div>
+
+                    <div class="quality">
+                        <h3>Meerjarige kwaliteit</h3>
+                        <p className="number">{generateStars(data.eu_designation)}</p>
+                    </div>
                 </div>
+
+                <div className="description">
+                    <h3>Over deze plek</h3>
+                    <p>{data.description}</p>
+                    
+                    <h4>Voorzieningen</h4>
+                    <AmenityList amenities={data.amenities} />
+                </div>
+
             </>
         )
     }

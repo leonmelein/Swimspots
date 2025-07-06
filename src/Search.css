@@ -1,3 +1,31 @@
 .breadcrumb {
     margin: 0 0 1rem 0;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: auto 8fr;
+    column-gap: 1rem;
+    align-items: center;
+    align-content: center;
+    height: 3rem;
+    justify-items: stretch;
+    justify-content: start;
+    margin-bottom: 1rem;
+
+    a {
+        height: 3rem;
+        /* vertical-align: middle; */
+        display: flex;
+        align-items: center;
+    }
+
+    div, div>* {
+        height: 3rem;
+        margin-bottom: 0;
+    }
+}
+
+.searchForm {
+    margin-top: 1rem;
+}

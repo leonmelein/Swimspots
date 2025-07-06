@@ -1,0 +1,11 @@
+.status-good {
+    color: var(--quality-good)
+}
+
+.status-warning {
+    color: var(--quality-warning)
+}
+
+.status-bad {
+    color: var(--quality-bad)
+}

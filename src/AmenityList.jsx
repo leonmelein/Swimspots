@@ -88,7 +88,7 @@ const amenity_mapping = new Map([
 ]);
 
 export function AmenityList({ amenities }) {
-    if (amenities == null) {
+    if (amenities == null || amenities.length == 0) {
         return null;
     }
 

@@ -12,7 +12,7 @@
             ],
             "name": "Chrome debug",
             "url": "http://localhost:5173",
-            "preLaunchTask": "npm: run dev"
+            "preLaunchTask": "npm: dev"
         }
     ]
 }

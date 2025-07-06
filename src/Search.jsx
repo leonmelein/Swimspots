@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import {Searchbar} from './Searchbar';
+import { Searchbar} from './Searchbar';
 import {SearchResults} from './SearchResults'
 import { addStoredLocation } from './data/LocalStorage';
 import { Link } from "react-router-dom";
@@ -13,7 +13,7 @@ import './Search.css'
 
 export function Search() {
     const [data, setData] = useState([]);
-    const [locating, setLocating] = useState(false);
+    const [, setLocating] = useState(false);
     const [searchResults, setSearchResults] = useState(data);
     const searchHandler = textSearch(data);
 
@@ -22,6 +22,8 @@ export function Search() {
     }, []);
 
     function submit(formData) {
+        setSearchResults([])
+
         let query = formData.get("searchbar");
 
         if (query.length > 1) {
@@ -58,13 +60,15 @@ export function Search() {
     return (
         <>
             <title>Zoeken | Swimspots</title>
-            <div className='breadcrumb'>
-                <Link to="/">
-                    <Icon size={0.5} path={mdiArrowLeft} /> Terug naar favorieten
-                </Link>
+            <div className='searchForm'>
+                <div className='grid'>
+                    <Link to="/">
+                        <Icon size={1} path={mdiArrowLeft} />
+                    </Link>
+                    <Searchbar searchAction={submit} geolocateAction={geolocate} />
+                </div>
+                <SearchResults searchResults={searchResults} addLocation={addLocation} />
             </div>
-            <Searchbar searchAction={submit} geolocateAction={geolocate}/>
-            <SearchResults searchResults={searchResults} addLocation={addLocation} />
         </>
     )
 }

@@ -1,7 +1,6 @@
 import './App.css'
 import { Details } from './Details';
 import { Favorites } from './Favorites';
-import { Header } from './Header';
 import { Search } from './Search'
 import {
     Routes,
@@ -12,7 +11,6 @@ import {
 export default function App() {
     return (
         <>
-            <Header />
             <Routes>
                 <Route path="/" element={<Favorites />} />
                 <Route path="add" element={<Search />} />

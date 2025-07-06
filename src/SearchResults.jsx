@@ -1,4 +1,4 @@
-import Item from './Item'
+import SearchResult from './SearchResult'
 import './SearchResults.css'
 
 export function SearchResults({searchResults, addLocation}){
@@ -18,9 +18,7 @@ export function SearchResults({searchResults, addLocation}){
             <div>
                 {searchResults.map(item => {
                     if (item != undefined) {
-                        return <Item key={item.id} id={item.id} locationName={item.name} placename={item.placename} current_status={item.current_status}
-                            addAction={() => addLocation(item.id)} refreshItems={console.log("pass")} search={true}
-                        />
+                        return <SearchResult key={item.id} id={item.id} locationName={item.name} placename={item.placename} current_status={item.current_status} addAction={() => addLocation(item.id)} />
                     }
                 })}
             </div>
