@@ -3,7 +3,7 @@ import Icon from '@mdi/react';
 import { mdiMagnify, mdiCrosshairsGps } from '@mdi/js';
 
 
-export function Searchbar({searchAction, geolocateAction}){
+export default function Searchbar({searchAction}){
     return (
         <>
             <div>
