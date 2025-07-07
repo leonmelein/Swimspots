@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import Searchbar from './Searchbar';
+import Searchbar from './SearchBar';
 import {SearchResults} from './SearchResults'
 import { addStoredLocation } from './data/LocalStorage';
 import { Link } from "react-router-dom";
