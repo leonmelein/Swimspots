@@ -1,4 +1,4 @@
-import './Searchbar.css';
+import './SearchBar.css';
 import Icon from '@mdi/react';
 import { mdiMagnify, mdiCrosshairsGps } from '@mdi/js';
 
