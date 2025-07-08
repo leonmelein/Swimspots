@@ -52,17 +52,16 @@ export function Favorites(){
         return (
             <>
                 <Header />
-                    <div className="placeholder">
+                    <div className="placeholder card">
+                        <h2 className="tagline">Zoek een veilige zwemplek<br />in jouw buurt</h2>
+                        <p className="description">Gebaseerd op <a href="https://github.com/leonmelein/EUBathingWaterAPI" target="_blank">open data</a><br /> van zwemplekken in heel Europa</p>
+                        
                         <Link to="/add" className='addBtn'>
                             <div className='btnContent'>
                                 <Icon size={1} path={mdiPlus} />
                                 <h3>Voeg je eerste favoriet toe...</h3>
                             </div>
                         </Link>
-
-                        <h2 className="tagline">Zoek een veilige zwemplek<br />in jouw buurt</h2>
-                        <p className="description">Gebaseerd op <a href="https://github.com/leonmelein/EUBathingWaterAPI" target="_blank">open data</a><br /> van zwemplekken in heel Europa</p>
-                        
                     </div>
                 
             </>

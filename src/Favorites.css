@@ -18,7 +18,7 @@ div.attribution {
         text-decoration: none;
 
         .btnContent {
-            background-color: var(--button);
+            background-color: var(--button-hover);
             color: var(--text);
             padding: 1em;
             border-radius: 2rem;
@@ -26,11 +26,11 @@ div.attribution {
             grid-template-columns: auto 1fr;
             column-gap: .5rem;
             align-items: center;
-            justify-items: start;
+            justify-items: center;
 
             * {
                 margin: 0;
-               display: inline; 
+                display: inline; 
             }
         }
     }

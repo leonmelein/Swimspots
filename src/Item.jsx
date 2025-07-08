@@ -1,7 +1,7 @@
 import './Item.css'
 import { useState } from 'react'
 import Icon from '@mdi/react';
-import { mdiBellOutline, mdiCheck, mdiClose, mdiPlus, mdiPoolThermometer } from '@mdi/js';
+import { mdiBellOutline, mdiCheck, mdiClose, mdiPlus } from '@mdi/js';
 import { Link } from "react-router-dom";
 
 
@@ -23,18 +23,10 @@ function Item({id, locationName, placename, current_status, search, delAction, r
                 </div>
                 <div className='bottomRow'>
                     <p>{placename}</p>
-                    <div className='temp'>
-                        {/* <Icon size={1} path={mdiPoolThermometer} />
-                        <p className='temp'>
-                            20°C
-                        </p> */}
+                    <div className='tools'>
                         <DeleteButton id={id} delAction={delAction} refreshList={refreshList} search={search} />
                     </div>
                 </div>
-                {/* <div className='tools'>
-                    <DeleteButton id={id} delAction={delAction} refreshList={refreshList} search={search} />
-                </div> */}
-                
             </div>
         </>
         

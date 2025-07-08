@@ -3,6 +3,13 @@ header {
     grid-template-columns: 3fr 1fr;
     align-items: center;
 
+    h1, h1>a {
+        text-decoration: none;
+        color: var(--brand);
+        margin-top: 1rem;
+        margin-bottom: .75rem;
+    }
+
     nav {
         text-align: end;
         color: var(--brand);

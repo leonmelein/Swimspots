@@ -69,42 +69,39 @@ export function Details(){
                     </a>
                 </div>
                 <div className="header">
-                    <div className='topRow'>
-                        <div className='name'>
-                            <h2 className="name">
-                                {data.name}
-                            </h2>
-                            <p>{data.address}</p>
-                        </div>
-                        <div className='status'>
-                            {statusBadge(data.current_status)}
-                        </div>
+                    <div className='name'>
+                        <h2 className="name">
+                            {data.name}
+                        </h2>
+                        <p>{data.address}</p>
+                    </div>
+                    <div className='status'>
+                        {statusBadge(data.current_status)}
                     </div>
                 </div>
                 <Warning warnings={data.warnings} />
 
-                <div className="quality-container">
-                    <div class="quality">
+                <div className="quality">
+                    <div class="quality-item card">
                         <h3>E.Coli</h3>
                         <p className="number">{data.e_coli} <abbr title="nanogram per deciliter">n/dl</abbr></p>
                     </div>
 
-                    <div class="quality">
+                    <div class="quality-item card">
                         <h3>Enterococci</h3>
                         <p className="number">{data.int_ent} <abbr title="nanogram per deciliter">n/dl</abbr></p>
                     </div>
 
-                    <div class="quality">
+                    <div class="quality-item card">
                         <h3>Meerjarige kwaliteit</h3>
                         <p className="number">{generateStars(data.eu_designation)}</p>
                     </div>
                 </div>
 
-                <div className="description">
+                <div className="card description">
                     <h3>Over deze plek</h3>
                     <p>{data.description}</p>
                     
-                    <h4>Voorzieningen</h4>
                     <AmenityList amenities={data.amenities} />
                 </div>
 

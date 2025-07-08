@@ -93,14 +93,17 @@ export function AmenityList({ amenities }) {
     }
 
     return (
-        <ul className='result-amenities'>
-            {amenities.map(element => {
-                let item = amenity_mapping.get(element);
-                return <li key={element}>
-                    <img key={element} src={item[0]} title={item[1]} />
-                </li>
-            })}
-        </ul>
+        <>
+            <h4>Voorzieningen</h4>
+            <ul className='result-amenities'>
+                {amenities.map(element => {
+                    let item = amenity_mapping.get(element);
+                    return <li key={element}>
+                        <img key={element} src={item[0]} title={item[1]} />
+                    </li>
+                })}
+            </ul>
+        </>
     )
 }
 
