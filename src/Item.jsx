@@ -15,11 +15,8 @@ function Item({id, locationName, placename, current_status, search, delAction, r
                         <h2 className="name">
                             <Link to={"/location/" + id} className='name'>{locationName}</Link>
                         </h2>
-                       
                     </div>
-                    <div className='status'>
-                        {current_status}
-                    </div>
+                    <Status status={current_status}/>
                 </div>
                 <div className='bottomRow'>
                     <p>{placename}</p>
@@ -88,4 +85,30 @@ function AlertButton({id, search, alertAction, refreshList}){
             </button> 
         </>
     )
+}
+
+function Status({status}){
+    switch (status) {
+        case "goed":
+            return (
+                <div className='status'>Goed</div>
+            )
+
+        case "NADER_ONDERZOEK": 
+            return (
+                <div className='status'>Waarschuwing</div>
+            )
+
+        case "NEGATIEF_ZWEMADVIES": 
+            return (
+                <div className='status'>Waarschuwing</div>
+            )
+
+        case "ZWEMVERBOD":
+            return (
+                <div className='status'>Zwemverbod</div>
+            )
+        default:
+            break;
+    }
 }

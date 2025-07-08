@@ -9,7 +9,11 @@ div.warning {
     }
 
     h2 {
-        color: var(--text);
+        color: var(--headline);
         margin-bottom: .25rem;
     }
+}
+
+div.ban {
+    background-color: var(--quality-bad);
 }
