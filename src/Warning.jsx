@@ -9,22 +9,22 @@ export function Warning({warnings}) {
     
     return (
         <div>
-            {warnings.map(item => {
-                return <WarningMessage warning={item}/>
+            {warnings.map((item, index) => {
+                return <WarningMessage warning={item} key={index}/>
             })}
         </div>
     )
     
 }
 
-export function WarningMessage({warning}) {
+export function WarningMessage({warning, index}) {
     if (warning.warning_description == null) {
         return
     }
 
     if (String(warning.warning_type).includes("VERBOD")) {
         return (
-            <div className='warning ban'>
+            <div className='warning ban' key={index}>
                 <h2>🛑 Zwemverbod</h2>
                 <p>{warning.warning_description}</p>
             </div>

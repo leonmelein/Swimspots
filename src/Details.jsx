@@ -82,17 +82,17 @@ export function Details(){
                 <Warning warnings={data.warnings} />
 
                 <div className="quality">
-                    <div class="quality-item card">
+                    <div className="quality-item card">
                         <h3>E.Coli</h3>
                         <p className="number">{data.e_coli} <abbr title="nanogram per deciliter">n/dl</abbr></p>
                     </div>
 
-                    <div class="quality-item card">
+                    <div className="quality-item card">
                         <h3>Enterococci</h3>
                         <p className="number">{data.int_ent} <abbr title="nanogram per deciliter">n/dl</abbr></p>
                     </div>
 
-                    <div class="quality-item card">
+                    <div className="quality-item card">
                         <h3>Meerjarige kwaliteit</h3>
                         <p className="number">{generateStars(data.eu_designation)}</p>
                     </div>
